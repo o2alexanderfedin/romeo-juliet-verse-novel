@@ -33,20 +33,20 @@
 
 **Line-by-Line Structure**:
 
-1  (a-fem) Но я́рость да́ла си́лу — и Рома́н нанёс уда́р        [But fury gave strength — and Roman struck blow]
+1  (a-fem) Но я́рость да́ла си́лу — Рома́н взмахну́л всеси́льно        [But fury gave strength — Roman swung mightily]
 2  (B-masc) Тихо́н не ви́дел — сле́пнул пред яростью враг     [Tikhon saw not — blinded before fury of foe]
-3  (a-fem) Саблей в груди́ — клино́к вошёл — роково́й был жар [With saber in chest — blade entered — fatal was heat]
+3  (a-fem) Саблей в груди́ — клино́к вонзи́лся смерте́льно [With saber in chest — blade plunged mortally]
 4  (B-masc) Тихо́н оха́нул — сжался — покача́лся — и пал, как флаг [Tikhon gasped — clenched — swayed — and fell like flag]
 5  (c-fem) Он па́дал ме́дленно — все́ ви́дели паде́ние             [He fell slowly — all saw the fall]
 6  (c-fem) Снег при́нял те́ло — кра́сный след — убийство́       [Snow received body — red trace — murder]
-7  (D-masc) Рома́н стоя́л с саблёю — в ступо́ре застыл          [Roman stood with saber — in stupor froze] (VERIFY: syllable 8 stress)
-8  (D-masc) Враг мёртв — но по́беды нет — лишь жа́ра во зле́   [Enemy dead — but victory none — only heat in evil]
+7  (D-masc) Рома́н с саблёй стоя́л — в ступо́ре весь          [Roman with saber stood — in stupor all]
+8  (D-masc) Враг мёртв — но нет побед — лишь месть   [Enemy dead — but no victories — only vengeance]
 9  (e-fem) Что сде́лал я́? — прошло́ сквозь ум — в оцепене́нье  [What have I done? — passed through mind — in numbness]
-10 (F-masc) Убил — Тихо́н, Капуле́т — родня́ моя́               [Killed — Tikhon, Kapulet — kin of mine]
+10 (F-masc) Убил — Тихо́н, Капуле́т — роднóй мой я́д               [Killed — Tikhon, Kapulet — my kindred poison]
 11 (e-fem) Он ку́зен Ю́лии — наш та́йный бра́к — прокля́тье!    [He cousin of Yulia — our secret marriage — curse!]
-12 (F-masc) Убил род́ню жены́ — судьба́ сплела́ петлю́          [Killed wife's kin — fate wove noose]
-13 (G-masc) Меркурий мёртв — Тихо́н убит — двойна́я ги́бель   [Merkury dead — Tikhon killed — double destruction]
-14 (G-masc) Рома́н — уби́йца — в кро́ви рука́ — зло́ й зе́мли  [Roman — murderer — in blood the hand — evil of earth]
+12 (F-masc) Убил родню́ жены́ — тепе́рь мой взгля́д          [Killed wife's kin — now my gaze]
+13 (G-masc) Меркурий мёртв — Тихо́н убит — двойной есть грех   [Merkury dead — Tikhon killed — double is sin]
+14 (G-masc) Рома́н — уби́йца — в кро́ви рука́ — кончен век  [Roman — murderer — in blood the hand — ended age]
 
 ### Rhyme Pairs (100+ options per rhyme position)
 

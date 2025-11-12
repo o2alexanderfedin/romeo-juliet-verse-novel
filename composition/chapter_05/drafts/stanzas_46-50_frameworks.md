@@ -38,14 +38,14 @@
 3  (a-fem) Священник, что венчал их тайно — помнит лиха     [Priest, who wed them secretly — remembers troubles]
 4  (B-masc) Теперь ей нужен вновь — мольба на устах, стон   [Now she needs him again — plea on lips, moan]
 5  (c-fem) Лаврентий встретил — видел горе на лице            [Lavrentiy met her — saw grief on face]
-6  (c-fem) "Дочь моя! Что случилось?" — знал уже, без слов   [My daughter! What happened? — knew already, wordless]
-7  (D-masc) "Отец! Роман изгнан — завтра уйдёт навек          [Father! Roman exiled — tomorrow leaves forever]
-8  (D-masc) Мне нужно видеть мужа — последний раз, весь свет" [I need to see husband — last time, whole world] (VERIFY Line 8 stress)
+6  (c-fem) "Дочь моя! Что случилось?" — знал уже, вполне́   [My daughter! What happened? — knew already, completely]
+7  (D-masc) "Отец! Роман изгнан завтра навек          [Father! Roman exiled tomorrow forever]
+8  (D-masc) Дай видеть мужа мне навек!" [Let me see husband forever!]
 9  (e-fem) Лаврентий кивнул — понимал её боль сердечную      [Lavrentiy nodded — understood her heart's pain]
 10 (F-masc) "Здесь встретитесь — келья моя — ночь и тишь вкруг" [Here you'll meet — my cell — night and quiet around]
-11 (e-fem) "Приведу Романа — никто не узна́ет — встреча вечно" [I'll bring Roman — no one will know — meeting eternal]
+11 (e-fem) "Приведу Романа — никто не узна́ет — встреча та́йная" [I'll bring Roman — no one will know — meeting secret]
 12 (F-masc) "Благодарю, отец!" — Юлия ждёт — трепет, недуг   [Thank you, father! — Yulia waits — trembling, ailment]
-13 (G-masc) Лаврентий ушёл — искать Романа в тьме, мраке, дне [Lavrentiy left — to seek Roman in darkness, gloom, day]
+13 (G-masc) Лаврентий ушёл — искать Романа сквозь ночно́й мрак [Lavrentiy left — to seek Roman through night's darkness]
 14 (G-masc) Юлия одна — молилась — скоро муж — сердце в огне [Yulia alone — prayed — soon husband — heart aflame]
 
 ### Rhyme Pairs (100+ options per rhyme position)

@@ -39,12 +39,12 @@
 4  (B-masc) Ещё тепло́ — но дух исчез — вот смерти след   [Still warm — but spirit vanished — here death's sign]
 5  (c-fem) "Меркурий! Друг! Ты умер за меня́!              [Merkury! Friend! You died for me!]
 6  (c-fem) Моя́ вина́ — я́ в ду́эли встрял — судьба́ зла́"  [My guilt — I in duel intervened — fate cruel"]
-7  (D-masc) Слова́ Рома́на — стон души́ — не крик           [Words of Roman — moan of soul — not cry]
-8  (D-masc) А то́ихая му́ка, что разры́в в груди́ открыл   [But quiet torment, that tore in chest revealed] (VERIFY: syllable 8 stress "ткрыл")
-9  (e-fem) Он помнил: вме́шался — хоте́л разъедини́ть       [He remembered: intervened — wanted to separate]
+7  (D-masc) Слова́ Рома́на — сто́н души́, не зов           [Words of Roman — soul's moan, not call]
+8  (D-masc) А ти́хий пла́ч — разры́в основ   [But quiet cry — foundations' tear]
+9  (e-fem) Он помнил: вме́шался — их схва́тка была́ стра́шна  [He remembered: intervened — their fight was terrible]
 10 (F-masc) Хоте́л спасти́ — но помо́г убийце́ враг         [Wanted to save — but helped murderer-enemy]
-11 (e-fem) Тихо́н вонзи́л клино́к — пока́ Рома́н вла́ствовал [Tikhon thrust blade — while Roman held power]
-12 (F-masc) Меркурий пал — и вся вина́ — на нём одном висит [Merkury fell — and all guilt — on him alone hangs]
+11 (e-fem) Тихо́н вонзи́л клино́к — а по́мощь безопа́сна   [Tikhon thrust blade — and help was harmless]
+12 (F-masc) Меркурий пал — и вся вина́ — на нём — весь мра́к [Merkury fell — and all guilt — on him — all darkness]
 13 (G-masc) "Прости́ меня́!" — Рома́н к мертвецу́ приник    [Forgive me! — Roman to corpse clung]
 14 (G-masc) Но дру́г молчи́т — и ми́г блажен навек затих   [But friend silent — and blessed moment forever stilled]
 
