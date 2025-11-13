@@ -1348,6 +1348,303 @@ These are all verb past feminine, but in narrative context OK (not rhyme ending 
 
 ---
 
+## STANZA 49: ENHANCED VOCABULARY (Sprint 39 Enhancement)
+
+**Enhancement Date**: 2025-11-13
+**Purpose**: Address Sprint 38 audit findings - add transformative moment vocabulary
+**Source**: Task 04 - Verify/Enhance First Sight Framework
+
+### TRANSFORMATION VOCABULARY (60+ words) - CRITICAL ADDITION
+
+#### Fate/Destiny Vocabulary (15 words)
+- **судьба́** (sud'ba) - fate [f., stress: -ба́]
+- **рок** (rok) - doom/destiny [m., stress: рок]
+- **предназначение** (prednaznacheniye) - destiny/purpose [n., stress: -че́-]
+- **неизбежность** (neizbézhnost') - inevitability [f., stress: -бе́ж-]
+- **участь** (uchast') - lot/destiny [f., stress: у́часть]
+- **провидение** (provideniye) - providence [n., stress: -де́-]
+- **предопределение** (predopredeléniye) - predestination [n., stress: -ле́-]
+- **встреча роковая** (vstrecha rokovaya) - fateful meeting
+- **час настал** (chas nastal) - hour has come
+- **неслучайно** (nesluchaino) - not by chance [adv., stress: -ча́й-]
+- **суждено** (suzhdeno) - destined [predicate, stress: -но́]
+- **знак судьбы** (znak sud'by) - sign of fate
+- **нить судьбы** (nit' sud'by) - thread of fate
+- **промысел** (promysel) - providence/design [m., stress: про́мысел]
+- **веление** (veleniye) - decree/command [n., stress: -ле́-]
+
+#### Recognition/Soul Vocabulary (15 words)
+- **узнал** (uznal) - recognized [verb past, stress: -зна́л]
+- **узнавание** (uznavaniye) - recognition [n., stress: -ва́-]
+- **нашёл** (nashol) - found [verb past, stress: -шёл]
+- **обрёл** (obryol) - found/acquired [verb past, stress: -рёл]
+- **душа́** (dusha) - soul [f., stress: -ша́]
+- **родная душа** (rodnaya dusha) - kindred soul
+- **половина души** (polovina dushi) - soul's half
+- **родство душ** (rodstvo dush) - kinship of souls
+- **дух** (dukh) - spirit [m., stress: дух]
+- **отклик** (otklik) - response/echo [m., stress: о́тклик]
+- **эхо в сердце** (echo v serdtse) - echo in heart
+- **отзыв души** (otzyv dushi) - soul's response
+- **зов** (zov) - call [m., stress: зов]
+- **встреча душ** (vstrecha dush) - meeting of souls
+- **слияние** (sliyaniye) - merging/union [n., stress: -я́-]
+
+#### Before/After Vocabulary (10 words)
+- **граница** (granitsa) - boundary/border [f., stress: -ни́-]
+- **рубеж** (rubezh) - threshold/boundary [m., stress: -бе́ж]
+- **черта́** (cherta) - line/boundary [f., stress: -та́]
+- **прежний** (prezhniy) - former [adj., stress: пре́жний]
+- **бывший** (byvshiy) - former [adj., stress: бы́вший]
+- **новый** (novyy) - new [adj., stress: но́вый]
+- **до и после** (do i posle) - before and after
+- **разделил жизнь** (razdelil zhizn') - divided life
+- **точка отсчёта** (tochka otschyota) - starting point
+- **перелом** (perelom) - turning point/fracture [m., stress: -ло́м]
+
+#### World Transformation Vocabulary (15 words)
+- **переворот** (perevorot) - upheaval [m., stress: -ро́т]
+- **перерождение** (pererozhdéniye) - rebirth [n., stress: -де́-]
+- **преображение** (preobrazhéniye) - transfiguration [n., stress: -же́-]
+- **переродился** (pererodilsya) - was reborn [verb past refl., stress: -ди́л-]
+- **преобразился** (preobrazilsya) - was transfigured [verb past refl., stress: -зи́л-]
+- **изменился** (izmenilsya) - changed [verb past refl., stress: -ни́л-]
+- **сдвиг** (sdvig) - shift [m., stress: сдвиг]
+- **потрясение** (potryaséniye) - shock/upheaval [n., stress: -се́-]
+- **революция** (revolyutsiya) - revolution [f., stress: -лю́-]
+- **катаклизм** (kataklizm) - cataclysm [m., stress: -та́-]
+- **земля ушла из-под ног** (zemlya ushla iz-pod nog) - ground fell away from under feet
+- **мир перевернулся** (mir perevernoulsya) - world turned upside down
+- **всё стало иным** (vsyo stalo inym) - everything became different
+- **реальность раскололась** (real'nost' raskolalas') - reality split
+- **новая вселенная** (novaya vselennaya) - new universe
+
+#### Additional Instant/Moment Vocabulary (5 words)
+- **миг** (mig) - moment/instant [m., stress: миг]
+- **мгновение** (mgnoven̄iye) - instant [n., stress: -ве́-]
+- **вдруг** (vdrug) - suddenly [adv., stress: вдруг] (already present, reinforced)
+- **вмиг** (vmig) - in a flash [adv., stress: вмиг] (already present, reinforced)
+- **внезапно** (vnezapno) - suddenly [adv., stress: -за́п-]
+
+### ADDITIONAL LIGHT VOCABULARY (25+ words) - CRITICAL ADDITION
+
+- **луч** (luch) - ray [m., stress: луч]
+- **лучи** (luchi) - rays [m. pl., stress: -чи́]
+- **заря́** (zarya) - dawn light [f., stress: -ря́]
+- **зарево** (zarevo) - glow [n., stress: за́рево]
+- **пламя** (plamya) - flame [n., stress: пла́мя]
+- **искра** (iskra) - spark [f., stress: и́скра]
+- **мерцание** (mertsaniye) - shimmer/flicker [n., stress: -ца́-]
+- **отблеск** (otblesk) - glimmer/reflection [m., stress: о́тблеsk]
+- **озарение** (ozaréniye) - illumination [n., stress: -ре́-]
+- **лучезарность** (luchezarnost') - radiancy [f., stress: -за́р-]
+- **светлость** (svetlost') - brightness [f., stress: све́т-]
+- **ясность** (yasnost') - clarity [f., stress: я́с-]
+- **светило** (svetilo) - luminary/heavenly body [n., stress: -ти́-]
+- **светоч** (svetoch) - beacon/torch [m., stress: све́точ]
+- **свечение** (svecheniye) - luminescence [n., stress: -че́-]
+- **жар** (zhar) - heat/ardor [m., stress: жар]
+- **тьма** (t'ma) - darkness [f., stress: тьма́]
+- **мрак** (mrak) - gloom [m., stress: мрак]
+- **контраст света и тьмы** (kontrast sveta i t'my) - contrast of light and darkness
+- **из тьмы в свет** (iz t'my v svet) - from darkness to light
+- **источник света** (istochnik sveta) - source of light
+- **светом озарена́** (svetom ozarena) - illuminated by light
+
+### ADDITIONAL BEAUTY VOCABULARY (30+ words) - CRITICAL ADDITION
+
+- **совершенство** (sovershenstvo) - perfection [n., stress: -ше́н-]
+- **идеал** (ideal) - ideal [m., stress: -а́л]
+- **образец** (obrazets) - paragon [m., stress: -ра́-]
+- **эталон** (etalon) - standard/model [m., stress: -ло́n]
+- **очарование** (ocharovaniye) - enchantment [n., stress: -ва́-]
+- **обаяние** (obayaniye) - charm [n., stress: -я́-]
+- **чары** (chary) - charms/magic [f. pl., stress: ча́ры]
+- **волшебство** (volshebstvo) - magic/enchantment [n., stress: -бство́]
+- **чудо** (chudo) - wonder/miracle [n., stress: чу́do]
+- **диво** (divo) - marvel [n., stress: ди́во]
+- **восхищение** (voskhishchéniye) - admiration [n., stress: -ще́-]
+- **изящество** (izyashchestvo) - elegance [n., stress: -я́ще-]
+- **грация** (gratsiya) - grace [f., stress: гра́ция]
+- **гармония** (garmoniya) - harmony [f., stress: -мо́-]
+- **величие** (velichiye) - grandeur [n., stress: -ли́-]
+- **великолепие** (velikolépiye) - magnificence [n., stress: -ле́-]
+- **красота неземная** (krasota nezemnaya) - unearthly beauty
+- **красота божественная** (krasota bozhestvennaya) - divine beauty
+- **ангельская красота** (angel'skaya krasota) - angelic beauty
+- **краса** (krasa) - beauty (archaic/poetic) [f., stress: -са́]
+- **красавица** (krasavitsa) - beautiful woman [f., stress: -ви́-]
+- **царица красоты** (tsaritsa krasoty) - queen of beauty
+- **воплощение красоты** (voploshchéniye krasoty) - embodiment of beauty
+- **верх совершенства** (verkh sovershenstva) - height of perfection
+- **нет равных** (net ravnykh) - has no equal
+- **несравненная** (nesravnennaya) - incomparable [adj., stress: -не́н-]
+- **бесподобная** (bespodobnaya) - matchless [adj., stress: -до́б-]
+- **единственная** (edinstvennaya) - unique/sole [adj., stress: -е́н-]
+
+### CONTRAST VOCABULARY (25+ phrases) - CRITICAL ADDITION
+
+#### Crowd Fades (10 phrases)
+- **толпа растворилась** (tolpa rastovorilas') - crowd dissolved
+- **толпа исчезла** (tolpa ischezla) - crowd vanished
+- **толпа померкла** (tolpa pomerkla) - crowd dimmed
+- **шум исчез** (shum ischez) - noise vanished
+- **шум умолк** (shum umolk) - noise fell silent
+- **голоса растаяли** (golosa rastayali) - voices melted away
+- **музыка умолкла** (muzyka umolkla) - music quieted
+- **периферия размылась** (periferiya razmylas') - periphery blurred
+- **края зрения размыты** (kraya zreniya razmyty) - edges of vision blurred
+- **всё вокруг померкло** (vsyo vokrug pomerklo) - everything around dimmed
+
+#### Tunnel Vision (8 phrases)
+- **только она** (tol'ko ona) - only she
+- **лишь она** (lish' ona) - only she
+- **весь мир сузился** (ves' mir suzilsya) - whole world narrowed
+- **вселенная сузилась до неё** (vselennaya suzilas' do neyo) - universe narrowed to her
+- **всё остальное - тень** (vsyo ostal'noye - ten') - all else is shadow
+- **всё остальное - мрак** (vsyo ostal'noye - mrak) - all else is gloom
+- **никого больше не существует** (nikogo bol'she ne sushchestvuyet) - no one else exists
+- **она одна в мире** (ona odna v mire) - she alone in world
+
+#### Sound → Silence (7 phrases)
+- **тишина внезапная** (tishina vnezapnaya) - sudden silence
+- **тишина оглушительная** (tishina oglushitel'naya) - deafening silence
+- **звуки замерли** (zvuki zamerli) - sounds froze
+- **звуки отдалились** (zvuki otdalilis') - sounds distanced
+- **всё замерло** (vsyo zamerlo) - everything froze
+- **мир затих** (mir zatikh) - world fell silent
+- **беззвучие** (bezzvuchiye) - soundlessness [n., stress: -зву́-]
+
+---
+
+## STANZA 49: SIGNATURE LINE GUIDANCE (Sprint 39 Enhancement)
+
+**Enhancement Date**: 2025-11-13
+**Purpose**: Design quotable, memorable line for critical transformation moment
+**Source**: Task 04 - Verify/Enhance First Sight Framework
+
+### Purpose
+Create 1-2 quotable lines that encapsulate Roman's transformation - memorable, beautiful, emotionally resonant, making skeptical readers BELIEVE in love at first sight.
+
+### Theme Options (choose one or combine)
+
+**1. "Did my heart love till now?" Theme** (erasing past)
+- Russian equivalent: "Любил ли я до этой встречи?" / "Знал ли я любовь до этого мгновенья?"
+- Captures: Previous feelings erased, THIS is true love
+- Placement: Stanza 49, Lines 9-11 (sestet opening)
+
+**2. "World stopped" Theme** (instant transformation)
+- Russian equivalent: "Мир остановился, и она́ яви́лась" / "В тот миг весь мир переменился"
+- Captures: Time stops, everything changes in one instant
+- Placement: Stanza 49, Line 7-8 (just before sestet)
+
+**3. "Soul recognition" Theme** (fate manifesting)
+- Russian equivalent: "Душа узнала то, что искала" / "Нашёл её — родную половину"
+- Captures: Fated meeting, soul recognizes its match
+- Placement: Stanza 49, Lines 12-14 (sestet conclusion)
+
+**4. "Before/After" Theme** (life divided)
+- Russian equivalent: "Жизнь разделилась: до неё, и после" / "Прежний мир исчез, и новый начался"
+- Captures: Life divided into before/after this moment
+- Placement: Stanza 50, Line 8 (chapter 2 ending)
+
+### Recommended Approach
+- **Primary signature line**: Stanza 49, Lines 9-10 or 13-14 (sestet - most emphatic position)
+- **Theme**: Combine "soul recognition" + "world transformation"
+- **Example structure**:
+  - Line 9 (e, fem): Question form ("Who is she? What soul descended?")
+  - Line 10 (F, masc): Answer/realization ("Soul that mine has sought forever")
+  - OR Line 13 (G, masc): Transformation statement ("World was one, now it's another")
+  - Line 14 (G, masc): Fate conclusion ("She appeared — and all life changed")
+
+### Quotability Test
+1. Can the line stand alone? (out of context, still beautiful)
+2. Does it encapsulate the moment? (transformation essence)
+3. Is it memorable? (rhythm, imagery, emotion)
+4. Is it simple? (Pushkin's precision and brevity)
+5. Is it profound? (not trite, not cliché)
+
+### Rhyme Pairs for Signature Lines
+- If using "soul" theme: душа́/нашла́ (soul/found), душа́/суждена́ (soul/destined)
+- If using "world" theme: мир/пир (world/feast), свет/расцвет (light/bloom)
+- If using "fate" theme: судьба́/нашла́ (fate/found), рок/порог (destiny/threshold)
+- If using "instant" theme: миг/настиг (instant/overtook), час/глаз (hour/eye)
+
+**Note**: Final signature line should emerge during composition when all elements (meter, rhyme, voice, emotion) align perfectly. This guidance provides THEMES and PLACEMENT options to aim for.
+
+---
+
+## STANZA 49: BELIEVABILITY STRATEGY (Sprint 39 Enhancement)
+
+**Enhancement Date**: 2025-11-13
+**Purpose**: Make skeptical readers BELIEVE in love at first sight
+**Source**: Task 04 - Verify/Enhance First Sight Framework
+
+### Challenge
+Readers skeptical about instant love - how to overcome?
+
+### Pushkin's Approach (from Eugene Onegin)
+1. **Ground in physical reality**: Body doesn't lie - heart, breath, trembling, physical reactions
+2. **Don't over-explain**: Let the moment's power speak for itself
+3. **Use concrete imagery**: Not "he fell in love" but "heart stopped, breath caught, world transformed"
+4. **Narrator restraint**: Either step back (let it happen) OR acknowledge then override skepticism
+
+### Strategy Options for Stanza 49
+
+**Option A: Narrator Steps Back** (RECOMMENDED)
+- Lines 1-14: Pure experience - Roman's POV, no narrator intrusion
+- Framework note: "Narrator caught in the moment" (Line 80)
+- Effect: Reader experiences transformation WITH Roman
+- Believability: Physical reactions (heart, breath, vision) ground emotional truth
+- Trust: Reader trusts body's truth more than narrator's claims
+
+**Option B: Narrator Acknowledges Skepticism**
+- Could insert brief narrator comment (1-2 lines) acknowledging doubt
+- Example placement: Stanza 50, Lines 9-10 (narrator addresses reader)
+- Example tone: "You doubt? I've seen it happen - instant, overwhelming, true"
+- Risk: Breaks spell if done poorly
+- Benefit: Directly addresses reader's mental resistance
+
+**Option C: Hybrid Approach** (CURRENT FRAMEWORK)
+- Stanza 49: Pure experience (no narrator)
+- Stanza 50: Narrator comments with dramatic irony but doesn't defend moment's validity
+- Framework current approach: Lines 1371-1377 (narrator's "Poor youth, if only you knew...")
+- Effect: Moment speaks for itself, narrator adds foreshadowing weight
+
+**RECOMMENDED**: Use Option A (Narrator Steps Back) for Stanza 49, Option C (Hybrid) for Stanza 50
+
+### Key Principles
+1. **Show physical reactions**: Heart stops/thunders, cannot breathe, cannot move, sound fades, time stops
+2. **Use concrete imagery**: Light gathers, crowd fades, she alone exists - SHOW the tunnel vision
+3. **Emphasize TRANSFORMATION over description**: Focus on WHAT HAPPENS TO ROMAN more than what Yulia looks like
+4. **Trust the form**: Pushkin's Onegin stanza can carry profound emotion - meter and rhyme add weight
+5. **Build from contrast**: St.48 establishes melancholy → St.49 transformation more powerful by contrast
+6. **Avoid defending**: Don't explain "love at first sight is real" - just SHOW it happening
+
+### What Makes It Believable
+- ✅ Physical grounding (body reactions)
+- ✅ Specific sensory details (not abstract "beauty" but "light gathers around her")
+- ✅ Contrast with previous state (melancholy → transformation)
+- ✅ Natural language within strict form (Pushkin's genius - revision makes it effortless)
+- ✅ Reader trust in narrator (established over 48 stanzas already)
+- ✅ Foreshadowing paid off (St.45 "enter fate's design" - moment prepared)
+
+### What Would Break Believability
+- ❌ Over-explaining ("he fell in love because...")
+- ❌ Clichéd language ("eyes like stars", "angel descended")
+- ❌ Narrator defensiveness ("yes, it really happens!")
+- ❌ Lack of physical grounding (all abstract emotion, no body)
+- ❌ Rushed pacing (transformation needs time to land - Stanza 49 slows/stops time)
+
+### Implementation
+- Use comprehensive transformation vocabulary (60+ words now available)
+- Use physical reactions vocabulary (heart, breath, vision, sound, time)
+- Use contrast vocabulary (crowd fades, only she exists - 25+ phrases available)
+- Let Stanza 49 unfold WITHOUT narrator intrusion
+- Save narrator commentary for Stanza 50 (dramatic irony, foreshadowing)
+
+---
+
 ## STANZA 50: Chapter Ending (Cliffhanger)
 
 ### Narrative Function

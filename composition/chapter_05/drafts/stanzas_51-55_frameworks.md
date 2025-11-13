@@ -79,10 +79,64 @@
 
 ---
 
-## Stanza 54: Lark and Nightingale - "Which Bird Sings?"
+## Stanza 54: Lark and Nightingale - ENHANCED FRAMEWORK (GOLD STANDARD)
 
-### Content Outline (aBaBccDDeFFeGG)
+**ENHANCED FRAMEWORK - SPRINT 39**
+- Task 01: Foundation (400+ lines) - vocabulary, rhyme pairs, 14-line structure
+- Task 15: Completion (1,662+ lines added) - emotional beats, dialogue, technical support
+- Total: 2,895+ lines
+- Quality: Gold Standard (matches balcony and potion scene quality)
+- Ready for: Composer to write St.54 using ONLY this framework
+- Last Updated: November 13, 2025
 
+### FULL COMPREHENSIVE FRAMEWORK
+
+**See complete detailed framework in**: `/Users/alexanderfedin/Projects/Literature/composition/chapter_05/drafts/STANZA_54_ENHANCED_FRAMEWORK.md` (2,895 lines)
+
+**See also**:
+- St.53 (Before: Light intrudes - dawn begins)
+- St.55 (After: Reality forces acknowledgment)
+
+### Quick Summary of Framework Contents
+
+**The Moment**: Adaptation of Romeo & Juliet Act 3, Scene 5 - the famous lark/nightingale debate. After night together in monastery cell, dawn approaches. A bird sings. Lovers debate tenderly: is it the nightingale (night, meaning they stay) or lark (morning, meaning Roman must flee Moscow)?
+
+**Moscow Winter Context** (not Verona summer):
+- Church bells ringing across Moscow (благовест - solemn dawn bell)
+- Pale gray winter dawn light through frost-covered window
+- Cold air, visible breath in freezing dawn
+- Frost patterns on glass (узоры инея)
+- Harsh, unforgiving winter reality
+
+**Emotional Progression** (8 Beats):
+1. Reluctance (L1-2): Neither wants morning
+2. Denial Begins (L3-4): "That's the nightingale, not the lark"
+3. Reality Intrudes (L5-6): Church bells shatter denial
+4. Roman's Insistence (L7-8): "It IS the lark, I must go"
+5. Yulia's Resistance (L9-10): "Stay longer, beloved, please"
+6. Forced Acceptance (L11-12): "We both know the truth"
+7. Parting Preparation (L13): Final embrace
+8. Roman Departs (L14): He leaves, stanza closes
+
+**Complete Framework Includes**:
+- ✅ Detailed emotional beat design (7-8 beats, 300+ lines)
+- ✅ Complete dialogue framework (3 options with exact speaker attribution, 200+ lines)
+- ✅ 200+ stress-marked vocabulary words (9 categories)
+- ✅ 100+ verified rhyme pairs (20 sets)
+- ✅ Technical support expansion (rhyme schemes, Line 8 examples, warnings, 150+ lines)
+- ✅ Moscow winter atmosphere deep dive (frost, bells, cold, light, 200+ lines)
+- ✅ Pre-composition guidance (10-step usage process, 150+ lines)
+- ✅ Quality verification checklist (meter, rhyme, voice, content checklists)
+- ✅ Integration instructions (7 steps)
+
+**Recommended Dialogue Approach**: Option C (Narrator-Mediated) for maximum emotional depth and atmospheric integration
+
+**Pre-Composition Checklist**: 10-step process provided in framework
+**Quality Verification**: 4 detailed checklists (meter, rhyme, voice, content)
+
+### Original Outline (for quick reference)
+
+**Content Outline (aBaBccDDeFFeGG)**:
 ```
 Птица поёт за окном — "Что это?" — Юлия: "Жаворонок — предвестник утра" — Роман: "Нет, это соловей — ещё ночь" — (адаптация Romeo & Juliet "lark/nightingale" scene) — "Жаворонок, любимый, жаворонок" — "Нет, соловей, послушай — его песня ночная" — спорят нежно — оба знают правду — но не хотят признать — "Если это соловей, мы можем остаться" — "Если жаворонок, ты должен бежать" — "Тогда пусть будет соловей!" — но свет ярче — день несомненен — больше нельзя притворяться
 
