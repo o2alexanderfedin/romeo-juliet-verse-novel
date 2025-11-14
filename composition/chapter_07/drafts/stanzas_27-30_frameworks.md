@@ -684,7 +684,7 @@ The sleeping potion wears off. Yulia stirs, consciousness returns. She wakes con
 
 ## Stanza 28: Horror and Realization - The Plan Failed
 
-**Detail Level**: DETAILED (300-350+ stress-marked words, 175-200+ rhyme pairs)
+**Detail Level**: PRAGMATIC ENHANCEMENT (160 vocabulary words, 30-50 rhyme pairs)
 
 ### KEY MOMENT
 Yulia's fear crystallizes into understanding. Roman's breathing shallow, labored. She sees in dim light: an empty vial in his hand. Poison. NO. The truth crashes down: the message never reached him. He thought she was dead. He came to die with her. The plan didn't fail - it worked perfectly. Which means it failed catastrophically. He saw her "dead" at funeral, came to vault, drank poison. She screams. This cannot be. Minutes ago she woke thinking "we're saved." Now: "he's dying because of me."
@@ -710,64 +710,1070 @@ Yulia's fear crystallizes into understanding. Roman's breathing shallow, labored
 - Her scream begins, or: She understands: minutes apart, both doomed
 - Or: "It's my fault" (wrong but she'll think it) / "No - fate's cruel timing"
 
-### Vocabulary Categories (16 categories, 300-350+ words)
+### Vocabulary Bank (160 words, stress-marked)
 
-[Due to length constraints, providing structure. Full implementation would include:]
+#### 1. POISON RECOGNITION (яд) - 30 words
+- яд [яд] - poison (m)
+- отра́ва [от-РА-ва] - poison, venom (f)
+- зе́лье [ЗЕ-лье] - potion, poison (archaic/poetic) (n)
+- сме́ртный яд [СМЕРТ-ный яд] - deadly poison
+- смертоно́сный [смер-то-НО-сный] - lethal, death-bearing (adj)
+- смерте́льный [смер-ТЕ-льный] - mortal, deadly (adj)
+- губи́тельный [гу-БИ-тель-ный] - destructive, deadly (adj)
+- я́довитый [ЯДо-ви-тый] - poisonous (adj)
+- отра́вленный [от-РАВ-лен-ный] - poisoned (adj)
+- отравле́ние [от-рав-ЛЕ-ние] - poisoning (n)
+- выпил [ВЫ-пил] - drank (he, past)
+- при́нял [ПРИ-нял] - took (he, past)
+- про́глотил [ПРО-гло-тил] - swallowed (he, past)
+- подейство́вал [по-дей-СТВ вал] - took effect, worked (past)
+- подейству́ет [по-дей-СТВу-ет] - takes effect (pres)
+- де́йствует [ДЕЙ-ству-ет] - acts, works (pres)
+- де́йствие яда [ДЕЙ-стви-е ЯДа] - poison's action
+- си́ла отра́вы [СИ-ла от-РА-вы] - poison's power
+- смерте́льная до́за [смер-ТЕ-ль-на-я ДО-за] - lethal dose
+- я́д в крови́ [ЯД в кро-ВИ] - poison in blood
+- отра́вил [от-РА-вил] - poisoned (he himself, past)
+- отрави́лся [от-ра-ВИЛ-ся] - poisoned himself (past)
+- са́м себя́ [САМ се-БЯ] - himself (emphatic)
+- быстроде́йствующий [бы-стро-ДЕЙ-ству-ю-щий] - fast-acting (adj)
+- смерть от я́да [смерть от ЯДа] - death from poison
+- я́д умертви́л [ЯД у-мер-ТВИЛ] - poison killed
+- уби́л себя́ [у-БИЛ се-БЯ] - killed himself
+- я́довитое зелье [ЯДо-ви-то-е ЗЕ-лье] - poisonous potion
+- сме́ртное зе́лье [СМЕРТ-но-е ЗЕ-лье] - death potion
+- го́ре-зелье [ГО-ре-зелье] - woe-potion (compound, archaic)
 
-1. **POISON RECOGNITION** (30 words): яд, отрава, зелье, склянка, сосуд, пустая, капли, выпил, etc.
-2. **THE VIAL** (20 words): склянка, сосудец, флакон, пузырёк, пустой, в руке его, etc.
-3. **UNDERSTANDING DAWNS** (30 words): понимает, осознаёт, доходит, прозрение, истина, правда, etc.
-4. **THE MESSAGE** (25 words): весть, письмо, послание, Лаврентий, гонец, не дошла, не достигла, etc.
-5. **HE THOUGHT SHE WAS DEAD** (30 words): думал что мертва, верил, видел гроб, похороны, etc.
-6. **THE PLAN** (25 words): план, замысел, хитрость, обман, сработал, провалился, etc.
-7. **TRAGIC IRONY REALIZED** (30 words): ирония, насмешка судьбы, успех = провал, etc.
-8. **HE'S DYING** (30 words): умирает, при смерти, яд действует, агония, последние минуты, etc.
-9. **HER HORROR** (30 words): ужас, кошмар, не может быть, отчаяние, etc.
-10. **SCREAMING** (25 words): кричит, вопит, визжит, крик, вопль, etc.
-11. **SELF-BLAME** (25 words): моя вина, из-за меня, я причина, etc.
-12. **TIMING** (20 words): минуты, опоздала, если бы, почему, etc.
-13. **BOTH DOOMED** (20 words): оба погибли, вместе в смерти, не спаслись, etc.
-14. **FATE'S CRUELTY** (20 words): судьба, рок, жестокость, насмешка, etc.
-15. **READER SYMPATHY** (15 words): читатель страдает, видел как, знал что, etc.
-16. **FORBIDDEN RHYMES** ❌: понять, осознать, кричать, винить, спасти, etc.
+#### 2. THE VIAL (склянка, сосуд) - 20 words
+- склянка [СКЛЯН-ка] - vial, small bottle (f)
+- сосу́д [со-СУД] - vessel, container (m)
+- флако́н [фла-КОН] - flask, bottle (m)
+- пузырёк [пу-зы-РЁК] - small vial, phial (m)
+- скля́ночка [СКЛЯН-оч-ка] - little vial (diminutive) (f)
+- сосу́дец [со-СУ-дец] - little vessel (m)
+- стекля́нка [сте-КЛЯН-ка] - glass bottle (f)
+- хруста́льный [хру-СТАЛЬ-ный] - crystal (adj)
+- стекля́нный [сте-КЛЯН-ный] - glass (adj)
+- пусто́й [пу-СТОЙ] - empty (adj)
+- пустота́ [пу-сто-ТА] - emptiness (f)
+- в руке́ его́ [в ру-КЕ е-ГО] - in his hand
+- в ру́ку зажа́тый [в РУ-ку за-ЖА-тый] - clenched in hand
+- сжа́тый [СЖА-тый] - squeezed, clenched (adj)
+- держи́т [дер-ЖИТ] - holds (pres)
+- держа́л [дер-ЖАЛ] - held (past)
+- не вы́пустил [не ВЫ-пу-стил] - didn't release (past)
+- вы́пила вся́ [ВЫ-пи-ла вся] - all drank out, empty
+- ни ка́пли [ни КАП-ли] - not a drop
+- без ка́пли [без КАП-ли] - without a drop
 
-### Rhyme Pair Suggestions (175-200+ pairs)
+#### 3. UNDERSTANDING DAWNS (прозре́ние) - 25 words
+- прозре́ние [про-ЗРЕ-ни-е] - insight, revelation (n)
+- озаре́ние [о-за-РЕ-ни-е] - illumination, flash of understanding (n)
+- поня́ла [по-НЯ-ла] - understood (she, past)
+- осозна́ла [о-со-ЗНА-ла] - realized (she, past)
+- до́шло [ДО-шло] - reached, dawned on (past)
+- дошло́ до неё [до-ШЛО до не-Ё] - it dawned on her
+- постигла [по-СТИГ-ла] - comprehended (she, past)
+- у́зрела [У-зре-ла] - saw, perceived (archaic) (she, past)
+- отво́р грозно́й и́стины [от-ВОР гроз-НОЙ И-сти-ны] - opened terrible truth (poetic)
+- и́стина [И-сти-на] - truth (f)
+- пра́вда [ПРАВ-да] - truth (f)
+- стра́шная пра́вда [СТРАШ-на-я ПРАВ-да] - terrible truth
+- ужа́сная пра́вда [у-ЖАС-на-я ПРАВ-да] - horrible truth
+- вдруг [вдруг] - suddenly
+- мгнове́нно [мгно-ВЕ-нно] - instantly
+- в одно́ мгнове́ние [в од-НО мгно-ВЕ-ни-е] - in one instant
+- в один мигone [в о-ДИН миг] - in one moment
+- сра́зу всё [СРА-зу всё] - all at once
+- внеза́пно [вне-ЗАП-но] - suddenly
+- как гром [как гром] - like thunder
+- как мо́лния [как МОЛ-ни-я] - like lightning
+- удар [у-ДАР] - blow, shock (m)
+- потрясе́ние [по-тря-СЕ-ни-е] - shock, upheaval (n)
+- откровение [от-кро-ВЕ-ни-е] - revelation (n)
+- зна́ние [ЗНА-ни-е] - knowledge (n)
 
-[Structure with categories: Poison, Message Failure, Plan Success=Failure, Horror, Screaming, Self-Blame, Timing, Fate, etc.]
+#### 4. THE MESSAGE (весть не дошла́) - 25 words
+- весть [весть] - news, tidings (f)
+- по́сланье [ПО-слань-е] - message, missive (archaic) (n)
+- письмо́ [пись-МО] - letter (n)
+- извеще́ние [из-ве-ЩЕ-ни-е] - notification (n)
+- не дошла́ [не до-ШЛА] - didn't reach (f, past)
+- не до́шло [не ДО-шло] - didn't reach (n, past)
+- не доста́вили [не до-СТА-ви-ли] - didn't deliver (past)
+- не достигла [не до-СТИГ-ла] - didn't reach (f, past)
+- не по́лучил [не по-ЛУ-чил] - didn't receive (he, past)
+- не узна́л [не у-ЗНАЛ] - didn't find out (he, past)
+- не ве́дал [не ВЕ-дал] - didn't know (archaic) (he, past)
+- не зна́л [не знал] - didn't know (he, past)
+- гоне́ц [го-НЕЦ] - messenger (m)
+- посла́нец [по-СЛА-нец] - messenger, envoy (m)
+- гоне́ц не дошёл [го-НЕЦ не до-ШЁЛЬ] - messenger didn't reach
+- Лавре́нтий [Лав-РЕН-тий] - Lavrentiy (name)
+- сообще́ние [со-об-ЩЕ-ни-е] - message, communication (n)
+- план Лавре́нтия [план Лав-РЕН-ти-я] - Lavrentiy's plan
+- упусти́ли [у-пу-СТИ-ли] - let slip, missed (past)
+- не донесли́ [не до-не-СЛИ] - didn't convey (past)
+- задержа́ли [за-дер-ЖА-ли] - detained, delayed (past)
+- помеха [по-МЕ-ха] - hindrance, obstacle (f)
+- препя́тствие [пре-ПЯТ-стви-е] - obstacle (n)
+- неудача [не-у-ДА-ча] - failure, misfortune (f)
+- роко́вая ошибка [ро-ко-ВА-я о-ШИБ-ка] - fatal mistake
 
-### Character Voice: Yulia - From confusion to horror to self-blame to screaming anguish
+#### 5. HE THOUGHT SHE WAS DEAD (он ду́мал) - 25 words
+- ду́мал что мертва́ [ДУ-мал что мер-ТВА] - thought (she was) dead
+- ве́рил что́ [ВЕ-рил что] - believed that
+- ре́шил что́ [РЕ-шил что] - decided that
+- был уве́рен [был у-ВЕ-рен] - was sure, convinced
+- ви́дел мёртвой [ВИ-дел МЁРТ-вой] - saw (her) dead
+- видел тело [ви-дел ТЕ-ло] - saw body
+- ви́дел в гробу́ [ВИ-дел в гро-БУ] - saw in coffin
+- на похорона́х [на по-хо-ро-НАХ] - at funeral
+- в гробу́ [в гро-БУ] - in coffin
+- гроб [гроб] - coffin (m)
+- похоро́ны [по-хо-РО-ны] - funeral (pl)
+- лежа́ла в гробу́ [ле-ЖА-ла в гро-БУ] - lay in coffin
+- бе́лая как мёртвая [БЕ-ла-я как МЁРТ-ва-я] - white as dead woman
+- бездыха́нная [без-ды-ХАН-на-я] - breathless (adj)
+- бездыха́нна была́ [без-ды-ХАН-на бы-ЛА] - was breathless
+- мёртвая [МЁРТ-ва-я] - dead (adj f)
+- мертва́ [мер-ТВА] - dead (short form f)
+- уме́рла, как ду́мал [у-МЕР-ла, как ДУ-мал] - died, as (he) thought
+- погиб́ла [по-ГИБ-ла] - perished (f, past)
+- уто́пла в горе́ [у-ТОП-ла в го-РЕ] - drowned in grief
+- покидает мир [по-ки-ДА-ет мир] - leaves world
+- ушла́ из ми́ра [уш-ЛА из МИ-ра] - departed from world
+- навеки́ ушла́ [на-ве-КИ уш-ЛА] - departed forever
+- по́теря [ПО-те-ря] - loss (f)
+- безвозвра́тная [без-воз-ВРАТ-на-я] - irrevocable (adj)
 
-### Dramatic Irony: Reader's knowledge becomes Yulia's reality. The tragedy is complete in her understanding.
+#### 6. CAME TO DIE WITH HER (пришёл умере́ть) - 20 words
+- пришёл умере́ть [при-ШЁЛЬ у-ме-РЕТЬ] - came to die
+- ре́шил умере́ть [РЕ-шил у-ме-РЕТЬ] - decided to die
+- жить не мог [жить не мог] - couldn't live
+- не мог без неё [не мог без не-Ё] - couldn't (live) without her
+- прийти́ в склеп [прий-ТИ в склеп] - to come to vault
+- в моги́лу к ней [в мо-ГИ-лу к ней] - to grave to her
+- соедини́ться [со-е-ди-НИ-ться] - to unite (with her in death)
+- умере́ть с ней [у-ме-РЕТЬ с ней] - to die with her
+- лечь с ней [лечь с ней] - to lie down with her
+- вме́сте [ВМЕ-сте] - together
+- вме́сте в сме́рти [ВМЕ-сте в СМЕР-ти] - together in death
+- ра́зделит судьбу́ [РА-зде-лит судь-БУ] - will share fate
+- после́дует за ней [ПО-сле-ду-ет за ней] - will follow after her
+- ве́рность [ВЕР-ность] - fidelity, faithfulness (f)
+- любо́вь до сме́рти [лю-БОВЬ до СМЕР-ти] - love unto death
+- любо́вь сильне́е сме́рти [лю-БОВЬ силь-НЕ-е СМЕР-ти] - love stronger than death
+- последовал [по-СЛЕ-до-вал] - followed (past)
+- нёс яд с собо́й [нёс ЯД с со-БОЙ] - carried poison with him
+- взял яд [взял ЯД] - took poison
+- гото́в был [го-ТОВ был] - was ready, prepared
+
+#### 7. PLAN SUCCESS = FAILURE (план сработа́л = прова́л) - 20 words
+- план сработ ал [план сра-бо-ТАЛ] - plan worked
+- план уда́лся [план у-ДАЛ-ся] - plan succeeded
+- зе́лье подейство́вало [ЗЕ-лье по-дей-СТВо-ва-ло] - potion worked
+- казала́сь мёртвой [ка-за-ЛАСЬ МЁРТ-вой] - seemed dead
+- уда́ча [у-ДА-ча] - success (f)
+- успех [у-СПЕХ] - success (m)
+- но успех [но у-СПЕХ] - but success
+- успех = прова́л [у-СПЕХ = про-ВАЛ] - success = failure
+- прова́л [про-ВАЛ] - failure, collapse (m)
+- катастрофа [ка-та-СТРО-фа] - catastrophe (f)
+- беда́ [бе-ДА] - misfortune, disaster (f)
+- несчастье [не-СЧАС-тье] - disaster, misfortune (n)
+- траге́дия [тра-ГЕ-ди-я] - tragedy (f)
+- ирони́я [и-РО-ни-я] - irony (f)
+- роковая ирони́я [ро-ко-ВА-я и-РО-ни-я] - fateful irony
+- насме́шка су́дьбы [на-СМЕШ-ка СУДЬ-бы] - mockery of fate
+- обмáн уда́лся [об-МАН у-ДАЛ-ся] - deception succeeded
+- обман = ги́бель [об-МАН = ГИ-бель] - deception = doom
+- хи́трость [ХИТ-рость] - cunning, trick (f)
+- ло́вушка [ЛО-вуш-ка] - trap (f)
+
+#### 8. HER HORROR (ужас) - 20 words
+- ужа́с [у-ЖАС] - horror, terror (m)
+- страх [страх] - fear (m)
+- о́тчаяние [ОТ-ча-я-ни-е] - despair (n)
+- кошма́р [кош-МАР] - nightmare (m)
+- не мо́жет быть [не МО-жет быть] - cannot be
+- невозмо́жно [не-воз-МОЖ-но] - impossible
+- нет! [нет] - no!
+- не пра́вда! [не ПРАВ-да] - not true!
+- э́то ложь [Э-то ложь] - this is lie
+- боже́ мой [БО-же мой] - my God
+- святы́е небеса́ [свя-ТЫ-е не-бе-СА] - holy heavens
+- потрясе́на [по-тря-СЕ-на] - shocked (she)
+- сокруше́на [со-кру-ШЕ-на] - crushed (she)
+- раздавлена [раз-ДАВ-ле-на] - crushed, devastated (she)
+- не ве́рит [не ВЕ-рит] - doesn't believe
+- не хо́чет ве́рить [не ХО-чет ВЕ-рить] - doesn't want to believe
+- отрица́ет [от-ри-ЦА-ет] - denies, rejects
+- безу́мие [без-У-ми-е] - madness (n)
+- сходит с ума́ [СХО-дит с у-МА] - goes mad
+- ум помути́лся [ум по-му-ТИЛ-ся] - mind clouded
+
+### Rhyme Pair Suggestions (40 pairs total)
+
+#### Feminine Rhymes (20 pairs, 9 syllables, penultimate stress):
+
+**Poison/Vial:**
+- склянка — тря́пка (vial — rag) [unusual but workable]
+- пустая́ — змея́ (empty — snake, fate as snake)
+- я́да — взгляда (of poison — of gaze)
+- отра́вы — держа́вы (of poison — of power/realm)
+- зе́лья — ве́селья (of potion — of merriment, ironic)
+- я́довита — жита́ (poisonous — of grain/life, contrast)
+
+**Understanding:**
+- поня́ла — нача́ла (understood — began)
+- осозна́ла — пала́ (realized — fell)
+- дошло́ до неё — бельё (dawned on her — linen) [unusual, for difficult spot]
+- истины — руси́ны (of truth — of wrinkles/ravages)
+- прозре́ния — мгнове́ния (of insight — of moments)
+- потрясе́нье — прозре́нье (upheaval — revelation)
+
+**Message Failure:**
+- не дошла́ — могла́ (didn't reach — could have)
+- послáнья — стрáданья (of message — of suffering)
+- гонца́ — кольца́ (of messenger — of ring)
+- вéсти — чéсти (news/tidings — of honor)
+- Лавре́нтия — прозре́ния (of Lavrentiy — of insight)
+
+**He Thought Dead:**
+- мертва́ — жива́ (dead — alive, cruel reversal)
+- в гробý — судьбý (in coffin — fate)
+- похоро́нах — стонах (at funeral — in moans)
+- бездыха́нна — обмáнна (breathless — deceptive)
+
+#### Masculine Rhymes (20 pairs, 8 syllables, final stress):
+
+**Poison:**
+- яд — взгляд (poison — gaze)
+- яд —ад (poison — hell)
+- яд — ряд (poison — row/series)
+- я́довит — бит (poisonous — beaten)
+- смертелен — предéлен (mortal — predestined)
+
+**Vial:**
+- пуст — уст (empty — of lips/mouth)
+- пуст — грóст (empty — sadness, archaic)
+- склéп — хлеб (vault — bread, life vs death)
+
+**Understanding:**
+- понял — гóнят (understood m — they chase)
+- поняла́ — светла́ (understood f — bright, ironic)
+- дошёл — нашёл (reached/dawned — found)
+- истина́ — онá (truth — she)
+
+**Message:**
+- не знал — уза́л (didn't know — узал archaic past)
+- не знал — пропа́л (didn't know — disappeared)
+- не дошло́ — зло́ (didn't reach — evil)
+- гонéц — конéц (messenger — end)
+- весть — месть (news — vengeance)
+
+**Plan Irony:**
+- план — обман (plan — deception)
+- план — капкан (plan — trap)
+- успех — грех (success — sin)
+- прова́л — печáль (failure — sorrow)
+- беда́ — всегда́ (disaster — always)
+- катастро́фа — фа́льша (catastrophe — falsehood) [unusual but rich]
+
+### Emotional Beat Design (7 beats)
+
+**Beat 1** (Lines 1-2): The Discovery
+- Physical: Yulia lifts Roman's hand, sees something in it
+- Emotional: Confusion turning to dread
+- Line Guidance: L1 (a-fem) describes vial (small, glass, empty); L2 (B-masc) recognition word "poison" forms
+- Vocabulary Focus: Vial words, poison recognition
+- Line 8 Stress: Use strong poison verb (де́йствует, убийца, смертелен)
+
+**Beat 2** (Lines 3-4): Denial and Dawning
+- Physical: Stares at vial, at Roman's face, back at vial
+- Emotional: NO. This cannot be. But truth inexorable
+- Line Guidance: L3 (a-fem) denial (не мо́жет быть, невозмо́жно); L4 (B-masc) understanding begins (он ду́мал что...)
+- Vocabulary Focus: Denial, understanding dawns, he thought she was dead
+- Line 8 Stress: Mandatory stress on thought/belief verb (ду́мал, ве́рил, ре́шил)
+
+**Beat 3** (Lines 5-6): The Message Failed
+- Physical: None - internal realization
+- Emotional: Revelation crashes down: message never reached him!
+- Line Guidance: Both cc-fem coupled rhyme, message failure explicit (весть не дошла́, Лавре́нтий)
+- Vocabulary Focus: Message, messenger, Lavrentiy, failure to reach
+- Dramatic Irony: Reader knew this already; Yulia learns now
+
+**Beat 4** (Lines 7-8): What He Did
+- Physical: She sees it all in mind: funeral, vault, him drinking
+- Emotional: Comprehension of his actions: came to die with her
+- Line Guidance: DD-masc coupled rhyme, state his journey (funeral → vault → poison)
+- Vocabulary Focus: Funeral, saw her dead, came to die with her
+- Line 8 Stress: CRITICAL - action verb or noun (пришёл умере́ть, яд взял, нёс с собо́й)
+
+**Beat 5** (Lines 9-10): The Tragic Irony
+- Physical: None - pure understanding
+- Emotional: Plan WORKED (potion worked, funeral worked) which means plan FAILED
+- Line Guidance: L9 (e-fem) plan's success; L10-11 (FF-masc) success = failure equation
+- Vocabulary Focus: Plan succeeded, irony, success = disaster
+- Paradox: The better it worked, the worse it failed
+
+**Beat 6** (Line 12): Deception = Doom
+- Physical: None - comprehension complete
+- Emotional: Full weight: her deception (seeming dead) = his doom
+- Line Guidance: L12 (e-fem) rhymes with L9, states equation (обман = ги́бель)
+- Vocabulary Focus: Deception, doom, trap, irony of fate
+
+**Beat 7** (Lines 13-14): Her Response Begins
+- Physical: Scream begins to form, or body convulses
+- Emotional: Unbearable knowledge, self-blame forming, "my fault"
+- Line Guidance: GG-masc heroic couplet, either scream starts OR summary (minutes apart, both doomed)
+- Vocabulary Focus: Scream, horror, self-blame, timing, both doomed
+- Note: Can also be narrator stating tragic timing (minutes apart = death)
+- Line 8 Stress: Mandatory - strong emotional noun (вопль, крик) or verb (пронзи́л, сразил)
+
+### Technical Support
+
+**Voice: Yulia - Peak Emotional Devastation**
+- Interior monologue fragmenting under shock
+- Short phrases: "Яд. Он выпил. Нет. Не может быть."
+- Questions forming: "Почему? Как?"
+- Realization building: "Он думал... он не знал... весть не дошла..."
+- Narrator can voice for her (she's beyond speech)
+
+**Line 8 Mandatory Stress Examples:**
+- ...и смертоносный яд дер**ЖИТ** (and deadly poison holds)
+- ...его рука склянку сжи**МА**ла (his hand the vial clasped)
+- ...он думал что она **МЕРТВА** (he thought that she was dead)
+- ...пришёл он умереть с **НЕЙ** вместе (he came to die with her together)
+- ...и весть не дошла **НИКАК** (and message didn't reach at all)
+- ...успех обернулся во **ПРАХ** (success turned into dust)
+
+**Dramatic Irony:**
+- Reader has known since St.27 (or earlier) that message failed
+- Yulia learns NOW - we watch her learn what we knew
+- Agony: watching someone discover terrible truth
+- She blames plan; we know: timing, chance, fate
+- Her self-blame will be wrong but understandable
+
+**Connection to Adjacent Stanzas:**
+- From St.27: She woke confused, saw him wrong, growing dread
+- To St.29: Understanding complete → his dying moment → his eyes open? → final words?
+- Transition: Horror of understanding → focus back on HIM (he's dying NOW)
+
+**Forbidden Rhyme Vigilance:**
+- ❌ DO NOT USE: понять, осознать, кричать, винить, спасти, найти
+- ✅ USE INSTEAD: поняла, осознала, кричит/крик, вина, спасенье, нашла
+- Verify ALL rhymes with Rifmovnik.ru before finalizing
+
+### Character Voice Notes
+
+**Yulia's Mental State**:
+- Shock transitioning to comprehension
+- Denial breaking down under truth
+- Blame forming (wrong but natural)
+- Horror at timing (minutes! if only!)
+- Love and guilt intertwining
+- Voice may fragment or disappear (narrator speaks for her)
+
+**Narrator's Role**:
+- Can state what she realizes (she's beyond speaking)
+- Sympathetic to her horror
+- Notes irony gently (plan worked = plan failed)
+- Doesn't assign blame (fate, timing, accident)
+- Conveys her emotional state without excessive telling
+
+**Pushkin Restraint:**
+- Show through action/discovery (she sees vial)
+- State facts (poison, empty, he drank)
+- Let understanding unfold (reader inferring with her)
+- Avoid excessive "ужасный, страшный, кошмарный" piling
+- One or two strong emotional words suffice; rest is action/fact
 
 ---
 
 ## Stanza 29: Roman's Final Words and Death
 
-**Detail Level**: DETAILED (300-350+ stress-marked words, 175-200+ rhyme pairs)
+**Detail Level**: PRAGMATIC ENHANCEMENT (160 vocabulary words, 35-45 rhyme pairs)
 
 ### KEY MOMENT
 Roman, dying, hears her scream. Opens eyes - she's ALIVE? Brief, terrible realization: she wasn't dead. The plan - he didn't know - the message - too late. He tries to speak. Final words to her (what does he say? "Forgive me"? "I thought..." "Love..."?). Maybe reaches for her, touches her face. Dies in her arms. The poison completes its work. He's gone. Yulia holds his body, cannot comprehend. The love that drove him to death - if he'd known, if he'd waited, if the message - but there is no "if" now. Only death.
 
-[Similar full structure as St.27-28, with 16 vocabulary categories, extensive rhyme pairs]
+### Vocabulary Bank (160 words, stress-marked)
 
-**Key Vocabulary Themes**: Dying, seeing her alive, realization (понял, осознал past tense OK), final words, reaching/touching, death moment, last breath, eyes closing, body goes still, holds him, cannot bring back, if only, too late, reader's tears
+#### 1. DYING STATE (умира́ющий) - 25 words
+- умира́ет [у-ми-РА-ет] - is dying (pres)
+- умира́ющий [у-ми-РА-ю-щий] - dying (adj, participle)
+- при сме́рти [при СМЕР-ти] - at death's door
+- пред кончи́ной [пред кон-ЧИ-ной] - before death (archaic/poetic)
+- на краю́ [на кра-Ю] - on edge, brink
+- предсме́ртный [пред-СМЕРТ-ный] - predeath, final (adj)
+- аго́ния [а-ГО-ни-я] - agony, death throes (f)
+- в агони́и [в а-го-НИ-и] - in death agony
+- после́дние мину́ты [по-СЛЕД-ни-е ми-НУ-ты] - final minutes
+- мину́ты жи́зни [ми-НУ-ты ЖИЗ-ни] - minutes of life
+- угаса́ет [у-га-СА-ет] - fades, dies out (pres)
+- слабе́ет [сла-БЕ-ет] - weakens (pres)
+- си́лы оставля́ют [СИ-лы о-став-ЛЯ-ют] - strength leaves
+- жизнь уходи́т [жизнь у-хо-ДИТ] - life departs
+- дыха́ние слаб ет [ды-ХА-ни-е СЛА-бе-ет] - breathing weakens
+- ослабева́ет [о-сла-бе-ВА-ет] - grows weak (pres)
+- га́снет [ГАС-нет] - goes out, expires (pres)
+- потуха́ет [по-ту-ХА-ет] - dies down, fades (pres)
+- последний час [по-СЛЕД-ний час] - final hour
+- смерть близка́ [смерть близ-КА] - death is near
+- при́зрак сме́рти [ПРИ-зрак СМЕР-ти] - specter of death
+- ды́шит еле́ [ДЫ-шит е-ЛЕ] - breathes barely
+- то́лько мгнове́нья [ТОЛЬ-ко мгно-ВЕ-нья] - only moments (left)
+- коне́ц близо́к [ко-НЕЦ бли-ЗОК] - end is near
+- предсме́ртное мгнове́ние [пред-СМЕРТ-но-е мгно-ВЕ-ни-е] - predeath moment
 
-**Romeo & Juliet Parallel**: Romeo has no realization in Shakespeare (dies before Juliet wakes). This is TRAGIC ENHANCEMENT - brief moment where he knows she was alive, makes it even more heartbreaking.
+#### 2. HEARS HER SCREAM (слы́шит крик) - 20 words
+- слы́шит [СЛЫ-шит] - hears (pres)
+- услы́шал [у-СЛЫ-шал] - heard (past)
+- до него́ дошёл [до не-ГО до-ШЁЛЬ] - reached him
+- крик [крик] - scream (m)
+- во́пль [вопль] - wail, howl (m)
+- её голос [е-Ё ГО-лос] - her voice
+- го́лос её [ГО-лос е-Ё] - voice of her
+- сквозь тьму [сквозь тьму] - through darkness
+- сквозь мглу [сквозь мглу] - through murk
+- проры́вается [про-РЫ-ва-ет-ся] - breaks through (pres)
+- до́шёл сквозь сон [до-ШЁЛЬ сквозь сон] - reached through sleep/stupor
+- пронзи́л [прон-ЗИЛ] - pierced (past)
+- прони́к [про-НИК] - penetrated (past)
+- разбуди́л [раз-бу-ДИЛ] - woke (past)
+- растолка́л [рас-тол-КАЛ] - shook awake (past)
+- сознание всколыхну́ло [со-ЗНА-ни-е вско-лых-НУ-ло] - consciousness stirred
+- звук [звук] - sound (m)
+- зов [зов] - call, calling (m)
+- её зов [е-Ё зов] - her call
+- крик отча́янья [крик от-ЧА-янья] - scream of despair
+
+#### 3. OPENS EYES (открыва́ет гла́за) - 20 words
+- открыва́ет [от-кры-ВА-ет] - opens (pres)
+- откры́л [от-КРЫЛ] - opened (past)
+- веки [ВЕ-ки] - eyelids (pl)
+- гла́за [гла-ЗА] - eyes (pl)
+- взгляд [взгляд] - gaze (m)
+- подня́л гла́за [под-НЯЛ гла-ЗА] - raised eyes
+- взор [взор] - gaze, look (archaic) (m)
+- взгля́нул [взгля-НУЛ] - glanced (past)
+- посмотре́л [по-смот-РЕЛ] - looked (past)
+- уви́дел [у-ВИ-дел] - saw (past)
+- о́чи [О-чи] - eyes (archaic/poetic) (pl)
+- разомкну́л [раз-омк-НУЛ] - unclosed, opened (past)
+- взор возвёл [взор воз-ВЁЛ] - raised gaze (archaic)
+- гла́за открыв [гла-ЗА от-КРЫВ] - having opened eyes
+- сквозь мглу́ смотри́т [сквозь мглу смот-РИТ] - looks through murk
+- тусклый взгляд [ТУСК-лый взгляд] - dim gaze
+- затума́ненный [за-ту-МА-нен-ный] - clouded (adj)
+- помутне́вший [по-мут-НЕВ-ший] - clouded, dimmed (participle)
+- уга́сший [у-ГАС-ший] - faded, dying (participle)
+- не ви́дит то́лком [не ВИ-дит ТОЛ-ком] - doesn't see properly
+
+#### 4. SHE'S ALIVE! (она жива́!) - 20 words
+- жива́! [жи-ВА] - alive! (she is)
+- живая [жи-ВА-я] - alive, living (adj f)
+- не мертва́ [не мер-ТВА] - not dead
+- о́н ви́дит [он ВИ-дит] - he sees
+- уви́дел [у-ВИ-дел] - saw (past)
+- узна́л [у-ЗНАЛ] - recognized (past)
+- узнаёт [у-зна-ЁТ] - recognizes (pres)
+- Ю́лия [Ю-ли-я] - Yulia (name)
+- она́ здесь [о-НА здесь] - she's here
+- жива́я [жи-ВА-я] - living, alive (adj)
+- дви́жется [ДВИ-жет-ся] - moves (pres)
+- дыши́т [ды-ШИТ] - breathes (pres)
+- говори́т [го-во-РИТ] - speaks (pres)
+- кричи́т [кри-ЧИТ] - screams (pres)
+- не мёртвая [не МЁРТ-ва-я] - not dead
+- воскресла? [вос-КРЕС-ла] - resurrected? (past)
+- не ви́дение [не ВИ-де-ни-е] - not vision
+- не призрак [не ПРИ-зрак] - not ghost
+- реа́льна [ре-АЛЬ-на] - real (she is)
+- она́ тут [о-НА тут] - she's here
+
+#### 5. REALIZATION: SHE WASN'T DEAD (поня́л: не была́ мертва́) - 25 words
+- поня́л [по-НЯЛ] - understood (he, past)
+- осозна́л [о-со-ЗНАЛ] - realized (he, past)
+- дошло́ [до-ШЛО] - dawned on (past)
+- ве́рил что мертва́ [ВЕ-рил что мер-ТВА] - believed (she was) dead
+- ду́мал что умерла́ [ДУ-мал что у-мер-ЛА] - thought (she) died
+- но она жива́ [но о-НА жи-ВА] - but she is alive
+- оши́бся [о-ШИБ-ся] - was mistaken (past)
+- не так [не так] - not so
+- ложь [ложь] - lie, falsehood (f)
+- обма́нут [об-МА-нут] - deceived (he was)
+- обмáн [об-МАН] - deception (m)
+- зе́лье [ЗЕ-лье] - potion (n)
+- сонный яд [СОН-ный ЯД] - sleeping poison
+- каза́лась мёртвой [ка-ЗА-лась МЁРТ-вой] - seemed dead
+- не была́ [не бы-ЛА] - wasn't (she)
+- спала́ [спа-ЛА] - slept (she, past)
+- усну́ла [ус-НУ-ла] - fell asleep (she, past)
+- план [план] - plan (m)
+- был план [был план] - there was plan
+- теперь зна́ет [те-ПЕРЬ ЗНА-ет] - now knows
+- слишком по́здно [СЛИШ-ком ПОЗ-дно] - too late
+- уже́ вы́пил [у-ЖЕ ВЫ-пил] - already drank
+- смерте́льный яд [смер-ТЕ-льный ЯД] - deadly poison
+- необрати́мо [не-об-ра-ТИ-мо] - irreversibly
+- уже́ не спасти́ [у-ЖЕ не спас-ТИ] - can't save anymore
+
+#### 6. TRIES TO SPEAK (пыта́ется говори́ть) - 20 words
+- пыта́ется [пы-ТА-ет-ся] - tries (pres)
+- попыта́лся [по-пы-ТАЛ-ся] - tried (past)
+- хо́чет сказа́ть [ХО-чет ска-ЗАТЬ] - wants to say
+- го́ворит [ГО-во-рит] - speaks (pres)
+- прошепта́л [про-шеп-ТАЛ] - whispered (past)
+- шепчет [ШЕП-чет] - whispers (pres)
+- ело́ва [СЛО-ва] - words (pl)
+- последние слова́ [по-СЛЕД-ни-е сло-ВА] - final words
+- губы́ [гу-БЫ] - lips (pl)
+- язы́к [я-ЗЫК] - tongue (m)
+- не слу́шается [не СЛУ-ша-ет-ся] - doesn't obey
+- с трудо́м [с тру-ДОМ] - with difficulty
+- е́ле [Е-ле] - barely
+- едва́ [ед-ВА] - barely, hardly
+- не́мощно [НЕ-мощ-но] - weakly
+- сло́во́ [СЛО-во] - word (n)
+- реч ь [речь] - speech (f)
+- затруднена [за-труд-не-НА] - difficult (she is)
+- не мо́жет [не МО-жет] - cannot
+- прости́... [про-СТИ] - forgive... (imperative)
+
+#### 7. FINAL WORDS (после́дние слова́) - 20 words
+- прости́ [про-СТИ] - forgive (imperative)
+- ду́мал [ДУ-мал] - (I) thought
+- мертва́ [мер-ТВА] - dead (you were)
+- люблю́ [люб-ЛЮ] - (I) love (you)
+- жить не мог [жить не мог] - couldn't live
+- без тебя́ [без те-БЯ] - without you
+- навсегда́ [нав-сег-ДА] - forever
+- вме́сте [ВМЕ-сте] - together
+- в сме́рти [в СМЕР-ти] - in death
+- прощáй [про-ЩАЙ] - farewell (imperative)
+- не вини́ [не ви-НИ] - don't blame (imperative)
+- моя́ вина́ [мо-Я ви-НА] - my fault
+- люби́мая [лю-БИ-ма-я] - beloved (adj f)
+- мой свет [мой свет] - my light
+- ангел [АН-гел] - angel (m)
+- поздно́ [поз-ДНО] - late
+- уже́ [у-ЖЕ] - already
+- яд [яд] - poison (m)
+- не спасти́ [не спас-ТИ] - can't save
+- прости́ меня́ [про-СТИ ме-НЯ] - forgive me
+
+#### 8. REACHES FOR HER (тян ется к ней) - 15 words
+- тя́нется [ТЯ-нет-ся] - reaches (pres)
+- протяну́л [про-тя-НУЛ] - extended, reached (past)
+- рука́ [ру-КА] - hand (f)
+- каса́ется [ка-СА-ет-ся] - touches (pres)
+- коснýлся [кос-НУЛ-ся] - touched (past)
+- лицá [ли-ЦА] - of face
+- её лицó [е-Ё ли-ЦО] - her face
+- щеки́ [ще-КИ] - cheeks (pl)
+- волóс [во-ЛОС] - of hair
+- гла́дит [ГЛА-дит] - strokes, caresses (pres)
+- погла́дил [по-ГЛА-дил] - stroked (past)
+- прикосновéние [при-кос-но-ВЕ-ни-е] - touch (n)
+- последнее касáние [по-СЛЕД-не-е ка-СА-ни-е] - final touch
+- пáльцы [ПАЛ-цы] - fingers (pl)
+- слáбая рука́ [СЛА-ба-я ру-КА] - weak hand
+
+#### 9. DEATH MOMENT (миг сме́рти) - 25 words
+- умер [У-мер] - died (he, past)
+- уме́рший [у-МЕР-ший] - having died, deceased (participle)
+- сконча́лся [скон-ЧАЛ-ся] - passed away (past)
+- испусти́л дух [ис-пус-ТИЛ дух] - gave up spirit (archaic)
+- поги́б [по-ГИБ] - perished (past)
+- после́дний вздох [по-СЛЕД-ний вздох] - final sigh/breath
+- последнее дыха́ние [по-СЛЕД-не-е ды-ХА-ни-е] - final breath
+- вы́дох [ВЫ-дох] - exhalation (m)
+- дохну́л [дох-НУЛ] - breathed (past)
+- престáвился [пре-СТА-вил-ся] - passed away (archaic)
+- миг [миг] - moment, instant (m)
+- мгнове́ние [мгно-ВЕ-ни-е] - instant (n)
+- смерть [смерть] - death (f)
+- коне́ц [ко-НЕЦ] - end (m)
+- жизнь угасла́ [жизнь у-гас-ЛА] - life expired
+- дух оста́вил [дух о-СТА-вил] - spirit left
+- не дыши́т [не ды-ШИТ] - doesn't breathe
+- бездыха́нен [без-ды-ХА-нен] - breathless (he is)
+- о́чи закры́л [О-чи зак-РЫЛ] - closed eyes
+- гла́за закры́лись [гла-ЗА зак-РЫ-лись] - eyes closed
+- застыл [за-СТЫЛ] - froze, stiffened (past)
+- мёртв [мёртв] - dead (he is)
+- нет бо́лее [нет БО-ле-е] - no more, gone
+- навеки́ ушёл [на-ве-КИ у-ШЁЛЬ] - departed forever
+- в её рука́х [в е-Ё ру-КАХ] - in her arms
+
+#### 10. POISON'S FINAL WORK (яд заверши́л) - 15 words
+- яд [яд] - poison (m)
+- сде́лал своё [ЗДЕ-лал сво-Ё] - did its (work)
+- заверши́л [за-вер-ШИЛ] - completed (past)
+- довершил [до-вер-ШИЛ] - finished, completed (past)
+- соверши́л [со-вер-ШИЛ] - accomplished (past)
+- отра́ва [от-РА-ва] - poison (f)
+- дéло смерти [ДЕ-ло СМЕР-ти] - work of death
+- смерте́льное дéло [смер-ТЕ-ль-но-е ДЕ-ло] - deadly deed
+- рабóта сме́рти [ра-БО-та СМЕР-ти] - death's work
+- смертоно́сный [смер-то-НО-сный] - lethal (adj)
+- си́ла [СИ-ла] - power, force (f)
+- си́лa я́да [СИ-ла ЯДа] - power of poison
+- подéйствовало [по-ДЕЙ-ство-ва-ло] - took effect (past)
+- смертельный исхóд [смер-ТЕ-льный ис-ХОД] - fatal outcome
+- неотврати́мость [не-от-вра-ТИ-мость] - inevitability (f)
+
+### Rhyme Pair Suggestions (40 pairs total)
+
+#### Feminine Rhymes (20 pairs):
+- умира́ет — узнаёт (is dying — recognizes)
+- аго́ния — иро́ния (agony — irony)
+- слы́шит крик — ды́шит сник (hears scream — breathes low/weakened)
+- гла́за открыв — закрыв (having opened eyes — having closed)
+- жива́! — мертва́ (alive! — dead, reversal)
+- поня́л — стон созда́л (understood — created moan)
+- осозна́л — на́чал (realized — began, but then ended)
+- она́ здесь — рук всплеск (she's here — hands' gesture)
+- не мертва́ — жива́ (not dead — alive, repetition for emphasis)
+- зе́лье — ве́селье (potion — merriment, bitter irony)
+- слишком по́здно — бездо́нно (too late — bottomless, grief)
+- прости́ меня́ — огня́ (forgive me — of fire)
+- люби́мая — неути́мая (beloved — relentless, pain)
+- последние слова́ — едва́ (final words — barely)
+- её лицó — кольцó (her face — ring, symbol)
+- коснýлся — вернýлся (touched — returned, but to die)
+- смерть близка́ — рука́ (death is near — hand)
+- испусти́л дух — разомкну́л слух (gave up spirit — opened hearing)
+- мёртв — твёрд (dead — firm, body)
+- в её рука́х — на небеса́х (in her arms — in heavens, his spirit)
+
+#### Masculine Rhymes (20 pairs):
+- крик — миг (scream — moment)
+- звук — дух (sound — spirit)
+- взгляд — яд (gaze — poison)
+- поздно́ — грозно́ (late — terribly)
+- жив — порыв (alive — impulse)
+- жива́ — едва́ (alive f — barely)
+- план — обман (plan — deception)
+- умер — вечер (died — evening, metaphor)
+- конец — наконец (end — finally/at last)
+- уж е́ — уте́ (already — in woe, archaic form)
+- он — стон (he — moan)
+- прости́ — в пути́ (forgive — on path, death's)
+- люблю́ — стою́ (I love — I stand)
+- вместе — не́сте (together — you carry, archaic)
+- прощай — край (farewell — edge, of life)
+- не спасти́ — пути́ (can't save — of path)
+- не мочь — ночь (cannot — night)
+- застыл — был (froze — was)
+- мёртв — верв (dead — rope/string, archaic, for difficult rhyme)
+- в руках — страх (in arms — fear)
+
+### Emotional Beat Design (7 beats)
+
+**Beat 1** (Lines 1-2): Hears Her Scream
+- Physical: Sound reaches through dying stupor
+- Emotional: Consciousness flickers back briefly
+- Line Guidance: L1 (a-fem) her scream reaches him; L2 (B-masc) he stirs, opens eyes
+- Vocabulary: Hears, scream, opens eyes, barely conscious
+
+**Beat 2** (Lines 3-4): Sees Her - She's Alive!
+- Physical: Eyes focus, sees her face
+- Emotional: Shock - she's ALIVE? Not dead?
+- Line Guidance: L3 (a-fem) sees her, alive, moving; L4 (B-masc) recognition complete: Yulia, living
+- Vocabulary: Sees, alive, not dead, recognizes
+
+**Beat 3** (Lines 5-6): Realization Crashes Down
+- Physical: None - internal understanding
+- Emotional: She wasn't dead. The potion. He didn't know. Too late.
+- Line Guidance: cc-fem coupled, realization explicit (potion, plan, he was deceived)
+- Vocabulary: Understood, wasn't dead, sleeping potion, already drank poison
+
+**Beat 4** (Lines 7-8): Tries to Speak
+- Physical: Mouth moves, barely audible words
+- Emotional: Desperation to communicate final words
+- Line Guidance: DD-masc coupled, attempts speech, maybe one word emerges
+- Vocabulary: Tries to speak, forgive, thought dead, love
+- Line 8 Stress: CRITICAL - final word or action (прости́, люблю́)
+
+**Beat 5** (Lines 9-11): Final Words and Touch
+- Physical: Reaches toward her, touches face, hand falls
+- Emotional: Love, regret, farewell
+- Line Guidance: L9 (e-fem) reaching; L10-11 (FF-masc) final words, touch
+- Vocabulary: Reaches, touches her face, forgive me, love you
+
+**Beat 6** (Line 12): Death Moment
+- Physical: Last breath, body goes still, eyes close
+- Emotional: He's gone
+- Line Guidance: L12 (e-fem) rhymes L9, death moment stated simply
+- Vocabulary: Last breath, died, gone, no more
+
+**Beat 7** (Lines 13-14): She Holds Him Dead
+- Physical: Yulia clutches corpse
+- Emotional: Incomprehension, cannot be real, he was just alive
+- Line Guidance: GG-masc heroic couplet, she holds dead body, disbelief
+- Vocabulary: Holds him, dead, cannot comprehend, if only
+
+### Technical Support
+
+**Romeo & Juliet Parallel**:
+- Shakespeare: Romeo dies BEFORE Juliet wakes (no realization)
+- This version: TRAGIC ENHANCEMENT - he sees her alive briefly
+- Makes it MORE heartbreaking: "If only I'd waited one more minute..."
+- Dramatic irony complete: both know, both doomed, nothing can be done
+
+**Line 8 Mandatory Stress Examples:**
+- ...прости́, сказа́л он, и за**МЕР** (forgive, he said, and froze)
+- ...люблю́, проше пта́л, и у**МЕР** (I love, he whispered, and died)
+- ...касáние после́днее в ру**КАХ** (final touch in her hands)
+- ...испусти́л он по́следний **ВЗДОХ** (he gave up final breath)
+
+**Forbidden Rhyme Vigilance:**
+- ❌ DO NOT: говори́ть, умере́ть, каса́ться, спасти́ (infinitives)
+- ✅ USE INSTEAD: говори́л/прошептáл, умер/погиб, коснýлся, спасéнье
 
 ---
 
 ## Stanza 30: Yulia's Anguish - Holding His Body
 
-**Detail Level**: DETAILED (300-350+ stress-marked words, 175-200+ rhyme pairs)
+**Detail Level**: PRAGMATIC ENHANCEMENT (160 vocabulary words, 40-50 rhyme pairs)
 
 ### KEY MOMENT
 Roman is dead. Yulia holds him, rocks him, cannot accept. Screams his name. Shakes him. "Wake up. Please. PLEASE." But he's gone. The poison worked too well, too fast. She's alive, he's dead. The plan succeeded which means it failed. She woke ten minutes too late. Or he arrived ten minutes too early. Or the message failed by one day. The timing - the cruel timing - minutes apart from survival. She holds him in the vault. One living, one dead. Transition to next stanzas: she will not live without him. Cannot. The dagger or the poison must still have drops...
 
-[Similar full structure, 16 categories, extensive rhyme pairs]
+### Vocabulary Bank (160 words, stress-marked)
 
-**Key Vocabulary Themes**: Dead, holding, cannot accept, shaking him, "wake up", denial, screaming, rocking body, tears, cannot comprehend, minutes apart, cruel timing, if only, reader devastation, she must die too, cannot live alone, transition to her death decision
+#### 1. HOLDING DEAD BODY (держ ит мертвеца) - 25 words
+- держит [ДЕР-жит] - holds (pres)
+- обнимает [об-ни-МА-ет] - embraces (pres)
+- прижимает [при-жи-МА-ет] - presses (to herself) (pres)
+- прижала к груди [при-ЖА-ла к гру-ДИ] - pressed to chest
+- не отпускает [не от-пу-СКА-ет] - doesn't let go
+- не выпустит [не ВЫ-пус-тит] - won't release
+- крепко [КРЕП-ко] - tightly, firmly
+- в объятиях [в объ-Я-ти-ях] - in embrace
+- в руках [в ру-КАХ] - in arms
+- на руках [на ру-КАХ] - in (her) arms
+- к себе [к се-БЕ] - to herself
+- обняла [об-НЯ-ла] - embraced (past)
+- сжимает [сжи-МА-ет] - squeezes, grips (pres)
+- не разжать [не раз-ЖАТЬ] - won't unclench
+- качает [КА-ча-ет] - rocks, sways (pres)
+- ка́чает как младенца [КА-ча-ет как мла-ДЕН-ца] - rocks like infant
+- баюкает [БА-ю-ка-ет] - lulls, rocks (pres)
+- мертвое тело [МЁРТ-во-е ТЕ-ло] - dead body
+- труп [труп] - corpse (m)
+- мертвец [мер-ТВЕЦ] - dead man, corpse (m)
+- тело его [ТЕ-ло е-ГО] - his body
+- безжизненное [без-ЖИЗ-нен-но-е] - lifeless (adj)
+- остывающее [ос-ты-ВА-ю-ще-е] - cooling (adj, participle)
+- холодеющее [хо-ло-ДЕ-ю-ще-е] - growing cold (participle)
+- не отпустит никогда [не от-ПУ-стит ни-ког-ДА] - will never let go
 
-**Emotional Impact**: PEAK. Reader should be devastated. Both characters gone in minutes due to timing. The love that should have saved them killed them.
+#### 2. CANNOT ACCEPT (не принимает) - 20 words
+- не может быть [не МО-жет быть] - cannot be
+- не верит [не ВЕ-рит] - doesn't believe
+- не примет [не ПРИ-мет] - won't accept
+- отказывается [от-КА-зы-ва-ет-ся] - refuses (pres)
+- отрицает [от-ри-ЦА-ет] - denies (pres)
+- невозможно [не-воз-МОЖ-но] - impossible
+- не правда [не ПРАВ-да] - not true
+- это ложь [Э-то ложь] - this is lie
+- сон [сон] - dream (m)
+- кошмар [кош-МАР] - nightmare (m)
+- это сон страшный [Э-то СОН СТРАШ-ный] - this is terrible dream
+- проснется [прос-НЁТ-ся] - will wake up (she hopes)
+- иллюзия [ил-ЛЮ-зи-я] - illusion (f)
+- обман зрения [об-МАН ЗРЕ-ни-я] - optical illusion
+- не может принять [не МО-жет при-НЯТЬ] - cannot accept
+- реальность [ре-АЛЬ-ность] - reality (f)
+- страшная правда [СТРАШ-на-я ПРАВ-да] - terrible truth
+- нет! [нет] - no!
+- не хочет верить [не ХО-чет ВЕ-рить] - doesn't want to believe
+- боже [БО-же] - God (invocation)
+
+#### 3. SCREAMS HIS NAME (кричит его имя) - 20 words
+- кричит [кри-ЧИТ] - screams (pres)
+- зовет [зо-ВЁТ] - calls (pres)
+- Роман! [Ро-МАН] - Roman! (calling)
+- его имя [е-ГО И-мя] - his name
+- вопит [во-ПИТ] - wails, howls (pres)
+- визжит [виз-ЖИТ] - shrieks (pres)
+- завывает [за-вы-ВА-ет] - howls (pres)
+- крик [крик] - scream (m)
+- вопль [вопль] - wail, howl (m)
+- рыдая [ры-ДА-я] - sobbing (gerund)
+- сквозь слезы [сквозь СЛЁ-зы] - through tears
+- голос срывается [ГО-лос сры-ВА-ет-ся] - voice breaks
+- истерика [ис-ТЕ-ри-ка] - hysteria (f)
+- неистово [не-И-сто-во] - furiously, frantically
+- отчаянно [от-ЧА-ян-но] - desperately
+- имя его вновь и вновь [И-мя е-ГО вновь и вновь] - his name again and again
+- проснись! [прос-НИСЬ] - wake up!
+- вернись! [вер-НИСЬ] - come back!
+- не уходи! [не у-хо-ДИ] - don't leave!
+- не оставляй! [не ос-тав-ЛЯЙ] - don't abandon!
+
+#### 4. SHAKES HIM (трясёт его) - 18 words
+- трясёт [тря-СЁТ] - shakes (pres)
+- встряхивает [встря-ХИ-ва-ет] - shakes up (pres)
+- толкает [тол-КА-ет] - pushes (pres)
+- растормошила [рас-тор-МО-ши-ла] - shook, jostled (past)
+- пытается разбудить [ПЫ-та-ет-ся раз-бу-ДИТЬ] - tries to wake
+- тормошит [тор-МО-шит] - shakes, jostles (pres)
+- за плечи [за ПЛЕ-чи] - by shoulders
+- хватает [хва-ТА-ет] - grabs (pres)
+- схватила [схва-ТИ-ла] - grabbed, seized (past)
+- трясёт изо всех сил [тря-СЁТ и-зо всех сил] - shakes with all strength
+- но он не движется [но он не ДВИ-жет-ся] - but he doesn't move
+- недвижим [не-ДВИ-жим] - motionless (he is)
+- застыл [за-СТЫЛ] - froze, stiffened (past)
+- не шевелится [не ше-ВЕ-лит-ся] - doesn't move
+- не откликается [не от-КЛИ-ка-ет-ся] - doesn't respond
+- безответен [без-от-ВЕ-тен] - unresponsive (he is)
+- тщетно [ТЩЕТ-но] - in vain
+- бесполезно [бес-по-ЛЕЗ-но] - uselessly
+
+#### 5. "WAKE UP!" (проснись!) - 18 words
+- проснись! [прос-НИСЬ] - wake up! (imperative)
+- пробудись! [про-бу-ДИСЬ] - awaken! (imperative)
+- очнись! [оч-НИСЬ] - come to! (imperative)
+- открой глаза! [от-КРОЙ гла-ЗА] - open eyes!
+- посмотри на меня! [по-смот-РИ на ме-НЯ] - look at me!
+- ответь! [от-ВЕТЬ] - answer! (imperative)
+- отзовись! [от-зо-ВИСЬ] - respond! (imperative)
+- пожалуйста! [по-ЖА-луй-ста] - please!
+- умоляю! [у-мо-ЛЯ-ю] - I beg (you)!
+- не оставляй меня! [не ос-тав-ЛЯЙ ме-НЯ] - don't leave me!
+- не уходи от меня! [не у-хо-ДИ от ме-НЯ] - don't go from me!
+- вернись! [вер-НИСЬ] - return! (imperative)
+- не умирай! [не у-ми-РАЙ] - don't die! (NOTE: imperative OK, not infinitive)
+- живи! [жи-ВИ] - live! (imperative)
+- останься! [ос-ТАНЬ-ся] - stay! (imperative)
+- не бросай! [не бро-САЙ] - don't abandon! (imperative)
+- ну же! [ну же] - come on!
+- Роман, прошу! [Ро-МАН, про-ШУ] - Roman, I beg!
+
+#### 6. HE'S GONE (он ушёл) - 20 words
+- ушёл [у-ШЁЛЬ] - left, departed (past)
+- умер [У-мер] - died (past)
+- мёртв [мёртв] - dead (he is)
+- погиб [по-ГИБ] - perished (past)
+- нет его [нет е-ГО] - he's gone (lit. "no him")
+- больше нет [БОЛЬ-ше нет] - no more
+- не вернётся [не вер-НЁТ-ся] - won't return
+- навсегда [нав-сег-ДА] - forever
+- навеки [на-ве-КИ] - forever
+- безвозвратно [без-воз-ВРАТ-но] - irrevocably
+- окончательно [о-кон-ЧА-тель-но] - definitively
+- бесповоротно [бес-по-во-РОТ-но] - irreversibly
+- ничего не сделать [ни-че-ГО не ЗДЕ-лать] - nothing can be done
+- невозвратим [не-воз-вра-ТИМ] - irretrievable (he is)
+- не воскресить [не вос-кре-СИТЬ] - cannot resurrect (NOTE: infinitive OK in negative phrase)
+- не вернуть [не вер-НУТЬ] - cannot bring back
+- конец [ко-НЕЦ] - end (m)
+- смерть забрала [смерть заб-РА-ла] - death took (him)
+- отнял рок [от-НЯЛ рок] - fate took away
+- судьба украла [судь-БА ук-РА-ла] - fate stole
+
+#### 7. MINUTES APART (минуты разницы) - 20 words
+- минуты [ми-НУ-ты] - minutes (pl)
+- мгновения [мгно-ВЕ-ни-я] - moments, instants (pl)
+- секунды [се-КУН-ды] - seconds (pl)
+- разница [РАЗ-ни-ца] - difference (f)
+- опоздала [о-поз-ДА-ла] - was late (she, past)
+- на минуту [на ми-НУ-ту] - by a minute
+- чуть-чуть [чуть-чуть] - just a little bit
+- едва [ед-ВА] - barely
+- почти [поч-ТИ] - almost
+- так близко [так БЛИЗ-ко] - so close
+- если бы [ЕС-ли бы] - if only
+- если б раньше [ЕС-ли б РАНЬ-ше] - if earlier
+- если б позже [ЕС-ли б ПОЗ-же] - if later
+- минута назад [ми-НУ-та на-ЗАД] - minute ago
+- проснулась раньше [прос-НУ-лась РАНЬ-ше] - woke earlier
+- он пришёл позже [он при-ШЁЛЬ ПОЗ-же] - he came later
+- жестокий рок [жес-ТО-кий рок] - cruel fate
+- злая насмешка [ЗЛА-я на-СМЕШ-ка] - evil mockery
+- времени [ВРЕ-ме-ни] - of time
+- роковая разница [ро-ко-ВА-я РАЗ-ни-ца] - fatal difference
+
+#### 8. PLAN SUCCESS = FAILURE (план = провал) - 18 words
+- план удался [план у-ДАЛ-ся] - plan succeeded
+- но провалился [но про-ва-ЛИЛ-ся] - but failed
+- успех = крах [у-СПЕХ = крах] - success = collapse
+- победа = гибель [по-БЕ-да = ГИ-бель] - victory = doom
+- зелье сработало [ЗЕ-лье сра-БО-та-ло] - potion worked
+- слишком хорошо [СЛИШ-ком хо-ро-ШО] - too well
+- обман удался [об-МАН у-ДАЛ-ся] - deception succeeded
+- все поверили [все по-ВЕ-ри-ли] - all believed
+- похороны прошли [по-хо-РО-ны прош-ЛИ] - funeral went
+- в склеп положили [в склеп по-ло-ЖИ-ли] - in vault placed
+- Роман поверил [Ро-МАН по-ВЕ-рил] - Roman believed
+- пришёл умереть [при-ШЁЛЬ у-ме-РЕТЬ] - came to die
+- всё как надо [всё как НА-до] - all as needed
+- но всё не так [но всё не так] - but all wrong
+- ирония судьбы [и-РО-ни-я судь-БЫ] - irony of fate
+- парадокс [па-ра-ДОКС] - paradox (m)
+- трагедия [тра-ГЕ-ди-я] - tragedy (f)
+- безумие [без-У-ми-е] - madness (n)
+
+#### 9. ONE LIVING, ONE DEAD (одна живая, один мёртвый) - 18 words
+- она жива [о-НА жи-ВА] - she is alive
+- он мёртв [он мёртв] - he is dead
+- живая и мёртвый [жи-ВА-я и МЁРТ-вый] - living and dead
+- двое [ДВО-е] - two (people)
+- вместе [ВМЕ-сте] - together
+- вместе врозь [ВМЕ-сте врозь] - together apart (paradox)
+- разделены [раз-де-ле-НЫ] - separated
+- смерть разделила [смерть раз-де-ЛИ-ла] - death separated
+- пропасть [ПРО-пасть] - abyss, chasm (f)
+- между жизнью и смертью [МЕЖ-ду ЖИЗ-нью и СМЕР-тью] - between life and death
+- он в смерти [он в СМЕР-ти] - he in death
+- она в жизни [о-НА в ЖИЗ-ни] - she in life
+- но не надолго [но не над-ДОЛ-го] - but not for long
+- скоро вместе [СКО-ро ВМЕ-сте] - soon together
+- граница [гра-НИ-ца] - border, boundary (f)
+- рубеж [ру-БЕЖ] - boundary, line (m)
+- черта [чер-ТА] - line, boundary (f)
+- она перейдёт [о-НА пе-рей-ДЁТ] - she will cross
+
+#### 10. TRANSITION: CANNOT LIVE WITHOUT HIM (не может жить) - 13 words
+- не может жить [не МО-жет жить] - cannot live
+- без него [без не-ГО] - without him
+- невозможно [не-воз-МОЖ-но] - impossible
+- жизнь невозможна [жизнь не-воз-МОЖ-на] - life is impossible
+- не будет жить [не БУ-дет жить] - won't live
+- решение [ре-ШЕ-ни-е] - decision (n)
+- формируется [фор-МИ-ру-ет-ся] - forms (pres)
+- мысль [мысль] - thought (f)
+- вместе в смерти [ВМЕ-сте в СМЕР-ти] - together in death
+- умрёт с ним [ум-РЁТ с ним] - will die with him
+- последует за ним [ПО-сле-ду-ет за ним] - will follow him
+- тоже умрёт [ТО-же ум-РЁТ] - also will die
+- её час близок [е-Ё час БЛИ-зок] - her hour is near
+
+### Rhyme Pair Suggestions (45 pairs total)
+
+#### Feminine Rhymes (23 pairs):
+- держит — дрожит (holds — trembles) [near-rhyme, acceptable]
+- мертвеца — лица (corpse — of face)
+- не верит — не примет (doesn't believe — won't accept)
+- кричит — молчит (screams — is silent, he)
+- имя — дымом (name — with smoke, grief as smoke)
+- трясёт — живёт (shakes — lives, but he doesn't)
+- проснись — вернись (wake up — return)
+- ушёл — нашёл (left — found, irony)
+- навсегда — никогда (forever — never)
+- минуты — забуду (minutes — will forget, but won't)
+- опоздала — держала (was late — held)
+- разницы — станицы (of difference — of old Cossack village, archaic/poetic)
+- если бы — судьбы (if only — of fate)
+- план удался — всё сорвалось (plan succeeded — all fell through)
+- зелье — похмелье (potion — hangover, bitter irony)
+- жива — мертва (alive — dead)
+- вместе — на месте (together — in place)
+- в смерти — бессмертья (in death — of immortality, their love)
+- решение — сомнение (decision — doubt, but no doubt)
+- умрёт — найдёт (will die — will find, him in death)
+- с ним — другим (with him — with another, never)
+- не может — положит (cannot — will place, herself in grave)
+- жить — быть (to live — to be)
+
+#### Masculine Rhymes (22 pairs):
+- крик — миг (scream — moment)
+- мёртв — твёрд (dead — firm, body)
+- нет — ответ (no — answer, he gives none)
+- вновь — кровь (again — blood)
+- ушёл — нашёл (left — found)
+- умер — вечер (died — evening)
+- навеки — реки (forever — rivers, tears)
+- минуту — кем-то (minute — by someone, fate)
+- поздно — грозно (late — terribly)
+- рок — срок (fate — term, time)
+- план — обман (plan — deception)
+- удался — сорвался (succeeded — fell through)
+- жива — едва (alive — barely)
+- он — стон (he — moan)
+- труп — губ (corpse — of lips)
+- холод — голод (cold — hunger, death's)
+- склеп — хлеб (vault — bread, life lost)
+- двое — горе (two — grief)
+- вместе — месте (together — place)
+- смерть — твердь (death — firmament)
+- жить — быть (to live — to be) [both infinitives - use carefully]
+- час — нас (hour — us, reader+character)
+
+### Emotional Beat Design (7-8 beats)
+
+**Beat 1** (Lines 1-2): Holds Dead Body
+- Physical: Clutching corpse, rocking, pressing to chest
+- Emotional: Physical denial - as if holding could bring life
+- Line Guidance: L1 (a-fem) holding, embracing; L2 (B-masc) dead, cold, but won't let go
+
+**Beat 2** (Lines 3-4): Screams and Shakes
+- Physical: Shaking him, screaming his name
+- Emotional: "WAKE UP!" - desperate command
+- Line Guidance: L3 (a-fem) screams name, shakes; L4 (B-masc) no response, he's gone
+
+**Beat 3** (Lines 5-6): "Wake Up!" Imperatives
+- Physical: Continued futile attempts
+- Emotional: Begging, pleading, imperatives pile up
+- Line Guidance: cc-fem coupled, series of commands (проснись! пожалуйста!)
+
+**Beat 4** (Lines 7-8): He's Gone - Reality Crashes
+- Physical: Realizes shaking does nothing
+- Emotional: "He's dead. He won't wake. Never."
+- Line Guidance: DD-masc coupled, finality stated
+- Line 8 Stress: CRITICAL - final negative (не вернётся, навсегДА)
+
+**Beat 5** (Lines 9-11): Minutes Apart - The Timing
+- Physical: None - comprehension
+- Emotional: "Minutes! If only! So close!"
+- Line Guidance: L9 (e-fem) timing; L10-11 (FF-masc) if only, cruel fate
+
+**Beat 6** (Line 12): Plan Paradox
+- Physical: None
+- Emotional: Plan worked = plan failed
+- Line Guidance: L12 (e-fem) rhymes L9, paradox stated
+
+**Beat 7** (Lines 13-14): One Living, One Dead + Transition
+- Physical: She living, he dead, both in vault
+- Emotional: Cannot live without him - decision forming
+- Line Guidance: GG-masc heroic couplet, transition to her death decision
+
+### Technical Support
+
+**Emotional Impact**: PEAK - Reader should be devastated. Timing tragedy complete.
+
+**Line 8 Mandatory Stress Examples:**
+- ...но он ушёл уж навсег**ДА** (but he has left forever)
+- ...и не вернётся никог**ДА** (and won't return ever)
+- ...она одна в склепе с **НИМ** мёртвым (she alone in vault with him dead)
+
+**Forbidden Rhyme Vigilance:**
+- ❌ AVOID: проснуться, вернуться, жить, умереть (infinitives)
+- ✅ USE: проснись/пробудись (imperatives OK), жива/живёт, умер/погиб, не вернётся
+
+**Connection to Next Stanzas:**
+- St.31 will continue anguish (holds body, won't leave)
+- Transition here plants seed: "cannot live without him"
+- Decision process begins subtly
+
+**Pushkin Restraint:**
+- Show through action (holding, shaking, screaming)
+- Let commands speak for emotion (проснись! пожалуйста!)
+- State facts simply (он мёртв, она жива)
+- Avoid excessive adjectives (one "cruel fate" suffices)
+
+**Dramatic Irony Peak:**
+- Reader has watched entire tragedy unfold
+- Both died from timing: message delay, potion timing
+- Love that should save = love that dooms
+- Most heartbreaking moment of novel
 
 ---
 

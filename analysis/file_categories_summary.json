@@ -1,0 +1,458 @@
+{
+  "total_files": 329,
+  "total_size_bytes": 10282754,
+  "total_size_mb": 9.81,
+  "date_range": {
+    "earliest_created": "2025-11-12T09:23:55",
+    "latest_modified": "2025-11-14T09:41:59"
+  },
+  "by_extension": {
+    ".md": {
+      "count": 322,
+      "total_size_bytes": 10159485,
+      "total_size_mb": 9.69
+    },
+    ".json": {
+      "count": 3,
+      "total_size_bytes": 66970,
+      "total_size_mb": 0.06
+    },
+    ".py": {
+      "count": 2,
+      "total_size_bytes": 28731,
+      "total_size_mb": 0.03
+    },
+    "no_extension": {
+      "count": 1,
+      "total_size_bytes": 6148,
+      "total_size_mb": 0.01
+    },
+    ".txt": {
+      "count": 1,
+      "total_size_bytes": 21420,
+      "total_size_mb": 0.02
+    }
+  },
+  "by_directory": {
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_07/drafts": {
+      "count": 24,
+      "total_size_bytes": 1014960,
+      "total_size_mb": 0.97
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_06/drafts": {
+      "count": 22,
+      "total_size_bytes": 1126016,
+      "total_size_mb": 1.07
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_04/drafts": {
+      "count": 20,
+      "total_size_bytes": 1250336,
+      "total_size_mb": 1.19
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_05/drafts": {
+      "count": 19,
+      "total_size_bytes": 795848,
+      "total_size_mb": 0.76
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_01/drafts": {
+      "count": 17,
+      "total_size_bytes": 829567,
+      "total_size_mb": 0.79
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-39-final-composition": {
+      "count": 16,
+      "total_size_bytes": 101597,
+      "total_size_mb": 0.1
+    },
+    "/Users/alexanderfedin/Projects/Literature": {
+      "count": 15,
+      "total_size_bytes": 293367,
+      "total_size_mb": 0.28
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_02/drafts": {
+      "count": 15,
+      "total_size_bytes": 916884,
+      "total_size_mb": 0.87
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_03/drafts": {
+      "count": 12,
+      "total_size_bytes": 862710,
+      "total_size_mb": 0.82
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-02-chapter1-opening-and-feud": {
+      "count": 11,
+      "total_size_bytes": 28766,
+      "total_size_mb": 0.03
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-04-chapter1-capulets-and-persuasion": {
+      "count": 11,
+      "total_size_bytes": 9360,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-03-chapter1-roman-introduced": {
+      "count": 11,
+      "total_size_bytes": 11370,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_08/drafts": {
+      "count": 11,
+      "total_size_bytes": 349520,
+      "total_size_mb": 0.33
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-01-technical-mastery": {
+      "count": 10,
+      "total_size_bytes": 87343,
+      "total_size_mb": 0.08
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-06-chapter1-revision-and-polish": {
+      "count": 9,
+      "total_size_bytes": 11397,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-38-final-novel-revision": {
+      "count": 9,
+      "total_size_bytes": 330971,
+      "total_size_mb": 0.32
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-07-chapter2-roman-morning-and-persuasion": {
+      "count": 6,
+      "total_size_bytes": 15970,
+      "total_size_mb": 0.02
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-05-chapter1-conclusion": {
+      "count": 6,
+      "total_size_bytes": 5627,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/practice_stanzas": {
+      "count": 6,
+      "total_size_bytes": 127909,
+      "total_size_mb": 0.12
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition": {
+      "count": 3,
+      "total_size_bytes": 25515,
+      "total_size_mb": 0.02
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_08": {
+      "count": 3,
+      "total_size_bytes": 81392,
+      "total_size_mb": 0.08
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_05": {
+      "count": 3,
+      "total_size_bytes": 134954,
+      "total_size_mb": 0.13
+    },
+    "/Users/alexanderfedin/Projects/Literature/analysis": {
+      "count": 2,
+      "total_size_bytes": 66850,
+      "total_size_mb": 0.06
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-35-chapter8-discovery-and-truth": {
+      "count": 2,
+      "total_size_bytes": 31287,
+      "total_size_mb": 0.03
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-36-chapter8-reconciliation-and-monument": {
+      "count": 2,
+      "total_size_bytes": 35466,
+      "total_size_mb": 0.03
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/research/technical_craft": {
+      "count": 2,
+      "total_size_bytes": 115057,
+      "total_size_mb": 0.11
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/planning/structure": {
+      "count": 2,
+      "total_size_bytes": 56225,
+      "total_size_mb": 0.05
+    },
+    "/Users/alexanderfedin/Projects/Literature/planning/structure": {
+      "count": 2,
+      "total_size_bytes": 56894,
+      "total_size_mb": 0.05
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_02": {
+      "count": 2,
+      "total_size_bytes": 70142,
+      "total_size_mb": 0.07
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_04": {
+      "count": 2,
+      "total_size_bytes": 56361,
+      "total_size_mb": 0.05
+    },
+    "/Users/alexanderfedin/Projects/Literature/authors/russian/technical_analysis/versification": {
+      "count": 1,
+      "total_size_bytes": 31462,
+      "total_size_mb": 0.03
+    },
+    "/Users/alexanderfedin/Projects/Literature/authors/russian/pushkin_alexander/research": {
+      "count": 1,
+      "total_size_bytes": 9574,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-22-chapter5-merkury-death": {
+      "count": 1,
+      "total_size_bytes": 3363,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-21-chapter5-confrontation": {
+      "count": 1,
+      "total_size_bytes": 5707,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-31-chapter7-message-failure": {
+      "count": 1,
+      "total_size_bytes": 8538,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-13-chapter3-confrontation-and-approach": {
+      "count": 1,
+      "total_size_bytes": 4780,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-30-chapter6-revision-and-polish": {
+      "count": 1,
+      "total_size_bytes": 7481,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-12-chapter3-feast-and-first-meeting": {
+      "count": 1,
+      "total_size_bytes": 4778,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-25-chapter5-revision-and-polish": {
+      "count": 1,
+      "total_size_bytes": 10414,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-26-chapter6-mourning-and-forced-marriage": {
+      "count": 1,
+      "total_size_bytes": 8663,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-32-chapter7-vault-and-deaths": {
+      "count": 1,
+      "total_size_bytes": 9463,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-17-chapter4-lavrentiy-and-plans": {
+      "count": 1,
+      "total_size_bytes": 5803,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints": {
+      "count": 1,
+      "total_size_bytes": 15804,
+      "total_size_mb": 0.02
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-11-chapter2-revision-and-polish": {
+      "count": 1,
+      "total_size_bytes": 4870,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-09-chapter2-preparations-and-journey": {
+      "count": 1,
+      "total_size_bytes": 2679,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-23-chapter5-roman-vengeance": {
+      "count": 1,
+      "total_size_bytes": 7126,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-20-chapter4-revision-and-polish": {
+      "count": 1,
+      "total_size_bytes": 7369,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-14-chapter3-meeting-and-discovery": {
+      "count": 1,
+      "total_size_bytes": 6532,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-33-chapter7-yulia-death": {
+      "count": 1,
+      "total_size_bytes": 10081,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-34-chapter7-revision-and-polish": {
+      "count": 1,
+      "total_size_bytes": 9609,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-08-chapter2-yulia-preparations": {
+      "count": 1,
+      "total_size_bytes": 2761,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-10-chapter2-arrival-and-first-sight": {
+      "count": 1,
+      "total_size_bytes": 3307,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-16-chapter4-balcony-scene": {
+      "count": 1,
+      "total_size_bytes": 5590,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-37-chapter8-revision-and-polish": {
+      "count": 1,
+      "total_size_bytes": 8997,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-29-chapter6-potion-and-discovery": {
+      "count": 1,
+      "total_size_bytes": 9918,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-27-chapter6-betrayal-and-plan": {
+      "count": 1,
+      "total_size_bytes": 9622,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-24-chapter5-exile-and-parting": {
+      "count": 1,
+      "total_size_bytes": 3379,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-28-chapter6-decision-and-preparation": {
+      "count": 1,
+      "total_size_bytes": 11061,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-15-chapter3-revision-and-polish": {
+      "count": 1,
+      "total_size_bytes": 2437,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-19-chapter4-betrothal-ceremony": {
+      "count": 1,
+      "total_size_bytes": 7324,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/sprints/sprint-18-chapter4-preparations": {
+      "count": 1,
+      "total_size_bytes": 5869,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/research/character_dialogue": {
+      "count": 1,
+      "total_size_bytes": 88646,
+      "total_size_mb": 0.08
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/research/source_material": {
+      "count": 1,
+      "total_size_bytes": 111973,
+      "total_size_mb": 0.11
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/research/resources": {
+      "count": 1,
+      "total_size_bytes": 44673,
+      "total_size_mb": 0.04
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/research/narrative_voice": {
+      "count": 1,
+      "total_size_bytes": 108268,
+      "total_size_mb": 0.1
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/research": {
+      "count": 1,
+      "total_size_bytes": 45947,
+      "total_size_mb": 0.04
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/research/cultural_adaptation": {
+      "count": 1,
+      "total_size_bytes": 44590,
+      "total_size_mb": 0.04
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/research/target_form": {
+      "count": 1,
+      "total_size_bytes": 61729,
+      "total_size_mb": 0.06
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/planning/narrator": {
+      "count": 1,
+      "total_size_bytes": 19624,
+      "total_size_mb": 0.02
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/planning/samples": {
+      "count": 1,
+      "total_size_bytes": 28110,
+      "total_size_mb": 0.03
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/planning/characters": {
+      "count": 1,
+      "total_size_bytes": 20562,
+      "total_size_mb": 0.02
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/planning/adaptation_strategy": {
+      "count": 1,
+      "total_size_bytes": 73297,
+      "total_size_mb": 0.07
+    },
+    "/Users/alexanderfedin/Projects/Literature/projects/romeo_and_juliet_verse_novel/frameworks": {
+      "count": 1,
+      "total_size_bytes": 86374,
+      "total_size_mb": 0.08
+    },
+    "/Users/alexanderfedin/Projects/Literature/planning/narrator": {
+      "count": 1,
+      "total_size_bytes": 20531,
+      "total_size_mb": 0.02
+    },
+    "/Users/alexanderfedin/Projects/Literature/planning": {
+      "count": 1,
+      "total_size_bytes": 15236,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/planning/samples": {
+      "count": 1,
+      "total_size_bytes": 16237,
+      "total_size_mb": 0.02
+    },
+    "/Users/alexanderfedin/Projects/Literature/planning/characters": {
+      "count": 1,
+      "total_size_bytes": 15116,
+      "total_size_mb": 0.01
+    },
+    "/Users/alexanderfedin/Projects/Literature/planning/adaptation_strategy": {
+      "count": 1,
+      "total_size_bytes": 17809,
+      "total_size_mb": 0.02
+    },
+    "/Users/alexanderfedin/Projects/Literature/.claude": {
+      "count": 1,
+      "total_size_bytes": 120,
+      "total_size_mb": 0.0
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_01": {
+      "count": 1,
+      "total_size_bytes": 55091,
+      "total_size_mb": 0.05
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_06": {
+      "count": 1,
+      "total_size_bytes": 64743,
+      "total_size_mb": 0.06
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_07": {
+      "count": 1,
+      "total_size_bytes": 40050,
+      "total_size_mb": 0.04
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_03": {
+      "count": 1,
+      "total_size_bytes": 74525,
+      "total_size_mb": 0.07
+    },
+    "/Users/alexanderfedin/Projects/Literature/composition/chapter_04/frameworks": {
+      "count": 1,
+      "total_size_bytes": 85481,
+      "total_size_mb": 0.08
+    }
+  }
+}

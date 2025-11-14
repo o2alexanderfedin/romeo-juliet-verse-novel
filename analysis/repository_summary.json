@@ -1,0 +1,119 @@
+{
+  "repository_summary": {
+    "name": "Literature - Russian Verse Novel Project",
+    "description": "A comprehensive Shakespeare adaptation (Romeo and Juliet) into Russian verse novel form following Eugene Onegin style",
+    "branch": "develop",
+    "generated": "2025-11-14"
+  },
+  "overview": {
+    "total_content": {
+      "lines": 241098,
+      "words": 1377669,
+      "files": 326
+    },
+    "summary_statement": "A large-scale literary project with 238,898 lines of markdown content organized across research, composition, planning, and sprint documentation"
+  },
+  "major_components": [
+    {
+      "name": "Verse Composition",
+      "lines": 177001,
+      "words": 1063484,
+      "percentage": 74.1,
+      "description": "Complete composition of 14 chapters for Romeo & Juliet verse novel, including stanzas, revisions, and scene commentary"
+    },
+    {
+      "name": "Research & Knowledge Base",
+      "lines": 26506,
+      "words": 134177,
+      "percentage": 11.1,
+      "description": "Comprehensive research on Russian versification, Pushkin's style, Eugene Onegin analysis, character development, and cultural contexts"
+    },
+    {
+      "name": "Project Management",
+      "lines": 28414,
+      "words": 142733,
+      "percentage": 11.9,
+      "description": "Sprint planning, task tracking, delivery summaries, and project roadmaps"
+    },
+    {
+      "name": "Documentation & Indexes",
+      "lines": 6977,
+      "words": 37275,
+      "percentage": 2.9,
+      "description": "Master index, technical quick reference, guidelines, and methodology papers"
+    }
+  ],
+  "file_distribution": {
+    "markdown_files": {
+      "count": 322,
+      "lines": 238898,
+      "words": 1377669,
+      "percentage": 98.8
+    },
+    "json_files": {
+      "count": 2,
+      "lines": 2260,
+      "percentage": 0.9,
+      "location": "analysis/"
+    },
+    "other_files": {
+      "count": 2,
+      "lines": 941,
+      "types": [".txt", ".py"],
+      "percentage": 0.4
+    }
+  },
+  "directory_structure": {
+    "composition": {
+      "chapters": 14,
+      "files": 162,
+      "lines": 177001,
+      "focus": "Actual verse composition (stanzas, narration, dialogue)"
+    },
+    "sprints": {
+      "folders": 39,
+      "files": 122,
+      "lines": 23683,
+      "focus": "Sprint deliverables and task completion"
+    },
+    "planning": {
+      "files": 7,
+      "lines": 4731,
+      "focus": "Project roadmaps and planning documents"
+    },
+    "projects": {
+      "research_guides": 10,
+      "files": 16,
+      "lines": 25352,
+      "focus": "Technical guides on Russian poetry, Eugene Onegin, character development"
+    },
+    "authors": {
+      "files": 2,
+      "lines": 1154,
+      "focus": "Russian poetry fundamentals and Pushkin research"
+    },
+    "root": {
+      "files": 13,
+      "lines": 6977,
+      "focus": "Master indexes, guidelines, methodology"
+    }
+  },
+  "content_insights": {
+    "composition_focus": "74% of the repository is active verse composition, indicating this is primarily a creative writing project",
+    "research_depth": "Comprehensive research base with multiple technical guides and reference materials",
+    "project_maturity": "Well-structured project management across 39 sprints with detailed task tracking",
+    "documentation": "Strong documentation practices with master indexes and quick-reference guides for composition work"
+  },
+  "key_metrics": {
+    "avg_chapter_size": "~12,643 lines",
+    "avg_sprint_files": "~3.1 files per sprint",
+    "avg_file_size": "~742 lines",
+    "most_common_file_type": "markdown (.md)"
+  },
+  "status": {
+    "state": "Active development",
+    "latest_work": "Chapter composition and sprint completion tracking",
+    "research_status": "Complete",
+    "composition_stage": "Phase 2 complete, active composition"
+  }
+}

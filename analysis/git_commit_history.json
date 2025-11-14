@@ -1,0 +1,2251 @@
+[
+  {
+    "hash": "d987645ab7e491cb390859442bb4a65e19abbcfd",
+    "date": "2025-11-14T01:16:46-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Add comprehensive navigatable table of contents to all documents",
+    "files": [
+      {
+        "path": "ACADEMIC_REVIEW_PAPER.md",
+        "insertions": 121,
+        "deletions": 0
+      },
+      {
+        "path": "SOFTWARE_ENGINEERING_METHODOLOGY_PAPER.md",
+        "insertions": 33,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/CHAPTER_1_COMPOSED.md",
+        "insertions": 60,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/CHAPTER_2_COMPOSED.md",
+        "insertions": 55,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/CHAPTER_3_COMPOSED.md",
+        "insertions": 50,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/CHAPTER_4_COMPOSED.md",
+        "insertions": 60,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/CHAPTER_5_COMPOSED.md",
+        "insertions": 65,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/CHAPTER_6_COMPOSED.md",
+        "insertions": 55,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/CHAPTER_7_COMPOSED.md",
+        "insertions": 50,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/CHAPTER_8_COMPOSED.md",
+        "insertions": 45,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "1f5865401b511290c707a85f6a06635310565f31",
+    "date": "2025-11-14T00:48:38-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Add Software Engineering Methodology Paper (foundation)",
+    "files": [
+      {
+        "path": "SE_METHODOLOGY_COMPLETE_PAPER.md",
+        "insertions": 146,
+        "deletions": 0
+      },
+      {
+        "path": "SOFTWARE_ENGINEERING_METHODOLOGY_PAPER.md",
+        "insertions": 430,
+        "deletions": 0
+      },
+      {
+        "path": "SOFTWARE_ENGINEERING_METHODOLOGY_PAPER_APPENDIX.md",
+        "insertions": 9,
+        "deletions": 0
+      },
+      {
+        "path": "SOFTWARE_ENGINEERING_METHODOLOGY_PAPER_BACKUP.md",
+        "insertions": 430,
+        "deletions": 0
+      },
+      {
+        "path": "SOFTWARE_ENGINEERING_METHODOLOGY_PAPER_COMPLETE.md",
+        "insertions": 429,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "3b93049c0514fd7799c09912912268b1facf99a5",
+    "date": "2025-11-13T14:18:36-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Add comprehensive academic review paper",
+    "files": [
+      {
+        "path": "ACADEMIC_REVIEW_PAPER.md",
+        "insertions": 1841,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "05ca05307a107c0ff00f006a235a38e306979303",
+    "date": "2025-11-13T13:33:13-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Add Sprint 39 Final Delivery Summary",
+    "files": [
+      {
+        "path": "SPRINT_39_DELIVERY_SUMMARY.md",
+        "insertions": 274,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "2d3a9e6257b3c6663638363fb85b5f5a84e489d6",
+    "date": "2025-11-13T13:30:53-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 39 Phase 2: Novel Composition - 400 Stanzas",
+    "files": [
+      {
+        "path": "composition/chapter_01/CHAPTER_1_COMPOSED.md",
+        "insertions": 981,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/CHAPTER_2_COMPOSED.md",
+        "insertions": 960,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/CHAPTER_3_COMPOSED.md",
+        "insertions": 879,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/CHAPTER_5_COMPOSED.md",
+        "insertions": 1065,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/CHAPTER_6_COMPOSED.md",
+        "insertions": 1005,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/CHAPTER_7_COMPOSED.md",
+        "insertions": 871,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/CHAPTER_8_COMPOSED.md",
+        "insertions": 798,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/CHAPTER_8_QA_REPORT.md",
+        "insertions": 389,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/NOVEL_COMPLETE_NOTES.md",
+        "insertions": 438,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "38bbc1531e785c16fc202ec816ae85ae6d54ece8",
+    "date": "2025-11-13T12:40:53-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Chapter 4 Composition: The Secret Joy (55 stanzas)",
+    "files": [
+      {
+        "path": "composition/chapter_04/CHAPTER_4_COMPOSED.md",
+        "insertions": 1109,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/CHAPTER_4_COMPOSITION_REPORT.md",
+        "insertions": 266,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "a566980b23052790c75f4e65929973f4b2447867",
+    "date": "2025-11-13T11:45:54-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 39 Phase 1B: Critical Issue Resolution",
+    "files": [
+      {
+        "path": "composition/chapter_02/drafts/FIRST_SIGHT_AUDIT_REPORT.md",
+        "insertions": 931,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_46-50_frameworks.md",
+        "insertions": 297,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/STANZA_54_COMPLETION_REPORT.md",
+        "insertions": 302,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/STANZA_54_ENHANCED_FRAMEWORK.md",
+        "insertions": 2896,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_51-55_frameworks.md",
+        "insertions": 58,
+        "deletions": 4
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_46-48_frameworks.md",
+        "insertions": 651,
+        "deletions": 3
+      },
+      {
+        "path": "composition/chapter_07/drafts/BOTH_DEATHS_AUDIT_REPORT.md",
+        "insertions": 464,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/BOTH_DEATHS_ENHANCEMENT_REPORT.md",
+        "insertions": 342,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/ENHANCEMENT_COMPLETION_REPORT.md",
+        "insertions": 535,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/STANZA_35_ENHANCED.md",
+        "insertions": 502,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/STANZA_36_ENHANCED.md",
+        "insertions": 593,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/STANZA_37_ENHANCED.md",
+        "insertions": 815,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/STANZA_42_ENHANCED.md",
+        "insertions": 749,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/generate_enhancements.py",
+        "insertions": 497,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/st_23-26_enhancement.txt",
+        "insertions": 444,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_22-26_frameworks.md",
+        "insertions": 1907,
+        "deletions": 15
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_27-30_frameworks.md",
+        "insertions": 1045,
+        "deletions": 39
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_31-37_frameworks.md",
+        "insertions": 584,
+        "deletions": 12
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_38-45_frameworks.md",
+        "insertions": 1551,
+        "deletions": 37
+      }
+    ]
+  },
+  {
+    "hash": "8a13e2ab9b3af443eef5223f2f2fa229a6f47068",
+    "date": "2025-11-13T10:42:11-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Add Phase 1B Critical Issue Resolution tasks to Sprint 39",
+    "files": [
+      {
+        "path": "sprints/sprint-39-final-composition/README.md",
+        "insertions": 67,
+        "deletions": 12
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-14-enhance-both-deaths-frameworks.md",
+        "insertions": 246,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-15-complete-lark-nightingale-framework.md",
+        "insertions": 308,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "1ed144a445fbabe131761aa7f9ca4e0ed7db3bd9",
+    "date": "2025-11-13T10:09:53-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Create Sprint 39: Final Novel Composition - URGENT Publisher Delivery",
+    "files": [
+      {
+        "path": "COMPOSITION_PLAN.md",
+        "insertions": 1233,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/README.md",
+        "insertions": 282,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-01-enhance-lark-nightingale-framework.md",
+        "insertions": 183,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-02-audit-both-deaths-sequence.md",
+        "insertions": 206,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-03-expand-potion-scene-framework.md",
+        "insertions": 212,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-04-verify-first-sight-framework.md",
+        "insertions": 175,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-05-compose-chapter-1.md",
+        "insertions": 278,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-06-compose-chapter-2.md",
+        "insertions": 104,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-07-compose-chapter-3.md",
+        "insertions": 93,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-08-compose-chapter-4.md",
+        "insertions": 96,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-09-compose-chapter-5.md",
+        "insertions": 107,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-10-compose-chapter-6.md",
+        "insertions": 93,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-11-compose-chapter-7.md",
+        "insertions": 120,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-12-compose-chapter-8.md",
+        "insertions": 154,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-39-final-composition/task-13-final-qa-and-publication.md",
+        "insertions": 379,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "c693c356e12e70c81de1b7d16ea11476f3236070",
+    "date": "2025-11-13T02:25:55-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 38: Final Novel Revision - Comprehensive Quality Assessment",
+    "files": [
+      {
+        "path": "sprints/sprint-38-final-novel-revision/AUDIT_CHARACTER_ARCS.md",
+        "insertions": 772,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-38-final-novel-revision/AUDIT_CROSS_CHAPTER_CONTINUITY.md",
+        "insertions": 1140,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-38-final-novel-revision/AUDIT_KEY_ADAPTATIONS.md",
+        "insertions": 1016,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-38-final-novel-revision/AUDIT_MEMORABLE_MOMENTS.md",
+        "insertions": 1006,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-38-final-novel-revision/AUDIT_NARRATOR_VOICE_ARC.md",
+        "insertions": 866,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-38-final-novel-revision/AUDIT_THEMATIC_UNITY.md",
+        "insertions": 1359,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-38-final-novel-revision/FINAL_QUALITY_ASSESSMENT.md",
+        "insertions": 731,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-38-final-novel-revision/README.md",
+        "insertions": 150,
+        "deletions": 15
+      }
+    ]
+  },
+  {
+    "hash": "c2b517b54042c3f1819de48f1d09b781b2a47d81",
+    "date": "2025-11-13T01:56:33-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete task-13: Digression Balance Verification across all 8 chapters",
+    "files": [
+      {
+        "path": "sprints/sprint-38-final-novel-revision/AUDIT_DIGRESSION_BALANCE.md",
+        "insertions": 556,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "63796346681edf83ecf69c1ae2504a07848284dd",
+    "date": "2025-11-13T01:07:07-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 37: Chapter 8 Quality Assurance",
+    "files": [
+      {
+        "path": "composition/chapter_08/drafts/AUDIT_CRITICAL_SCENES.md",
+        "insertions": 941,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/drafts/AUDIT_EMOTIONAL_THEMATIC.md",
+        "insertions": 600,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/drafts/AUDIT_NARRATOR_ARC.md",
+        "insertions": 757,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/drafts/AUDIT_TECHNICAL.md",
+        "insertions": 656,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/drafts/CHAPTER_8_FINAL_QUALITY_ASSESSMENT.md",
+        "insertions": 856,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-37-chapter8-revision-and-polish/README.md",
+        "insertions": 144,
+        "deletions": 21
+      }
+    ]
+  },
+  {
+    "hash": "71753bc46252028217ee8f3b4681c1a68395450c",
+    "date": "2025-11-13T00:44:17-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 36: Chapter 8 - Reconciliation and Monument (Stanzas 21-40) NOVEL ENDING FRAMED \u2705",
+    "files": [
+      {
+        "path": "composition/chapter_08/drafts/stanzas_21-24_frameworks.md",
+        "insertions": 725,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/drafts/stanzas_25-40_frameworks.md",
+        "insertions": 473,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-36-chapter8-reconciliation-and-monument/README.md",
+        "insertions": 158,
+        "deletions": 18
+      },
+      {
+        "path": "sprints/sprint-36-chapter8-reconciliation-and-monument/SPRINT_36_SUMMARY.md",
+        "insertions": 644,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "4dd588afc264576dc5e1ef621af82233a233c913",
+    "date": "2025-11-13T00:02:12-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 35: Chapter 8 - Discovery and Truth (Stanzas 1-20)",
+    "files": [
+      {
+        "path": "composition/chapter_08/drafts/stanzas_01-05_frameworks.md",
+        "insertions": 1119,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/drafts/stanzas_06-10_frameworks.md",
+        "insertions": 599,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/drafts/stanzas_11-15_frameworks.md",
+        "insertions": 657,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_08/drafts/stanzas_16-20_frameworks.md",
+        "insertions": 603,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-35-chapter8-discovery-and-truth/README.md",
+        "insertions": 140,
+        "deletions": 10
+      },
+      {
+        "path": "sprints/sprint-35-chapter8-discovery-and-truth/SPRINT_35_SUMMARY.md",
+        "insertions": 595,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "8fd53c46e7feb19eafe9b6d6ef3093c47569cc7b",
+    "date": "2025-11-12T23:33:21-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 34: Chapter 7 Revision and Polish - Quality Assurance",
+    "files": [
+      {
+        "path": "composition/chapter_07/drafts/AUDIT_DRAMATIC_IRONY.md",
+        "insertions": 860,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/AUDIT_LANGUAGE_FLOW.md",
+        "insertions": 688,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/AUDIT_TECHNICAL.md",
+        "insertions": 665,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/CHAPTER_7_FINAL_QUALITY_ASSESSMENT.md",
+        "insertions": 627,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-34-chapter7-revision-and-polish/README.md",
+        "insertions": 159,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "cd1bc31bd7c58718f0e6595bdcc88532155ae11b",
+    "date": "2025-11-12T23:17:33-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 33: Chapter 7 - Yulia's Death and Chapter Conclusion",
+    "files": [
+      {
+        "path": "composition/chapter_07/drafts/SPRINT_33_SUMMARY.md",
+        "insertions": 549,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_31-37_frameworks.md",
+        "insertions": 1075,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_38-45_frameworks.md",
+        "insertions": 708,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-33-chapter7-yulia-death/README.md",
+        "insertions": 158,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "549885157e57e1d377f73ce046e492ded106904a",
+    "date": "2025-11-12T23:02:37-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 32: Chapter 7 - Vault Scene and Both Deaths",
+    "files": [
+      {
+        "path": "composition/chapter_07/drafts/SPRINT_32_SUMMARY.md",
+        "insertions": 489,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_16-21_frameworks.md",
+        "insertions": 271,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_22-26_frameworks.md",
+        "insertions": 483,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_27-30_frameworks.md",
+        "insertions": 801,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-32-chapter7-vault-and-deaths/README.md",
+        "insertions": 157,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "8a08ab86c345ed7ac9b1c2a46b50456747e1c07f",
+    "date": "2025-11-12T22:10:26-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 31: Chapter 7 - Message Failure and False News",
+    "files": [
+      {
+        "path": "composition/chapter_07/drafts/SPRINT_31_SUMMARY.md",
+        "insertions": 524,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_01-06_frameworks.md",
+        "insertions": 2329,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_07-12_frameworks.md",
+        "insertions": 1195,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_07/drafts/stanzas_13-15_frameworks.md",
+        "insertions": 848,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-31-chapter7-message-failure/README.md",
+        "insertions": 143,
+        "deletions": 10
+      }
+    ]
+  },
+  {
+    "hash": "1782c65bfdd5d5e5f590852c61e8064e8e15dfe9",
+    "date": "2025-11-12T16:36:01-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 30: Chapter 6 Revision and Quality Assurance",
+    "files": [
+      {
+        "path": "composition/chapter_06/drafts/AUDIT_CHARACTER_COMPLEXITY.md",
+        "insertions": 526,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/AUDIT_DRAMATIC_IRONY.md",
+        "insertions": 2624,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/AUDIT_LANGUAGE_FLOW.md",
+        "insertions": 783,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/AUDIT_TECHNICAL.md",
+        "insertions": 473,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/AUDIT_YULIA_ARC.md",
+        "insertions": 581,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/CHAPTER_6_FINAL_QUALITY_ASSESSMENT.md",
+        "insertions": 535,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/SPRINT_30_SUMMARY.md",
+        "insertions": 348,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-30-chapter6-revision-and-polish/README.md",
+        "insertions": 112,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "043f8139516bd976cfa1b0995ab5835936698bbf",
+    "date": "2025-11-12T00:25:36-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 29: Chapter 6 - The Potion and Discovery",
+    "files": [
+      {
+        "path": "composition/chapter_06/drafts/SPRINT_29_SUMMARY.md",
+        "insertions": 654,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_46-48_frameworks.md",
+        "insertions": 575,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_49-50_frameworks.md",
+        "insertions": 2201,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-29-chapter6-potion-and-discovery/README.md",
+        "insertions": 159,
+        "deletions": 1
+      }
+    ]
+  },
+  {
+    "hash": "270b038e6c7759d544930ead05292ba3ea3b9f74",
+    "date": "2025-11-11T23:23:56-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 28: Chapter 6 - Decision and Preparation",
+    "files": [
+      {
+        "path": "composition/chapter_06/drafts/SPRINT_28_SUMMARY.md",
+        "insertions": 902,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_31-35_frameworks.md",
+        "insertions": 1576,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_36-40_frameworks.md",
+        "insertions": 1826,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_41-45_frameworks.md",
+        "insertions": 2040,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-28-chapter6-decision-and-preparation/README.md",
+        "insertions": 188,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "3362ab7f20f443a52a0e6229533341619522ba65",
+    "date": "2025-11-11T22:37:27-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 27: Chapter 6 - Matryona's Betrayal and Lavrentiy's Plan",
+    "files": [
+      {
+        "path": "composition/chapter_06/drafts/SPRINT_27_SUMMARY.md",
+        "insertions": 743,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_16-20_frameworks.md",
+        "insertions": 1305,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_21-25_frameworks.md",
+        "insertions": 1132,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_26-30_frameworks.md",
+        "insertions": 1296,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-27-chapter6-betrayal-and-plan/README.md",
+        "insertions": 157,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "1f6edc71158f45c37e5fe01760bb643643f998e3",
+    "date": "2025-11-11T22:00:30-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 26: Chapter 6 - Mourning and Forced Marriage (Stanzas 1-15)",
+    "files": [
+      {
+        "path": "composition/chapter_06/drafts/SPRINT_26_SUMMARY.md",
+        "insertions": 519,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_01-05_frameworks.md",
+        "insertions": 1766,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_06-10_frameworks.md",
+        "insertions": 1142,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_06/drafts/stanzas_11-15_frameworks.md",
+        "insertions": 1228,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-26-chapter6-mourning-and-forced-marriage/README.md",
+        "insertions": 160,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "4a93cc44e7213f18045a1bf53ec6e28439d77b2e",
+    "date": "2025-11-11T21:40:55-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 25: Chapter 5 Revision and Polish - Framework Quality Assurance",
+    "files": [
+      {
+        "path": "composition/chapter_05/ACTION_SCENE_AUDIT_DUELS.md",
+        "insertions": 663,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/KEY_PASSAGES_AUDIT.md",
+        "insertions": 906,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/EMOTIONAL_IMPACT_AUDIT.md",
+        "insertions": 801,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/SPRINT_25_SUMMARY.md",
+        "insertions": 680,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_16-20_frameworks.md",
+        "insertions": 1040,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_21-25_frameworks.md",
+        "insertions": 1461,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_26-30_frameworks.md",
+        "insertions": 993,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_31-35_frameworks.md",
+        "insertions": 5,
+        "deletions": 5
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_36-40_frameworks.md",
+        "insertions": 8,
+        "deletions": 8
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_41-45_frameworks.md",
+        "insertions": 6,
+        "deletions": 6
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_46-50_frameworks.md",
+        "insertions": 5,
+        "deletions": 5
+      },
+      {
+        "path": "sprints/sprint-25-chapter5-revision-and-polish/README.md",
+        "insertions": 170,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "f2c417a9d1e16d7a501360473285dadc50af0e36",
+    "date": "2025-11-11T20:39:33-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 24: Chapter 5 - Exile and Final Night (Stanzas 46-60)",
+    "files": [
+      {
+        "path": "composition/chapter_05/drafts/SPRINT_24_SUMMARY.md",
+        "insertions": 508,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_46-50_frameworks.md",
+        "insertions": 783,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_51-55_frameworks.md",
+        "insertions": 305,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_56-60_frameworks.md",
+        "insertions": 424,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "4ac3511f0ddd25a7a00b7831983d479d782bfd15",
+    "date": "2025-11-11T20:04:52-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 23: Chapter 5 - Roman's Vengeance and Tikhon's Death (Stanzas 31-45)",
+    "files": [
+      {
+        "path": "composition/chapter_05/drafts/SPRINT_23_SUMMARY.md",
+        "insertions": 495,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_31-35_frameworks.md",
+        "insertions": 840,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_36-40_frameworks.md",
+        "insertions": 739,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_41-45_frameworks.md",
+        "insertions": 740,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-23-chapter5-roman-vengeance/README.md",
+        "insertions": 82,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "49f08703628d87de470a8ced2f8ed88f6d7f5066",
+    "date": "2025-11-11T15:30:25-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 21: Chapter 5 - Confrontation and First Duel Setup (Stanzas 1-15)",
+    "files": [
+      {
+        "path": "composition/chapter_05/drafts/SPRINT_21_SUMMARY.md",
+        "insertions": 368,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_01-05_frameworks.md",
+        "insertions": 1615,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_06-10_frameworks.md",
+        "insertions": 740,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_05/drafts/stanzas_11-15_frameworks.md",
+        "insertions": 491,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-21-chapter5-confrontation/README.md",
+        "insertions": 69,
+        "deletions": 11
+      }
+    ]
+  },
+  {
+    "hash": "89d08099ac8529611dc6d19db04185a4da373633",
+    "date": "2025-11-11T13:34:55-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 20: Chapter 4 - Framework Quality Audit and Enhancement",
+    "files": [
+      {
+        "path": "composition/chapter_04/drafts/CHAPTER_4_TECHNICAL_AUDIT.md",
+        "insertions": 352,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/SPRINT_20_SUMMARY.md",
+        "insertions": 429,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-20-chapter4-revision-and-polish/README.md",
+        "insertions": 106,
+        "deletions": 1
+      }
+    ]
+  },
+  {
+    "hash": "aef786dea4b6c05f9843a803ca11735a93570b21",
+    "date": "2025-11-11T13:31:01-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Add enhanced frameworks for Chapter 4 Stanzas 01-10",
+    "files": [
+      {
+        "path": "composition/chapter_04/drafts/stanzas_01-05_frameworks_ENHANCED.md",
+        "insertions": 1206,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_06-10_frameworks_ENHANCED.md",
+        "insertions": 631,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "4be4fc0cace55b387f332f7779abe6a0977aba7d",
+    "date": "2025-11-11T12:46:20-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 19: Chapter 4 - Betrothal Completion & Chapter Conclusion (Stanzas 46-55)",
+    "files": [
+      {
+        "path": "composition/chapter_04/drafts/SPRINT_19_SUMMARY.md",
+        "insertions": 721,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_46-50_frameworks.md",
+        "insertions": 1398,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_51-55_frameworks.md",
+        "insertions": 947,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/frameworks/stanzas_01-05_balcony_scene_frameworks.md",
+        "insertions": 1767,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/frameworks/chapter_4_stanzas_06_10_COMPREHENSIVE_FRAMEWORKS.md",
+        "insertions": 1484,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-19-chapter4-betrothal-ceremony/README.md",
+        "insertions": 77,
+        "deletions": 1
+      }
+    ]
+  },
+  {
+    "hash": "cfb33f6efc923abeb8faaacc255468a084232c33",
+    "date": "2025-11-11T08:45:31-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 18: Chapter 4 - Preparations for Betrothal (Stanzas 31-45)",
+    "files": [
+      {
+        "path": "composition/chapter_04/drafts/SPRINT_18_SUMMARY.md",
+        "insertions": 1169,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_31-35_frameworks.md",
+        "insertions": 2238,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_36-40_frameworks.md",
+        "insertions": 1681,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_41-45_frameworks.md",
+        "insertions": 1867,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-18-chapter4-preparations/README.md",
+        "insertions": 73,
+        "deletions": 9
+      }
+    ]
+  },
+  {
+    "hash": "76c94b4fa28e19f104e63123b7c9a7a4c8e2e83f",
+    "date": "2025-11-11T00:04:08-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 17: Chapter 4 - Otets Lavrentiy and Plans (Stanzas 16-30)",
+    "files": [
+      {
+        "path": "composition/chapter_04/drafts/README.md",
+        "insertions": 79,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/SPRINT_17_SUMMARY.md",
+        "insertions": 1544,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_16-20_frameworks.md",
+        "insertions": 1452,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_21-25_frameworks.md",
+        "insertions": 2736,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_26-30_frameworks.md",
+        "insertions": 2168,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-17-chapter4-lavrentiy-and-plans/README.md",
+        "insertions": 72,
+        "deletions": 8
+      }
+    ]
+  },
+  {
+    "hash": "668cfa960d1c88c3282441eeaa8e1ef42e8d3201",
+    "date": "2025-11-10T23:03:48-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 16: Chapter 4 - Balcony Scene (Stanzas 1-15)",
+    "files": [
+      {
+        "path": "composition/chapter_04/drafts/SPRINT_16_SUMMARY.md",
+        "insertions": 1340,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_01-05_frameworks.md",
+        "insertions": 1767,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_06-10_frameworks.md",
+        "insertions": 1484,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_04/drafts/stanzas_11-15_frameworks.md",
+        "insertions": 1605,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-16-chapter4-balcony-scene/README.md",
+        "insertions": 70,
+        "deletions": 9
+      }
+    ]
+  },
+  {
+    "hash": "3ba0d344ee073d2aedcc758fa013159a21a6e6a4",
+    "date": "2025-11-10T18:54:06-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 14: Chapter 3 - Meeting and Discovery (Stanzas 31-45)",
+    "files": [
+      {
+        "path": "composition/chapter_03/drafts/SPRINT_14_SUMMARY.md",
+        "insertions": 1601,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/drafts/stanzas_31-35_frameworks.md",
+        "insertions": 1822,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/drafts/stanzas_36-40_frameworks.md",
+        "insertions": 1737,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/drafts/stanzas_41-45_frameworks.md",
+        "insertions": 2151,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-14-chapter3-meeting-and-discovery/README.md",
+        "insertions": 72,
+        "deletions": 9
+      }
+    ]
+  },
+  {
+    "hash": "09e0b5e3c88aa828a3c5177ef313675d17f6bb5a",
+    "date": "2025-11-10T18:05:17-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 13: Chapter 3 - Confrontation and Approach (Stanzas 16-30)",
+    "files": [
+      {
+        "path": "composition/chapter_03/drafts/SPRINT_13_SUMMARY.md",
+        "insertions": 1339,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/drafts/stanzas_16-20_frameworks.md",
+        "insertions": 1734,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/drafts/stanzas_21-25_frameworks.md",
+        "insertions": 1032,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/drafts/stanzas_26-30_frameworks.md",
+        "insertions": 1466,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-13-chapter3-confrontation-and-approach/README.md",
+        "insertions": 62,
+        "deletions": 8
+      }
+    ]
+  },
+  {
+    "hash": "1081b60d7e6c164ea6fc750dddf67964f560c2a6",
+    "date": "2025-11-10T17:07:09-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 12: Chapter 3 - The Feast and First Meeting (Stanzas 1-15)",
+    "files": [
+      {
+        "path": "composition/chapter_03/drafts/SPRINT_12_SUMMARY.md",
+        "insertions": 1263,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/drafts/stanzas_01-05_frameworks.md",
+        "insertions": 1767,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/drafts/stanzas_06-10_frameworks.md",
+        "insertions": 1637,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_03/drafts/stanzas_11-15_frameworks.md",
+        "insertions": 1504,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-12-chapter3-feast-and-first-meeting/README.md",
+        "insertions": 59,
+        "deletions": 8
+      }
+    ]
+  },
+  {
+    "hash": "b2b9176ff048031e51189a46266b58bb4d93c661",
+    "date": "2025-11-10T16:20:48-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 11: Chapter 2 - Revision and Polish (Quality Gate)",
+    "files": [
+      {
+        "path": "composition/chapter_02/revision_notes.md",
+        "insertions": 773,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-11-chapter2-revision-and-polish/README.md",
+        "insertions": 61,
+        "deletions": 1
+      }
+    ]
+  },
+  {
+    "hash": "0874e2df93c07f440190c97dedd90a748678953c",
+    "date": "2025-11-10T15:13:18-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 10: Chapter 2 - Arrival and First Sight (Stanzas 46-50)",
+    "files": [
+      {
+        "path": "composition/chapter_02/drafts/SPRINT_10_SUMMARY.md",
+        "insertions": 880,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_46-50_frameworks.md",
+        "insertions": 2016,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-10-chapter2-arrival-and-first-sight/README.md",
+        "insertions": 12,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "a0595effd91148cc378f6bdb11096b3385301eae",
+    "date": "2025-11-10T14:41:07-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 09: Chapter 2 - Preparations and Journey (Stanzas 31-45)",
+    "files": [
+      {
+        "path": "composition/chapter_02/drafts/SPRINT_09_SUMMARY.md",
+        "insertions": 823,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_31-35_frameworks.md",
+        "insertions": 1922,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_36-40_frameworks.md",
+        "insertions": 2037,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_41-45_frameworks.md",
+        "insertions": 1681,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-09-chapter2-preparations-and-journey/README.md",
+        "insertions": 11,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "e8b6196991383c07c3ffc93326548e7b8ac806ae",
+    "date": "2025-11-10T14:08:37-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 08: Chapter 2 - Yulia's Preparations (Stanzas 16-30)",
+    "files": [
+      {
+        "path": "composition/chapter_02/drafts/SPRINT_08_SUMMARY.md",
+        "insertions": 610,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_16-20_frameworks.md",
+        "insertions": 2041,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_21-25_frameworks.md",
+        "insertions": 2022,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_26-30_frameworks.md",
+        "insertions": 1717,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-08-chapter2-yulia-preparations/README.md",
+        "insertions": 11,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "52abba67417229613db1ee28564b23c4df2d8320",
+    "date": "2025-11-10T13:38:15-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 07: Chapter 2 - Roman's Morning and Persuasion (Stanzas 1-15)",
+    "files": [
+      {
+        "path": "composition/chapter_02/drafts/SPRINT_07_SUMMARY.md",
+        "insertions": 576,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_01-05_frameworks.md",
+        "insertions": 1781,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_06-10_frameworks.md",
+        "insertions": 1551,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_02/drafts/stanzas_11-15_frameworks.md",
+        "insertions": 1487,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-07-chapter2-roman-morning-and-persuasion/README.md",
+        "insertions": 11,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "e49194dd5e98508504af6f2f5862aaeb69059262",
+    "date": "2025-11-10T13:21:36-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 05: Chapter 1 - Conclusion (Stanzas 49-55) \u2705 CHAPTER 1 FRAMEWORKS 100% COMPLETE",
+    "files": [
+      {
+        "path": "composition/chapter_01/drafts/SPRINT_05_SUMMARY.md",
+        "insertions": 565,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_49-52_frameworks.md",
+        "insertions": 1572,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_53-55_frameworks.md",
+        "insertions": 1326,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-05-chapter1-conclusion/README.md",
+        "insertions": 7,
+        "deletions": 2
+      }
+    ]
+  },
+  {
+    "hash": "ca8948f39c5c16baf93d42e9dbf0d867753fa341",
+    "date": "2025-11-10T12:53:01-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 04: Chapter 1 - Capulets & Persuasion (Stanzas 31-48)",
+    "files": [
+      {
+        "path": "composition/chapter_01/drafts/SPRINT_04_SUMMARY.md",
+        "insertions": 631,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_31-36_frameworks.md",
+        "insertions": 1528,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_37-42_frameworks.md",
+        "insertions": 1668,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_43-48_frameworks.md",
+        "insertions": 2267,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/README.md",
+        "insertions": 6,
+        "deletions": 2
+      }
+    ]
+  },
+  {
+    "hash": "6d362b44c7acbaee30fcb7361f1ff2ce31446d4b",
+    "date": "2025-11-10T12:15:41-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Complete Sprint 01-03: Technical mastery and Chapter 1 composition frameworks (Stanzas 1-30)",
+    "files": [
+      {
+        "path": ".claude/settings.local.json",
+        "insertions": 10,
+        "deletions": 0
+      },
+      {
+        "path": "CLAUDE.md",
+        "insertions": 263,
+        "deletions": 0
+      },
+      {
+        "path": "INDEX_MASTER.md",
+        "insertions": 414,
+        "deletions": 0
+      },
+      {
+        "path": "INDEX_TECHNICAL_QUICK_REFERENCE.md",
+        "insertions": 389,
+        "deletions": 0
+      },
+      {
+        "path": "README.md",
+        "insertions": 461,
+        "deletions": 0
+      },
+      {
+        "path": "RESEARCH_COMPLETE.md",
+        "insertions": 509,
+        "deletions": 0
+      },
+      {
+        "path": "authors/russian/pushkin_alexander/research/poetry_style_analysis.md",
+        "insertions": 207,
+        "deletions": 0
+      },
+      {
+        "path": "authors/russian/technical_analysis/versification/russian_rhyme_and_meter_guide.md",
+        "insertions": 947,
+        "deletions": 0
+      },
+      {
+        "path": "composition/COMPOSITION_WORKFLOW_CHECKLIST.md",
+        "insertions": 364,
+        "deletions": 0
+      },
+      {
+        "path": "composition/ENVIRONMENT_SETUP_GUIDE.md",
+        "insertions": 232,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/SPRINT_02_SUMMARY.md",
+        "insertions": 415,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/SPRINT_03_SUMMARY.md",
+        "insertions": 582,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_01-03_revision_framework.md",
+        "insertions": 659,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_01-05_frameworks.md",
+        "insertions": 1290,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_01-15_composition_frameworks.md",
+        "insertions": 841,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_06-10_frameworks.md",
+        "insertions": 981,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_11-15_frameworks.md",
+        "insertions": 1457,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_16-20_frameworks.md",
+        "insertions": 1242,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_21-25_frameworks.md",
+        "insertions": 1393,
+        "deletions": 0
+      },
+      {
+        "path": "composition/chapter_01/drafts/stanzas_26-30_frameworks.md",
+        "insertions": 1744,
+        "deletions": 0
+      },
+      {
+        "path": "composition/practice_stanzas/onegin_analysis.md",
+        "insertions": 487,
+        "deletions": 0
+      },
+      {
+        "path": "composition/practice_stanzas/practice_set_01.md",
+        "insertions": 751,
+        "deletions": 0
+      },
+      {
+        "path": "composition/practice_stanzas/readiness_assessment_results.md",
+        "insertions": 689,
+        "deletions": 0
+      },
+      {
+        "path": "composition/practice_stanzas/rhyme_practice_results.md",
+        "insertions": 861,
+        "deletions": 0
+      },
+      {
+        "path": "composition/practice_stanzas/stress_verification_results.md",
+        "insertions": 735,
+        "deletions": 0
+      },
+      {
+        "path": "composition/practice_stanzas/voice_internalization_notes.md",
+        "insertions": 234,
+        "deletions": 0
+      },
+      {
+        "path": "composition/stanza_template.md",
+        "insertions": 170,
+        "deletions": 0
+      },
+      {
+        "path": "planning/PLANNING_COMPLETE.md",
+        "insertions": 419,
+        "deletions": 0
+      },
+      {
+        "path": "planning/adaptation_strategy/adaptation_strategy.md",
+        "insertions": 490,
+        "deletions": 0
+      },
+      {
+        "path": "planning/characters/character_name_mapping.md",
+        "insertions": 423,
+        "deletions": 0
+      },
+      {
+        "path": "planning/narrator/narrator_persona.md",
+        "insertions": 658,
+        "deletions": 0
+      },
+      {
+        "path": "planning/samples/opening_stanzas.md",
+        "insertions": 478,
+        "deletions": 0
+      },
+      {
+        "path": "planning/structure/chapter_01_stanza_plan.md",
+        "insertions": 1076,
+        "deletions": 0
+      },
+      {
+        "path": "planning/structure/chapter_by_chapter_outline.md",
+        "insertions": 1187,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/planning/adaptation_strategy/adaptation_strategy.md",
+        "insertions": 2241,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/planning/characters/character_name_mapping.md",
+        "insertions": 512,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/planning/narrator/narrator_persona.md",
+        "insertions": 550,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/planning/samples/opening_stanzas.md",
+        "insertions": 671,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/planning/structure/chapter_01_stanza_plan.md",
+        "insertions": 433,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/planning/structure/chapter_by_chapter_outline.md",
+        "insertions": 993,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/research/character_dialogue/character_dialogue_techniques.md",
+        "insertions": 2777,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/research/cultural_adaptation/cultural_contexts_guide.md",
+        "insertions": 1249,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/research/narrative_voice/narrator_creation_guide.md",
+        "insertions": 3683,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/research/preparation_requirements_analysis.md",
+        "insertions": 1599,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/research/resources/tools_and_resources_guide.md",
+        "insertions": 1335,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/research/source_material/romeo_and_juliet_complete_analysis.md",
+        "insertions": 2307,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/research/target_form/eugene_onegin_deep_analysis.md",
+        "insertions": 1977,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/research/technical_craft/russian_prosody_complete_guide.md",
+        "insertions": 2585,
+        "deletions": 0
+      },
+      {
+        "path": "projects/romeo_and_juliet_verse_novel/research/technical_craft/verse_novel_craft_guide.md",
+        "insertions": 959,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/SPRINTS_OVERVIEW.md",
+        "insertions": 510,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/README.md",
+        "insertions": 304,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/task-01-environment-setup.md",
+        "insertions": 136,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/task-02-study-onegin-stanza-examples.md",
+        "insertions": 190,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/task-03-practice-rhyme-finding.md",
+        "insertions": 261,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/task-04-stress-verification-practice.md",
+        "insertions": 295,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/task-05-compose-practice-stanzas.md",
+        "insertions": 330,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/task-06-revise-sample-stanzas.md",
+        "insertions": 295,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/task-07-internalize-narrator-voice.md",
+        "insertions": 367,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/task-08-create-composition-workflow.md",
+        "insertions": 354,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-01-technical-mastery/task-09-technical-readiness-assessment.md",
+        "insertions": 381,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/README.md",
+        "insertions": 264,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-01-compose-stanza-01.md",
+        "insertions": 358,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-02-compose-stanza-02.md",
+        "insertions": 75,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-03-compose-stanza-03.md",
+        "insertions": 41,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-04-compose-stanza-04.md",
+        "insertions": 31,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-05-compose-stanza-05.md",
+        "insertions": 32,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-06-compose-stanzas-06-08.md",
+        "insertions": 46,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-07-compose-stanzas-09-10.md",
+        "insertions": 39,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-08-compose-stanzas-11-12.md",
+        "insertions": 38,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-09-compose-stanzas-13-15.md",
+        "insertions": 39,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-02-chapter1-opening-and-feud/task-10-review-and-polish-stanzas-1-15.md",
+        "insertions": 78,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/README.md",
+        "insertions": 99,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-01-compose-stanza-16.md",
+        "insertions": 27,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-02-compose-stanza-17.md",
+        "insertions": 24,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-03-compose-stanza-18.md",
+        "insertions": 24,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-04-compose-stanza-19.md",
+        "insertions": 24,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-05-compose-stanza-20.md",
+        "insertions": 24,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-06-compose-stanzas-21-22.md",
+        "insertions": 32,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-07-compose-stanza-23.md",
+        "insertions": 22,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-08-compose-stanza-24.md",
+        "insertions": 22,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-09-compose-stanzas-25-30.md",
+        "insertions": 27,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-03-chapter1-roman-introduced/task-10-review-and-polish-stanzas-16-30.md",
+        "insertions": 32,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/README.md",
+        "insertions": 71,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-01-compose-stanza-31.md",
+        "insertions": 23,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-02-compose-stanza-32.md",
+        "insertions": 23,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-03-compose-stanza-33.md",
+        "insertions": 23,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-04-compose-stanza-34.md",
+        "insertions": 23,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-05-compose-stanza-35.md",
+        "insertions": 23,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-06-compose-stanzas-36-38.md",
+        "insertions": 22,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-07-compose-stanzas-39-42.md",
+        "insertions": 25,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-08-compose-stanzas-43-45.md",
+        "insertions": 22,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-09-compose-stanzas-46-48.md",
+        "insertions": 28,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-04-chapter1-capulets-and-persuasion/task-10-review-and-polish-stanzas-31-48.md",
+        "insertions": 34,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-05-chapter1-conclusion/README.md",
+        "insertions": 68,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-05-chapter1-conclusion/task-01-compose-stanzas-49.md",
+        "insertions": 25,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-05-chapter1-conclusion/task-02-compose-stanzas-50.md",
+        "insertions": 25,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-05-chapter1-conclusion/task-03-compose-stanzas-51-52.md",
+        "insertions": 23,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-05-chapter1-conclusion/task-04-compose-stanzas-53-55.md",
+        "insertions": 29,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-05-chapter1-conclusion/task-05-review-and-polish-stanzas-49-55.md",
+        "insertions": 28,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-06-chapter1-revision-and-polish/README.md",
+        "insertions": 88,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-06-chapter1-revision-and-polish/task-01-complete-technical-audit.md",
+        "insertions": 47,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-06-chapter1-revision-and-polish/task-02-voice-consistency-audit.md",
+        "insertions": 42,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-06-chapter1-revision-and-polish/task-03-character-voice-audit.md",
+        "insertions": 39,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-06-chapter1-revision-and-polish/task-04-strengthen-weak-rhymes.md",
+        "insertions": 42,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-06-chapter1-revision-and-polish/task-05-polish-forced-language.md",
+        "insertions": 46,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-06-chapter1-revision-and-polish/task-06-optimize-narrative-flow.md",
+        "insertions": 43,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-06-chapter1-revision-and-polish/task-07-complete-read-aloud-test.md",
+        "insertions": 46,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-06-chapter1-revision-and-polish/task-08-final-quality-assessment.md",
+        "insertions": 59,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-07-chapter2-roman-morning-and-persuasion/README.md",
+        "insertions": 105,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-07-chapter2-roman-morning-and-persuasion/task-01-compose-stanzas-1-3.md",
+        "insertions": 80,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-07-chapter2-roman-morning-and-persuasion/task-02-compose-stanzas-4-6.md",
+        "insertions": 58,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-07-chapter2-roman-morning-and-persuasion/task-03-compose-stanzas-7-9.md",
+        "insertions": 64,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-07-chapter2-roman-morning-and-persuasion/task-04-compose-stanzas-10-12.md",
+        "insertions": 71,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-07-chapter2-roman-morning-and-persuasion/task-05-compose-stanzas-13-15.md",
+        "insertions": 77,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-08-chapter2-yulia-preparations/README.md",
+        "insertions": 61,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-09-chapter2-preparations-and-journey/README.md",
+        "insertions": 63,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-10-chapter2-arrival-and-first-sight/README.md",
+        "insertions": 88,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-11-chapter2-revision-and-polish/README.md",
+        "insertions": 90,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-12-chapter3-feast-and-first-meeting/README.md",
+        "insertions": 66,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-13-chapter3-confrontation-and-approach/README.md",
+        "insertions": 65,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-14-chapter3-meeting-and-discovery/README.md",
+        "insertions": 88,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-15-chapter3-revision-and-polish/README.md",
+        "insertions": 72,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-16-chapter4-balcony-scene/README.md",
+        "insertions": 79,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-17-chapter4-lavrentiy-and-plans/README.md",
+        "insertions": 67,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-18-chapter4-preparations/README.md",
+        "insertions": 66,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-19-chapter4-betrothal-ceremony/README.md",
+        "insertions": 89,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-20-chapter4-revision-and-polish/README.md",
+        "insertions": 76,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-21-chapter5-confrontation/README.md",
+        "insertions": 76,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-22-chapter5-merkury-death/README.md",
+        "insertions": 91,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-23-chapter5-roman-vengeance/README.md",
+        "insertions": 85,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-24-chapter5-exile-and-parting/README.md",
+        "insertions": 93,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-25-chapter5-revision-and-polish/README.md",
+        "insertions": 91,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-26-chapter6-mourning-and-forced-marriage/README.md",
+        "insertions": 69,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-27-chapter6-betrayal-and-plan/README.md",
+        "insertions": 90,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-28-chapter6-decision-and-preparation/README.md",
+        "insertions": 80,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-29-chapter6-potion-and-discovery/README.md",
+        "insertions": 96,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-30-chapter6-revision-and-polish/README.md",
+        "insertions": 88,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-31-chapter7-message-failure/README.md",
+        "insertions": 95,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-32-chapter7-vault-and-deaths/README.md",
+        "insertions": 103,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-33-chapter7-yulia-death/README.md",
+        "insertions": 102,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-34-chapter7-revision-and-polish/README.md",
+        "insertions": 98,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-35-chapter8-discovery-and-truth/README.md",
+        "insertions": 95,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-36-chapter8-reconciliation-and-monument/README.md",
+        "insertions": 110,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-37-chapter8-revision-and-polish/README.md",
+        "insertions": 105,
+        "deletions": 0
+      },
+      {
+        "path": "sprints/sprint-38-final-novel-revision/README.md",
+        "insertions": 255,
+        "deletions": 0
+      }
+    ]
+  },
+  {
+    "hash": "ada75e9cfde6a5530b1d88028dada9f3609fcde9",
+    "date": "2025-11-10T12:14:47-08:00",
+    "author": "o2alexanderfedin",
+    "message": "Initial commit",
+    "files": []
+  }
+]

@@ -502,21 +502,295 @@ Roman is dead. Yulia holds his body, cannot accept reality. Shakes him, calls hi
 
 ## Stanza 32: Continuing Anguish - Won't Leave Him
 
-**Detail Level**: OUTLINED (65-80+ stress-marked words, 70-100+ rhyme pairs)
+**Detail Level**: PRAGMATIC ENHANCEMENT (160 vocabulary words, 35-45 rhyme pairs)
 
 ### KEY MOMENT
 
 Continues from St.31. Yulia will not leave Roman's body. Hours? Minutes? Time meaningless. She holds him, speaks to him (though he cannot hear), tells him everything: how she woke, how she thought plan worked, how she saw poison vial and understood. "I caused this. My choice killed you. Forgive me." Vault is cold, she doesn't care. Both of them together in this tomb. She won't leave him. Cannot imagine leaving this vault without him. Her place is here, with him.
 
-**Vocabulary Categories** (8-10, 65-80+ words):
-- Time meaningless (часы́, мину́ты, неважно, потеря́нное вре́мя)
-- Won't leave (не ухо́дит, не покида́ет, оста́нется, здесь навсегда́)
-- Speaks to corpse (говори́т с ним, хотя́ молчи́т, расска́зывает мёртвому)
-- Tells what happened (как проснулась, как по́няла, увидела яд)
-- "I caused this" continuation (моя вина, я убила тебя, прости́)
-- Her place here (её ме́сто, здесь с ним, не уйдёт, склеп их дом)
-- Vault atmosphere (холод, тьма, мра́мор, смерть)
-- Love for dead man (любо́вь к мёртвому, любо́вь сильне́е сме́рти)
+### Vocabulary Bank (160 words, stress-marked)
+
+#### 1. TIME MEANINGLESS (время не важно) - 20 words
+- время [ВРЕ-мя] - time (n)
+- часы́ [ча-СЫ] - hours (pl)
+- мину́ты [ми-НУ-ты] - minutes (pl)
+- секу́нды [се-КУН-ды] - seconds (pl)
+- не зна́ет [не ЗНА-ет] - doesn't know (pres)
+- поте́ряла счёт [по-ТЕ-ря-ла счёт] - lost count
+- безразли́чно [без-раз-ЛИЧ-но] - indifferent, doesn't matter
+- неважно [не-ВАЖ-но] - unimportant
+- всё равно́ [всё рав-НО] - all the same, doesn't matter
+- сколько врéмени [СКОЛЬ-ко ВРЕ-ме-ни] - how much time
+- прошло́ [прош-ЛО] - passed (past)
+- не считает [не СЧИ-та-ет] - doesn't count
+- те́чет [ТЕ-чет] - flows (time) (pres)
+- остановилось [о-ста-но-ВИ-лось] - stopped (past)
+- застыло [за-СТЫ-ло] - froze (past)
+- не существу́ет [не су-ще-СТВу-ет] - doesn't exist
+- бессмы́сленно [бес-СМЫ-слен-но] - meaningless
+- веч ность [ВЕЧ-ность] - eternity (f)
+- длится [ДЛИ-тся] - lasts, goes on (pres)
+- бесконечность [бес-ко-НЕЧ-ность] - infinity (f)
+
+#### 2. WON'T LEAVE HIM (не покинет) - 25 words
+- не покинет [не по-КИ-нет] - won't leave (fut)
+- не уйдёт [не уй-ДЁТ] - won't go away (fut)
+- не оставит [не о-СТА-вит] - won't abandon (fut)
+- останется [ос-ТА-нет-ся] - will remain (fut)
+- здесь [здесь] - here
+- с ним [с ним] - with him
+- рядом [РЯ-дом] - beside, nearby
+- возле него [ВОЗ-ле не-ГО] - near him
+- при нём [при нём] - with him, at him
+- навсегда́ [нав-сег-ДА] - forever
+- навеки [на-ве-КИ] - forever
+- не отойдёт [не о-той-ДЁТ] - won't step away
+- не отпустит [не от-ПУ-стит] - won't let go
+- её место [е-Ё МЕ-сто] - her place
+- место её здесь [МЕ-сто е-Ё здесь] - her place is here
+- не представить [не пред-СТА-вить] - cannot imagine
+- как уйти [как уй-ТИ] - how to leave
+- покинуть склеп [по-КИ-нуть склеп] - to leave vault
+- без него [без не-ГО] - without him
+- невозможно [не-воз-МОЖ-но] - impossible
+- вместе в смерти [ВМЕ-сте в СМЕР-ти] - together in death
+- их склеп [их склеп] - their vault
+- общий гроб [ОБ-щий гроб] - common coffin
+- здесь навсегда [здесь нав-сег-ДА] - here forever
+- их дом [их дом] - their home (vault as)
+
+#### 3. SPEAKS TO CORPSE (говорит с мёртвым) - 20 words
+- говорит [го-во-РИТ] - speaks (pres)
+- шепчет [ШЕП-чет] - whispers (pres)
+- рассказывает [рас-СКА-зы-ва-ет] - tells (pres)
+- ему́ [е-МУ] - to him
+- мёртвому [МЁРТ-во-му] - to dead (one)
+- трупу [ТРУ-пу] - to corpse
+- хотя́ не слы́шит [хо-ТЯ не СЛЫ-шит] - though (he) doesn't hear
+- не отвечает [не от-ве-ЧА-ет] - doesn't answer
+- безмолвен [без-МОЛ-вен] - silent (he is)
+- молчит [мол-ЧИТ] - is silent (pres)
+- но она говорит [но о-НА го-во-РИТ] - but she speaks
+- слова́ [сло-ВА] - words (pl)
+- монолог [мо-но-ЛОГ] - monologue (m)
+- речь к мёртвому [речь к МЁРТ-во-му] - speech to dead
+- обращается [об-ра-ЩА-ет-ся] - addresses (pres)
+- будто жив [БУД-то жив] - as if alive
+- будто слышит [БУД-то СЛЫ-шит] - as if (he) hears
+- исповедь [ИС-по-ведь] - confession (f)
+- признание [приз-НА-ни-е] - admission, confession (n)
+- излива́ет душу́ [из-ли-ВА-ет ду-ШУ] - pours out soul
+
+#### 4. TELLS WHAT HAPPENED (рассказывает) - 25 words
+- рассказывает [рас-СКА-зы-ва-ет] - tells (pres)
+- как проснулась [как прос-НУ-лась] - how (she) woke
+- как очнулась [как оч-НУ-лась] - how (she) came to
+- зелье прошло [ЗЕ-лье прош-ЛО] - potion passed, wore off
+- сон кончился [сон КОН-чил-ся] - sleep ended
+- открыла глаза [от-КРЫ-ла гла-ЗА] - opened eyes
+- в склепе [в СКЛЕ-пе] - in vault
+- холод и тьма [ХО-лод и тьма] - cold and darkness
+- думала план удался [ДУ-ма-ла план у-ДАЛ-ся] - thought plan succeeded
+- ждала спасения [жда-ЛА спа-СЕ-ни-я] - waited for rescue
+- увидела тебя́ [у-ВИ-де-ла те-БЯ] - saw you
+- радость вспыхнула [РА-дость вспЫХ-ну-ла] - joy flared
+- но что-то не так [но что-то не так] - but something wrong
+- увидела склянку [у-ВИ-де-ла СКЛЯН-ку] - saw vial
+- пустую [пу-СТУ-ю] - empty (adj f)
+- в твоей руке [в тво-ЕЙ ру-КЕ] - in your hand
+- яд [яд] - poison (m)
+- поняла [по-НЯ-ла] - understood (past)
+- весть не дошла [весть не до-ШЛА] - message didn't reach
+- ты думал [ты ДУ-мал] - you thought
+- я мертва [я мер-ТВА] - I (am) dead
+- пришёл умереть [при-ШЁЛЬ у-ме-РЕТЬ] - came to die
+- со мной [со мной] - with me
+- план сработал [план сра-БО-тал] - plan worked
+- но провалился [но про-ва-ЛИЛ-ся] - but failed
+
+#### 5. "MY FAULT" (моя вина) - 20 words
+- моя вина [мо-Я ви-НА] - my fault, guilt
+- я причина [я при-ЧИ-на] - I (am) cause
+- я виновата [я ви-но-ВА-та] - I am guilty (f)
+- из-за меня́ [из-за ме-НЯ] - because of me
+- мой выбор [мой ВЫ-бор] - my choice
+- моё решение [мо-Ё ре-ШЕ-ни-е] - my decision
+- я согласилась [я со-гла-СИ-лась] - I agreed
+- приняла зелье [при-НЯ-ла ЗЕ-лье] - took potion
+- притворилась мёртвой [при-тво-РИ-лась МЁРТ-вой] - pretended dead
+- обманула [об-ма-НУ-ла] - deceived (past)
+- все поверили [все по-ВЕ-ри-ли] - all believed
+- и ты поверил [и ты по-ВЕ-рил] - and you believed
+- я убила тебя́ [я у-БИ-ла те-БЯ] - I killed you
+- моими руками [мо-И-ми ру-КА-ми] - by my hands
+- мой план [мой план] - my plan (she feels it was hers)
+- моя́ ошибка [мо-Я о-ШИБ-ка] - my mistake
+- я виновна [я ви-нов-НА] - I am guilty
+- прости меня́ [про-СТИ ме-НЯ] - forgive me
+- прости́ [про-СТИ] - forgive (imperative)
+- молю простить [мо-ЛЮ про-СТИТЬ] - I beg (you) forgive
+
+#### 6. VAULT ATMOSPHERE (атмосфера склепа) - 18 words
+- склеп [склеп] - vault (m)
+- холод [ХО-лод] - cold (m)
+- холодно [хо-ЛОД-но] - cold (adv)
+- стужа́ [сту-ЖА] - severe cold (f)
+- тьма [тьма] - darkness (f)
+- мрак [мрак] - gloom, darkness (m)
+- темнота́ [тем-но-ТА] - darkness (f)
+- камень [КА-мень] - stone (m)
+- мрамор [МРА-мор] - marble (m)
+- своды [СВО-ды] - vaults, arches (pl)
+- стены [СТЕ-ны] - walls (pl)
+- гробница [гроб-НИ-ца] - tomb (f)
+- могила [мо-ГИ-ла] - grave (f)
+- смертный хо́лод [СМЕРТ-ный ХО-лод] - death's cold
+- царство мёртвых [ЦАРСТ-во МЁРТ-вых] - kingdom of dead
+- вечный дом [ВЕЧ-ный дом] - eternal home
+- безмолвие [без-МОЛ-ви-е] - silence (n)
+- гробовая тишь [гро-бо-ВА-я тишь] - deathly silence
+
+#### 7. DOESN'T CARE ABOUT COLD (не заботит холод) - 12 words
+- не замечает [не за-ме-ЧА-ет] - doesn't notice (pres)
+- не чувствует [не ЧУ-вству-ет] - doesn't feel (pres)
+- безразлично [без-раз-ЛИЧ-но] - indifferent
+- всё равно [всё рав-НО] - all the same
+- не важен холод [не ВА-жен ХО-лод] - cold doesn't matter
+- не боится [не бо-ИТ-ся] - doesn't fear (pres)
+- не трогает [не ТРО-га-ет] - doesn't touch, affect (pres)
+- мороз [мо-РОЗ] - frost (m)
+- стужа [сту-ЖА] - severe cold (f)
+- ничего́ не чувствует [ни-че-ГО не ЧУ-ству-ет] - feels nothing
+- онемела [о-не-МЕ-ла] - went numb (past)
+- замёрзла [за-МЁРЗ-ла] - froze (she, past)
+
+#### 8. LOVE FOR DEAD MAN (любовь к мёртвому) - 20 words
+- любовь [лю-БОВЬ] - love (f)
+- любит [ЛЮ-бит] - loves (pres)
+- любимый [лю-БИ-мый] - beloved (m)
+- мёртвый [МЁРТ-вый] - dead (adj m)
+- к мёртвому [к МЁРТ-во-му] - to/for dead (one)
+- любовь сильнее [лю-БОВЬ силь-НЕ-е] - love is stronger
+- сильнее смерти [силь-НЕ-е СМЕР-ти] - stronger than death
+- не умирает [не у-ми-РА-ет] - doesn't die (love)
+- вечная [ВЕЧ-на-я] - eternal (adj f)
+- бессмертная [бес-СМЕРТ-на-я] - immortal (adj f)
+- верность [ВЕР-ность] - fidelity, faithfulness (f)
+- преданность [пре-ДАН-ность] - devotion (f)
+- не покинет [не по-КИ-нет] - won't abandon (fut)
+- будет любить [БУ-дет лю-БИТЬ] - will love (fut)
+- мёртвого [МЁРТ-во-го] - dead (one, gen)
+- как живого [как жи-ВО-го] - as living (one)
+- для неё он жив [для не-Ё он жив] - for her he's alive
+- в её сердце [в е-Ё СЕРД-це] - in her heart
+- душа́ его [ду-ША е-ГО] - his soul
+- здесь с ней [здесь с ней] - here with her
+
+### Rhyme Pair Suggestions (40 pairs total)
+
+#### Feminine Rhymes (20 pairs):
+- время — бремя (time — burden)
+- минуты — забуду ты (minutes — you'll forget, addressing him)
+- не важно — отважно (doesn't matter — bravely, she stays)
+- не покинет — воскликнет (won't leave — will exclaim, she says to him)
+- рядом — взглядом (beside — with gaze)
+- навсегда — никогда (forever — never, won't leave)
+- говорит — молчит (speaks — is silent, he)
+- рассказывает — показывает (tells — shows)
+- проснулась — коснулась (woke — touched)
+- зелье — похмелье (potion — hangover, bitter)
+- склянку — ранку (vial — little wound)
+- поняла — начала (understood — began, telling)
+- моя вина — одна (my fault — alone)
+- я причина — кончина (I cause — death, his)
+- прости́ меня — огня (forgive me — of fire)
+- склепа — слепа (of vault — blind, grief)
+- холода — навсегда (of cold — forever, will stay)
+- не замечает — замирает (doesn't notice — freezes)
+- любовь — кровь (love — blood) [TRITE - use sparingly]
+- сильнее смерти — в бессмертье (stronger than death — in immortality)
+
+#### Masculine Rhymes (20 pairs):
+- здесь — месть (here — vengeance, of fate)
+- с ним — другим (with him — with another, never)
+- навеки — реки (forever — rivers, of tears)
+- склеп — хлеб (vault — bread, life vs death)
+- мрак — так (gloom — so, this way)
+- мёртвый — твёрдый (dead — firm)
+- яд — взгляд (poison — gaze)
+- план — обман (plan — deception)
+- вина — она (fault — she, her guilt)
+- прости — пути (forgive — of path, death's)
+- холод — голод (cold — hunger, death's)
+- дом — гром (home — thunder, vault as eternal home)
+- жив — порыв (alive — impulse, in her heart he lives)
+- тишь — лишь (silence — only)
+- не уйдёт — найдёт (won't leave — will find, peace with him)
+- мрамор — замор (marble — killing frost, archaic)
+- час — нас (hour — us)
+- вместе — месте (together — place)
+- гроб — лоб (coffin — forehead, she kisses his)
+- смерть — твердь (death — firmament)
+
+### Emotional Beat Design (7-8 beats)
+
+**Beat 1** (Lines 1-2): Time Has Stopped
+- Physical: Sits motionless with body
+- Emotional: Time meaningless, lost in grief
+- Line Guidance: L1 (a-fem) time, hours, doesn't know; L2 (B-masc) doesn't matter, all the same
+
+**Beat 2** (Lines 3-4): Won't Leave Him
+- Physical: Holding, sitting beside
+- Emotional: "I won't leave. My place is here."
+- Line Guidance: L3 (a-fem) won't leave, stays with him; L4 (B-masc) forever, her place here
+
+**Beat 3** (Lines 5-6): Speaks to Corpse
+- Physical: Whispers to dead body
+- Emotional: Telling him everything, as if he can hear
+- Line Guidance: cc-fem coupled, speaks to him though silent
+
+**Beat 4** (Lines 7-8): Tells the Story
+- Physical: Narrative gesture
+- Emotional: Confession, explanation, pouring out
+- Line Guidance: DD-masc coupled, how she woke, saw vial, understood
+- Line 8 Stress: CRITICAL - discovery word (яд, поняла)
+
+**Beat 5** (Lines 9-11): "My Fault" Continued
+- Physical: Clutching him tighter
+- Emotional: Self-blame, guilt, begging forgiveness
+- Line Guidance: L9 (e-fem) my fault; L10-11 (FF-masc) caused death, forgive me
+
+**Beat 6** (Line 12): Vault Atmosphere + Doesn't Care
+- Physical: Cold vault, she doesn't notice
+- Emotional: Physical world irrelevant, only him matters
+- Line Guidance: L12 (e-fem) rhymes L9, vault cold but she doesn't care
+
+**Beat 7** (Lines 13-14): Love Stronger Than Death
+- Physical: Embracing dead body
+- Emotional: Love endures, won't abandon, together forever
+- Line Guidance: GG-masc heroic couplet, love theme, transition to decision
+
+### Technical Support
+
+**Connection to St.31**: Continues anguish, deepens it with speech/confession.
+
+**Connection to St.33**: Prepares for decision question ("could she live?").
+
+**Line 8 Mandatory Stress Examples:**
+- ...увидела склянку в руке **ПУСТОЙ** (saw vial in hand empty)
+- ...понял: я мертва, **ЯД** взял (understood: I dead, poison took)
+- ...моя вина, прости, мой **ПУТЬ** (my fault, forgive, my path led here)
+
+**Forbidden Rhyme Vigilance:**
+- ❌ AVOID: говорить, рассказать, простить, покинуть (infinitives)
+- ✅ USE: говорит, рассказала, прости (imperative), не покинет
+
+**Yulia's Voice**:
+- Softer now than screaming (St.30-31)
+- Confessional, intimate
+- Speaking to him as if alive
+- Self-blame (wrong but she feels it)
+- Love overriding everything else
 
 ---
 
@@ -953,13 +1227,311 @@ Question forms in her mind (or narrator asks it): Could Yulia live? Return to wo
 
 ## Stanza 34: Reasons to Live Fail
 
-**Detail Level**: OUTLINED (65-80+ words, 70-100+ pairs)
+**Detail Level**: PRAGMATIC ENHANCEMENT (160 vocabulary words, 35-45 rhyme pairs)
 
 ### KEY MOMENT
 
 Each reason to live examined and rejected. Father? He wanted her to marry Pavel (who died in duel Roman fought). She defied father, married Roman secretly - he'd never forgive. Mother? Dead already (or distant). Friends? What friends? Society? Hates her family's feud. Fame? Beauty? Wealth? All meaningless. Children she'd never have with Roman? Impossible to imagine. Every reason fails. Only one truth remains: life without Roman = not life.
 
-**Vocabulary**: Reasons examined (father, family, society, future, children), all rejected (meaningless, impossible, can't imagine), only one truth (life without him = not life)
+### Vocabulary Bank (160 words, stress-marked)
+
+#### 1. FATHER (отец) - 18 words
+- отец [о-ТЕЦ] - father (m)
+- отца [от-ЦА] - of father (gen)
+- папа [ПА-па] - papa (m, informal)
+- родитель [ро-ДИ-тель] - parent (m)
+- батюшка [БА-тюш-ка] - father (affectionate/archaic) (m)
+- его воля [е-ГО ВО-ля] - his will
+- он хотел [он хо-ТЕЛ] - he wanted
+- женить на Павле [же-НИТЬ на ПАВ-ле] - marry to Pavel
+- приказал [при-ка-ЗАЛ] - ordered (past)
+- ослушалась [о-слу-ША-лась] - disobeyed (she, past)
+- не покорилась [не по-ко-РИ-лась] - didn't submit (past)
+- противилась [про-ТИ-ви-лась] - opposed (past)
+- тайно венчалась [ТАЙ-но вен-ЧА-лась] - secretly wedded
+- с Романом [с Ро-МА-ном] - with Roman
+- предательство [пре-да-ТЕЛЬ-ство] - betrayal (n, in his eyes)
+- не простит [не прос-ТИТ] - won't forgive (fut)
+- никогда [ни-ког-ДА] - never
+- гнев [гнев] - anger, wrath (m)
+
+#### 2. FAMILY (семья) - 18 words
+- семья [семь-Я] - family (f)
+- род [род] - family, clan (m)
+- Капулетти [Ка-пу-ЛЕТ-ти] - Kapuletti (family name)
+- родные [род-НЫ-е] - relatives (pl)
+- близкие [БЛИЗ-ки-е] - close ones (pl)
+- мать [мать] - mother (f)
+- матери нет [МА-те-ри нет] - mother isn't (dead/absent)
+- умерла [у-мер-ЛА] - died (she, past)
+- братья [БРА-тья] - brothers (pl)
+- сестры [СЁ-стры] - sisters (pl)
+- дом отца [дом от-ЦА] - father's house
+- семейство [се-МЕЙ-ство] - household, family (n)
+- долг [долг] - duty (m)
+- обязанность [о-БЯ-зан-ность] - obligation (f)
+- предки [ПРЕД-ки] - ancestors (pl)
+- честь рода [честь РО-да] - honor of clan
+- вражда [враж-ДА] - feud (f)
+- проклятая вражда [прок-ЛЯ-та-я враж-ДА] - accursed feud
+
+#### 3. SOCIETY (общество, свет) - 18 words
+- общество [ОБ-ще-ство] - society (n)
+- свет [свет] - society, high society (m)
+- люди [ЛЮ-ди] - people (pl)
+- все [все] - all, everyone
+- осудят [о-СУ-дят] - will condemn (fut)
+- позор [по-ЗОР] - shame, disgrace (m)
+- скандал [скан-ДАЛ] - scandal (m)
+- бесчестье [бес-ЧЕС-тье] - dishonor (n)
+- клеймо [клей-МО] - brand, stigma (n)
+- молва [мол-ВА] - rumor, talk (f)
+- сплетни [СПЛЕТ-ни] - gossip (pl)
+- что скажут [что СКА-жут] - what will (they) say
+- мнение света [МНЕ-ни-е СВЕ-та] - opinion of society
+- репутация [ре-пу-ТА-ци-я] - reputation (f)
+- доброе имя [ДОБ-ро-е И-мя] - good name
+- утрачено [ут-РА-че-но] - lost (past passive)
+- презрение [пре-ЗРЕ-ни-е] - contempt (n)
+- ненависть [НЕ-на-висть] - hatred (f)
+
+#### 4. FRIENDS (друзья) - 15 words
+- друзья [дру-ЗЬЯ] - friends (pl)
+- подруги [под-РУ-ги] - female friends (pl)
+- какие друзья [ка-КИ-е дру-ЗЬЯ] - what friends
+- нет друзей [нет дру-ЗЕЙ] - no friends
+- одна [од-НА] - alone (she is)
+- одинока [о-ди-НО-ка] - lonely (she is)
+- никто [ник-ТО] - no one
+- ни души [ни ду-ШИ] - not a soul
+- товарищи [то-ВА-ри-щи] - companions (pl)
+- собеседники [со-бе-СЕД-ни-ки] - interlocutors (pl)
+- близкий человек [БЛИЗ-кий че-ло-ВЕК] - close person
+- родная душа [род-НА-я ду-ША] - kindred spirit
+- был только Роман [был ТОЛЬ-ко Ро-МАН] - there was only Roman
+- и нет его [и нет е-ГО] - and he's gone
+- пустота [пус-то-ТА] - emptiness (f)
+
+#### 5. FUTURE (будущее) - 20 words
+- будущее [БУ-ду-ще-е] - future (n)
+- годы впереди [ГО-ды впе-ре-ДИ] - years ahead
+- жизнь [жизнь] - life (f)
+- долгая жизнь [ДОЛ-га-я жизнь] - long life
+- что ждёт [что ждёт] - what awaits
+- чего ждать [че-ГО ждать] - what to wait for
+- смысл [смысл] - meaning, sense (m)
+- цель [цель] - goal, purpose (f)
+- зачем [за-ЧЕМ] - why, what for
+- для чего [для че-ГО] - for what purpose
+- ради чего жить [РА-ди че-ГО жить] - for what to live
+- пустое [пус-ТО-е] - empty (adj n)
+- бессмысленное [бес-СМЫ-слен-но-е] - meaningless (adj n)
+- бесцельное [бес-ЦЕ-льно-е] - aimless (adj n)
+- мечты [меч-ТЫ] - dreams (pl)
+- надежды [на-ДЕЖ-ды] - hopes (pl)
+- все умерли [все у-МЕР-ли] - all died
+- всё погибло [всё по-ГИБ-ло] - all perished
+- нет будущего [нет БУ-ду-ще-го] - no future
+- будущее умерло [БУ-ду-ще-е у-мер-ЛО] - future died
+
+#### 6. CHILDREN (дети) - 18 words
+- дети [ДЕ-ти] - children (pl)
+- ребёнок [ре-БЁ-нок] - child (m/f)
+- младенец [мла-ДЕ-нец] - infant (m)
+- дитя [ди-ТЯ] - child (archaic/poetic) (n)
+- сын [сын] - son (m)
+- дочь [дочь] - daughter (f)
+- материнство [ма-ТЕ-рин-ство] - motherhood (n)
+- не будет детей [не БУ-дет де-ТЕЙ] - won't be children
+- никогда [ни-ког-ДА] - never
+- с ним [с ним] - with him (would have been)
+- его дети [е-ГО ДЕ-ти] - his children
+- наши дети [НА-ши ДЕ-ти] - our children
+- мечтала [меч-ТА-ла] - dreamed (she, past)
+- представляла [пред-став-ЛЯ-ла] - imagined (past)
+- теперь невозможно [те-ПЕРЬ не-воз-МОЖ-но] - now impossible
+- не представить [не пред-СТА-вить] - cannot imagine
+- с другим [с дру-ГИМ] - with another (man)
+- немыслимо [не-МЫ-сли-мо] - unthinkable
+
+#### 7. BEAUTY (красота) - 15 words
+- красота [кра-со-ТА] - beauty (f)
+- красавица [кра-СА-ви-ца] - beauty (woman) (f)
+- прекрасна [прек-РАС-на] - beautiful (she is)
+- молода [мо-ло-ДА] - young (she is)
+- молодость [МО-ло-дость] - youth (f)
+- юность [Ю-ность] - youth (poetic) (f)
+- в расцвете лет [в рас-ЦВЕ-те лет] - in bloom of years
+- расцвет [рас-ЦВЕТ] - bloom, prime (m)
+- и что [и что] - so what
+- какой смысл [ка-КОЙ смысл] - what sense/meaning
+- зачем [за-ЧЕМ] - what for
+- красота бессмысленна [кра-со-ТА бес-СМЫ-слен-на] - beauty is meaningless
+- для кого [для ко-ГО] - for whom
+- никому не нужна [ни-ко-МУ не нуж-НА] - no one needs
+- увянет [у-ВЯ-нет] - will wither (fut)
+
+#### 8. WEALTH (богатство) - 12 words
+- богатство [бо-ГАТ-ство] - wealth (n)
+- деньги [ДЕНЬ-ги] - money (pl)
+- золото [ЗО-ло-то] - gold (n)
+- сокровища [сок-РО-ви-ща] - treasures (pl)
+- приданое [ПРИ-да-но-е] - dowry (n)
+- наследство [на-СЛЕД-ство] - inheritance (n)
+- имущество [И-му-ще-ство] - property (n)
+- богата [бо-ГА-та] - rich (she is)
+- зачем [за-ЧЕМ] - what for
+- что купит [что КУ-пит] - what will (it) buy
+- не купишь счастье [не КУ-пишь СЧАС-тье] - won't buy happiness
+- всё бессмысленно [всё бес-СМЫ-слен-но] - all meaningless
+
+#### 9. ALL MEANINGLESS (всё бессмысленно) - 20 words
+- бессмысленно [бес-СМЫ-слен-но] - meaningless
+- бесполезно [бес-по-ЛЕЗ-но] - useless
+- пусто [ПУС-то] - empty
+- ничего [ни-че-ГО] - nothing
+- всё ничто [всё нич-ТО] - all is nothing
+- не важно [не ВАЖ-но] - doesn't matter
+- безразлично [без-раз-ЛИЧ-но] - indifferent
+- не интересует [не ин-те-ре-СУ-ет] - doesn't interest
+- не трогает [не ТРО-га-ет] - doesn't touch, affect
+- холодно [ХО-лод-но] - cold (emotionally)
+- пустота [пус-то-ТА] - emptiness (f)
+- вакуум [ва-КУ-ум] - vacuum (m)
+- тщета [тще-ТА] - vanity, futility (f)
+- суета [су-е-ТА] - vanity, bustle (f)
+- прах [прах] - dust, ashes (m)
+- дым [дым] - smoke (m)
+- мираж [ми-РАЖ] - mirage (m)
+- иллюзия [ил-ЛЮ-зи-я] - illusion (f)
+- обман [об-МАН] - deception (m)
+- фальшь [фальшь] - falsehood (f)
+
+#### 10. ONLY ONE TRUTH (одна истина) - 24 words
+- только [ТОЛЬ-ко] - only
+- лишь [лишь] - only
+- одна истина [од-НА И-сти-на] - one truth
+- единственное [е-ДИН-ствен-но-е] - only (thing) (adj n)
+- жизнь без него [жизнь без не-ГО] - life without him
+- не жизнь [не жизнь] - not life
+- существование [су-ще-ство-ВА-ни-е] - existence (n)
+- не более [не БО-ле-е] - no more (than)
+- пустая оболочка [пус-ТА-я о-БО-лоч-ка] - empty shell
+- призрак [ПРИ-зрак] - ghost, phantom (m)
+- тень [тень] - shadow (f)
+- не живёт [не жи-ВЁТ] - doesn't live (really)
+- дышит [ДЫ-шит] - breathes
+- но не живёт [но не жи-ВЁТ] - but doesn't live
+- сердце бьётся [СЕРД-це БЬЁТ-ся] - heart beats
+- но мертва душа [но мер-ТВА ду-ША] - but soul is dead
+- он был жизнь [он был жизнь] - he was life
+- её жизнь [е-Ё жизнь] - her life
+- весь смысл [весь смысл] - all meaning
+- всё [всё] - everything
+- нет его [нет е-ГО] - he's gone
+- нет жизни [нет ЖИЗ-ни] - no life
+- проста́я истина [про-СТА-я И-сти-на] - simple truth
+- невыносимая [не-вы-но-СИ-ма-я] - unbearable (adj f)
+
+### Rhyme Pair Suggestions (40 pairs total)
+
+#### Feminine Rhymes (20 pairs):
+- отца — лица (of father — of face)
+- отец — конец (father — end)
+- семья — змея (family — snake, feud)
+- Капулетти — эти (Kapuletti — these)
+- общество — человечество (society — humanity)
+- позор — взор (shame — gaze)
+- друзья — я (friends — I, have none)
+- одна — вина (alone — guilt)
+- будущее — зрящее (future — seeing, nothing)
+- дети — ответить (children — to answer, cannot)
+- материнство — пространство (motherhood — space, empty)
+- красота — пустота (beauty — emptiness)
+- богатство — лекарство (wealth — medicine, won't cure)
+- зачем — всем (what for — to all)
+- бессмысленно — безгласно (meaningless — voicelessly)
+- истина — картина (truth — picture, one truth)
+- без него — ничего (without him — nothing)
+- не жизнь — мысль (not life — thought, simple thought)
+- тень — день (shadow — day, she's just shadow)
+- смысл — мысль (meaning — thought)
+
+#### Masculine Rhymes (20 pairs):
+- отец — венец (father — crown, or end)
+- род — народ (clan — people)
+- свет — нет (society — no, doesn't matter)
+- друзей — дней (of friends — of days)
+- смысл — мысль (meaning — thought)
+- цель — метель (goal — blizzard, lost)
+- дым — ним (smoke — him, without)
+- прах — страх (dust — fear)
+- жить — быть (to live — to be) [both infinitives, careful]
+- сын — один (son — alone, hypothetical)
+- дочь — ночь (daughter — night)
+- золото — молодо (gold — young, but meaningless)
+- пуст — уст (empty — of lips/mouth)
+- ничто — что (nothing — what)
+- он — сон (he — dream, was her life)
+- жив — порыв (alive — impulse, in memory)
+- нет — свет (no — light, or society)
+- душа — ждать (soul — to wait, dead soul won't wait)
+- жизнь — твердь (life — firmament)
+- конец — наконец (end — finally, realizes)
+
+### Emotional Beat Design (6-7 beats)
+
+**Beat 1** (Lines 1-2): Father/Family Examined
+- Physical: None - mental review
+- Emotional: Father? Disobeyed him. Won't forgive.
+- Line Guidance: L1 (a-fem) father, family; L2 (B-masc) disobedience, no forgiveness
+
+**Beat 2** (Lines 3-4): Society/Friends
+- Emotional: Society hates feud. Friends? None. Only Roman.
+- Line Guidance: L3 (a-fem) society, friends; L4 (B-masc) all meaningless, alone
+
+**Beat 3** (Lines 5-6): Future/Children
+- Emotional: Future? What for? Children with him - impossible now.
+- Line Guidance: cc-fem coupled, future empty, children never
+
+**Beat 4** (Lines 7-8): Beauty/Wealth
+- Emotional: Beauty, wealth, all meaningless. So what?
+- Line Guidance: DD-masc coupled, material things rejected
+- Line 8 Stress: CRITICAL - dismissal (зачем, пустО)
+
+**Beat 5** (Lines 9-11): All Meaningless
+- Emotional: Everything examined, everything rejected
+- Line Guidance: L9 (e-fem) all empty; L10-11 (FF-masc) nothing matters
+
+**Beat 6** (Line 12): One Truth
+- Emotional: Only one truth remains
+- Line Guidance: L12 (e-fem) rhymes L9, single truth stated
+
+**Beat 7** (Lines 13-14): Life Without Him = Not Life
+- Emotional: Simple, unbearable truth
+- Line Guidance: GG-masc heroic couplet, equation stated (life without = not life)
+
+### Technical Support
+
+**Connection to St.33**: Follows from question "could she live?" - examines reasons, all fail.
+
+**Connection to St.35**: Leads to decision (since no reason to live, will die).
+
+**Line 8 Mandatory Stress Examples:**
+- ...богатство и краса́ - за**ЧЕМ**? (wealth and beauty - what for?)
+- ...всё это прах и **ДЫМ** (all this is dust and smoke)
+- ...без смысла жизнь пус**ТА** (without meaning life is empty)
+
+**Forbidden Rhyme Vigilance:**
+- ❌ AVOID: жить, быть, представить, родить (infinitives)
+- ✅ USE: жива/живёт, была/будет, не представить (negative phrase OK), роди́ла/родит
+
+**Yulia's Mental Process**:
+- Systematic examination
+- Each reason considered and rejected
+- Not hasty - thoughtful
+- But conclusion inevitable
+- Without him = no life
 
 ---
 
