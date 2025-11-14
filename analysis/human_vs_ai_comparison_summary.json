@@ -27,10 +27,16 @@
     },
     "cost_comparison": {
       "human_total_usd": 459485,
-      "ai_compute_usd": 730,
-      "ai_plus_native_polish_usd": 23000,
-      "cost_reduction_percentage": 95.0,
-      "cost_reduction_factor": 20.0
+      "ai_subscription_monthly_usd": 200,
+      "ai_subscription_note": "Claude Pro subscription at $200/month (project used 5 days of 30-day month)",
+      "ai_amortized_cost_usd": 33,
+      "ai_amortized_calculation": "($200/month) * (5 days / 30 days) = $33.33",
+      "ai_plus_native_polish_conservative_usd": 20800,
+      "ai_plus_native_polish_note": "Using full month subscription ($200) + max native polish ($20,800)",
+      "ai_plus_native_polish_amortized_usd": 20833,
+      "cost_reduction_percentage_conservative": 95.5,
+      "cost_reduction_percentage_amortized": 95.5,
+      "cost_reduction_factor": 22.1
     },
     "quality_summary": {
       "technical_compliance_ai": "100%",
@@ -68,30 +74,38 @@
       }
     },
     "cost_by_phase": {
+      "note": "AI costs reflect $200/month Claude Pro subscription (5-day project duration)",
       "research": {
         "human_usd": 212250,
-        "ai_usd": 75,
-        "savings_percentage": 99.96
+        "ai_subscription_portion_usd": 33,
+        "savings_percentage": 99.98
       },
       "frameworks": {
         "human_usd": 78000,
-        "ai_usd": 100,
-        "savings_percentage": 99.87
+        "ai_subscription_portion_usd": 67,
+        "savings_percentage": 99.91
       },
       "composition": {
         "human_usd": 136000,
-        "ai_usd": 300,
-        "savings_percentage": 99.78
+        "ai_subscription_portion_usd": 67,
+        "savings_percentage": 99.95
       },
       "qa_editing": {
         "human_usd": 17940,
-        "ai_usd": 35,
-        "savings_percentage": 99.80
+        "ai_subscription_portion_usd": 17,
+        "savings_percentage": 99.91
       },
       "documentation": {
         "human_usd": 15295,
-        "ai_usd": 20,
-        "savings_percentage": 99.87
+        "ai_subscription_portion_usd": 16,
+        "savings_percentage": 99.89
+      },
+      "total_all_phases": {
+        "human_usd": 459485,
+        "ai_subscription_full_month_usd": 200,
+        "ai_subscription_amortized_usd": 33,
+        "savings_percentage_vs_full_subscription": 99.96,
+        "savings_percentage_vs_amortized": 99.99
       }
     },
     "productivity_metrics": {
@@ -212,33 +226,49 @@
         "cost_usd": 459485,
         "quality": "98-99% (A+)"
       },
-      "ai_plus_native_polish": {
+      "ai_plus_native_polish_conservative": {
         "ai_time_hours": 85,
         "polish_time_hours": "160-320",
         "total_time_hours": "245-405",
         "time_days": "7-9",
-        "ai_cost_usd": 730,
+        "ai_subscription_usd": 200,
+        "ai_subscription_note": "Full month Claude Pro subscription",
         "polish_cost_usd": "10400-20800",
-        "total_cost_usd": "11130-21530",
+        "total_cost_usd": "10600-21000",
         "quality": "98-99% (A+)",
         "recommended": true
+      },
+      "ai_plus_native_polish_amortized": {
+        "ai_time_hours": 85,
+        "polish_time_hours": "160-320",
+        "total_time_hours": "245-405",
+        "time_days": "7-9",
+        "ai_subscription_amortized_usd": 33,
+        "ai_subscription_note": "5 days of 30-day subscription ($200 * 5/30)",
+        "polish_cost_usd": "10400-20800",
+        "total_cost_usd": "10433-20833",
+        "quality": "98-99% (A+)",
+        "note": "More accurate cost allocation for this specific project"
       },
       "ai_only": {
         "time_hours": 85,
         "time_days": 5,
-        "cost_usd": 730,
+        "subscription_usd": 200,
+        "subscription_note": "Claude Pro $200/month (flat rate, reusable for other projects)",
         "quality": "92-95% (A-)",
         "publication_ready": false
       }
     },
     "roi_analysis": {
-      "ai_investment_usd": 730,
-      "direct_savings_vs_human_usd": 436500,
+      "ai_investment_usd": 200,
+      "ai_investment_note": "Claude Pro subscription ($200/month) - can be used for multiple projects",
+      "direct_savings_vs_human_usd": 438685,
       "time_value_savings_usd": 483893,
-      "total_return_usd": 920393,
-      "roi_multiple": 1260.7,
-      "roi_percentage": 126070,
-      "payback_period": "Immediate (1 week vs 25 months)"
+      "total_return_usd": 922578,
+      "roi_multiple": 4612.9,
+      "roi_percentage": 461190,
+      "payback_period": "Immediate (1 week vs 25 months)",
+      "marginal_cost_note": "If already subscribing to Claude Pro, marginal cost of THIS project is $0"
     },
     "break_even_analysis": {
       "minimum_project_size_stanzas": 10,
@@ -249,19 +279,26 @@
   "per_unit_economics": {
     "cost_per_stanza": {
       "human_usd": 340,
-      "ai_plus_polish_usd": "30-58",
-      "savings_percentage": "88-94"
+      "ai_plus_polish_conservative_usd": "26.5-52.5",
+      "ai_plus_polish_amortized_usd": "26.1-52.1",
+      "calculation": "($200 subscription + $10,400-20,800 polish) / 400 stanzas",
+      "savings_percentage": "84.6-92.2"
     },
     "cost_per_line": {
       "human_usd": 24.29,
-      "ai_plus_polish_usd": "2.14-4.11",
-      "savings_percentage": "83-91"
+      "ai_plus_polish_conservative_usd": "1.89-3.75",
+      "ai_plus_polish_amortized_usd": "1.86-3.72",
+      "calculation": "Total cost / 5,600 lines",
+      "savings_percentage": "84.6-92.2"
     },
     "cost_per_word": {
       "human_usd": 0.333,
-      "ai_plus_polish_usd": "0.009-0.017",
-      "savings_percentage": "95-97"
-    }
+      "ai_plus_polish_conservative_usd": "0.0077-0.0152",
+      "ai_plus_polish_amortized_usd": "0.0076-0.0151",
+      "calculation": "Total cost / 1,377,669 words",
+      "savings_percentage": "95.4-97.7"
+    },
+    "marginal_cost_note": "If already subscribing to Claude Pro for other work, marginal cost of this project = $0 subscription + $10,400-20,800 polish only"
   },
   "commit_history_insights": {
     "total_commits": 45,
@@ -287,10 +324,12 @@
   },
   "key_findings": [
     "AI is 70.9x faster than human professional work (6,024.5 hours vs 85 hours)",
-    "AI + Native Polish is 95%+ cheaper than human-only ($23,000 vs $459,500)",
+    "AI + Native Polish is 95.4-97.7% cheaper than human-only ($10,600-21,000 vs $459,500)",
+    "Actual cost: $200/month Claude Pro subscription + $10,400-20,800 native polish",
     "8 concurrent AI agents achieved 6.1x speedup with 76% efficiency",
     "AI achieves 100% technical compliance but requires 2-4 weeks native speaker polish",
-    "ROI of 1,260x on AI investment with immediate payback",
+    "ROI of 4,613x on AI subscription investment (or infinite if already subscribing)",
+    "Marginal cost: $0 for AI if already subscribing to Claude Pro for other work",
     "Larger projects see even greater ROI due to framework reusability",
     "Timeline compression: 753 days → 5 days (150.6x faster)",
     "AI excels at systematic tasks, struggles with native linguistic intuition",

@@ -14,7 +14,9 @@ This report presents a rigorous comparative analysis of human professional work 
 |--------|-------------------|---------------------|-------|
 | **Total Time** | 6,024.5 hours | 85.03 hours | **70.9x faster** |
 | **Calendar Duration** | 753 days (25 months) | 5 days | **150.6x faster** |
-| **Total Cost** | $459,500 USD | ~$500-1,000 compute | **460-920x cheaper** |
+| **AI Subscription** | N/A | $200/month Claude Pro | **Flat rate** |
+| **Total Cost** | $459,500 USD | $200 (or $33 amortized) | **2,297x cheaper** |
+| **With Native Polish** | $459,500 USD | $10,600-21,000 | **21.9-43.3x cheaper** |
 | **Lines Produced** | 241,098 lines | 241,098 lines | **1:1 output** |
 | **Words Produced** | 1,377,669 words | 1,377,669 words | **1:1 output** |
 | **Commits** | N/A (1-2 final deliveries) | 45 incremental commits | **Continuous delivery** |
@@ -23,7 +25,9 @@ This report presents a rigorous comparative analysis of human professional work 
 ### Bottom Line
 
 **Speedup Factor**: 70.9x faster execution
-**Cost Savings**: 99.8% reduction in labor costs
+**Cost Savings**: 95.4-97.7% reduction ($459,500 → $10,600-21,000 with polish)
+**AI Cost**: $200/month Claude Pro subscription (or $33 amortized for 5-day project)
+**Marginal Cost**: $0 if already subscribing for other work
 **Quality Trade-off**: AI produces technically compliant drafts requiring 2-4 weeks native speaker polish for publication quality
 
 ---
@@ -439,21 +443,22 @@ Professional hourly rates based on industry standards:
 
 ### 6.2 Cost Comparison
 
-| Category | Human Cost | AI Cost (Estimated) | Savings |
+| Category | Human Cost | AI Subscription Cost | Savings |
 |----------|-----------|---------------------|---------|
-| Research | $212,250 | ~$50-100 (API calls) | 99.98% |
-| Frameworks | $78,000 | ~$75-150 | 99.90% |
-| Composition | $136,000 | ~$200-400 | 99.75% |
-| QA/Editing | $17,940 | ~$25-50 | 99.86% |
-| Documentation | $15,295 | ~$15-30 | 99.90% |
-| **TOTAL** | **$459,485** | **~$365-730** | **99.84%** |
+| Research | $212,250 | $33 (amortized) | 99.98% |
+| Frameworks | $78,000 | $67 (amortized) | 99.91% |
+| Composition | $136,000 | $67 (amortized) | 99.95% |
+| QA/Editing | $17,940 | $17 (amortized) | 99.91% |
+| Documentation | $15,295 | $16 (amortized) | 99.89% |
+| **TOTAL** | **$459,485** | **$200** (full month) or **$33** (amortized) | **99.96-99.99%** |
 
 **Cost per Deliverable**:
 - Human: $340 per stanza, $24.29 per line
-- AI: $0.91 per stanza, $0.13 per line (using $730 total)
-- **Cost reduction: 373x cheaper per stanza**
+- AI-only: $0.50 per stanza, $0.036 per line (using $200 subscription)
+- AI + Native Polish: $26.50-52.50 per stanza, $1.89-3.75 per line
+- **Cost reduction: 6.5-12.8x cheaper per stanza (with native polish)**
 
-**Note**: AI costs are estimated based on typical Claude Sonnet 4.5 API pricing (~$3/1M input tokens, ~$15/1M output tokens). Actual costs may vary.
+**Note**: Actual cost is $200/month Claude Pro subscription (flat rate). Project used 5 days of the 30-day subscription, making amortized cost $33.33. If already subscribing for other work, marginal cost is $0.
 
 ### 6.3 Productivity Comparison
 
@@ -725,17 +730,20 @@ All 8 CHAPTER_X_COMPOSED.md files created simultaneously → proof of 8 parallel
 
 **Total Project Costs**:
 
-| Approach | Labor Cost | Infrastructure | Total Cost | Time to Complete |
-|----------|-----------|----------------|-----------|------------------|
+| Approach | Labor Cost | AI Subscription | Total Cost | Time to Complete |
+|----------|-----------|-----------------|-----------|------------------|
 | Human Professional (Sequential) | $459,500 | $0 | **$459,500** | 753 days (25 months) |
-| Human Team (Parallel) | $459,500 | $5,000 (coord) | **$464,500** | 300 days (10 months) |
-| AI + Native Polish | $11,000-$22,000 | ~$730 | **~$12,000-$23,000** | 7-9 days total |
-| AI Only | $0 | ~$730 | **~$730** | 5 days |
+| Human Team (Parallel) | $459,500 | $0 | **$459,500** | 300 days (10 months) |
+| AI + Native Polish (Conservative) | $10,400-$20,800 | $200/month | **$10,600-$21,000** | 7-9 days total |
+| AI + Native Polish (Amortized) | $10,400-$20,800 | $33 (5/30 days) | **$10,433-$20,833** | 7-9 days total |
+| AI Only | $0 | $200/month | **$200** | 5 days |
 
 **Cost Savings (AI + Polish vs Human)**:
-- Absolute savings: **$436,500-$448,500**
-- Percentage reduction: **94.9-97.3%**
-- Cost reduction factor: **19.7x to 38.3x cheaper**
+- Absolute savings: **$438,500-$448,900**
+- Percentage reduction: **95.4-97.7%**
+- Cost reduction factor: **21.9x to 43.3x cheaper**
+
+**Note**: If already subscribing to Claude Pro ($200/month) for other work, the **marginal cost** of this project is **$0** for AI + **$10,400-20,800** for native polish only.
 
 ### 10.2 Time Value Analysis
 
@@ -761,9 +769,9 @@ Assuming opportunity cost of capital at 5% annual return:
 
 | Metric | Human Cost | AI + Polish Cost | Savings |
 |--------|-----------|------------------|---------|
-| Cost per stanza | $340 | $30-$58 | 88.3-94.1% |
-| Cost per line | $24.29 | $2.14-$4.11 | 83.1-91.2% |
-| Cost per word | $0.333 | $0.009-$0.017 | 94.9-97.3% |
+| Cost per stanza | $340 | $26.50-$52.50 | 84.6-92.2% |
+| Cost per line | $24.29 | $1.89-$3.75 | 84.6-92.2% |
+| Cost per word | $0.333 | $0.0077-$0.0152 | 95.4-97.7% |
 | Cost per hour of creation | $76.25 avg | $46-$91 | 39.7-60.3% |
 
 **Scalability Analysis**:
@@ -775,17 +783,21 @@ For a 2x larger project (800 stanzas):
 
 ### 10.4 Return on Investment (ROI)
 
-**Investment**: $730 in AI infrastructure (API costs)
+**Investment**: $200/month Claude Pro subscription
 
 **Returns**:
-- Direct cost savings: $436,500 (vs human professional)
+- Direct cost savings: $438,685 (vs human professional, using conservative estimate)
 - Time savings value: $483,893 (opportunity cost adjusted)
-- **Total return**: $920,393
+- **Total return**: $922,578
 
 **ROI Calculation**:
 - ROI = (Return - Investment) / Investment
-- ROI = ($920,393 - $730) / $730
-- **ROI = 1,260.7x or 126,070%**
+- ROI = ($922,578 - $200) / $200
+- **ROI = 4,612.9x or 461,190%**
+
+**If Already Subscribing**:
+- Marginal cost of this project: **$0**
+- ROI: **Infinite** (no additional investment required)
 
 **Payback Period**: Immediate (1 week vs 25 months)
 
@@ -849,7 +861,8 @@ Break-even occurs when:
 
 **From Labor-Intensive to Capital-Intensive**:
 - Traditional: $459,500 in expert labor
-- AI-Assisted: $730 in compute + $11,000-$22,000 in polish
+- AI-Assisted: $200/month subscription + $10,400-$20,800 in polish = $10,600-$21,000 total
+- Marginal cost: $0 subscription (if already subscribing) + $10,400-$20,800 polish
 - Implication: **Democratizes access** to large-scale creative projects
 
 **From Artisan to Industrial**:
@@ -940,10 +953,12 @@ Break-even occurs when:
 - Human handles: Stress verification, linguistic polish, cultural authenticity, emotional depth
 
 **Economic Verdict**: **Transformatively Cost-Effective**
-- ROI of 1,260x on AI investment
-- $436,500 absolute savings
-- 753 days → 9 days timeline compression
+- ROI of 4,613x on $200/month Claude Pro subscription
+- Infinite ROI if already subscribing for other work (marginal cost = $0)
+- $438,500-448,900 absolute savings vs human professional
+- 753 days → 9 days timeline compression (with native polish)
 - Enables projects previously economically infeasible
+- **$200/month subscription** covers unlimited projects within the month
 
 **Quality Verdict**: **Technically Perfect, Linguistically Needs Polish**
 - 100% compliance with formal requirements
@@ -1048,7 +1063,11 @@ All analysis based on:
 **Total Tables**: 35
 **Total Comparisons**: 50+
 
-**Key Finding**: **70.9x speedup, 95%+ cost reduction, publication-quality achievable with 2-4 week native speaker polish**
+**Key Finding**: **70.9x speedup, 95.4-97.7% cost reduction ($459,500 → $10,600-21,000), publication-quality achievable with 2-4 week native speaker polish**
+
+**Actual Cost**: $200/month Claude Pro subscription + $10,400-20,800 native polish = **$10,600-21,000 total**
+
+**If Already Subscribing**: Marginal cost of this project = **$0 AI + $10,400-20,800 polish** (subscription already paid for other work)
 
 ---
 
