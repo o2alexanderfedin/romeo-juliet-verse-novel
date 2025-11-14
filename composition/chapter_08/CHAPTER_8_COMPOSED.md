@@ -7,6 +7,51 @@
 
 ---
 
+## Содержание / Table of Contents
+
+- [Строфа 1](#stanza-1-discovery---the-bodies-found) | [Stanza 1](#stanza-1-discovery---the-bodies-found)
+- [Строфа 2](#stanza-2-household-in-shock---governor-summoned) | [Stanza 2](#stanza-2-household-in-shock---governor-summoned)
+- [Строфа 3](#stanza-3-governor-arrives---the-official-view) | [Stanza 3](#stanza-3-governor-arrives---the-official-view)
+- [Строфа 4](#stanza-4-kapuletovs-already-here---montyagins-summoned) | [Stanza 4](#stanza-4-kapuletovs-already-here---montyagins-summoned)
+- [Строфа 5](#stanza-5-both-families-arrive---scene-of-horror) | [Stanza 5](#stanza-5-both-families-arrive---scene-of-horror)
+- [Строфа 6](#stanza-6-digression---how-quickly-violence-ends) | [Stanza 6](#stanza-6-digression---how-quickly-violence-ends)
+- [Строфа 7](#stanza-7-digression---parents-grief-genuine-overwhelming) | [Stanza 7](#stanza-7-digression---parents-grief-genuine-overwhelming)
+- [Строфа 8](#stanza-8-digression---the-vault-scene-visual-atmospheric) | [Stanza 8](#stanza-8-digression---the-vault-scene-visual-atmospheric)
+- [Строфа 9](#stanza-9-digression---ancient-grudge-now-meaningless) | [Stanza 9](#stanza-9-digression---ancient-grudge-now-meaningless)
+- [Строфа 10](#stanza-10-lavrentiy-steps-forward---i-can-explain) | [Stanza 10](#stanza-10-lavrentiy-steps-forward---i-can-explain)
+- [Строфа 11](#stanza-11-secret-betrothal-revealed) | [Stanza 11](#stanza-11-secret-betrothal-revealed)
+- [Строфа 12](#stanza-12-the-plan-explained---potion-and-message) | [Stanza 12](#stanza-12-the-plan-explained---potion-and-message)
+- [Строфа 13](#stanza-13-message-failure---catastrophe) | [Stanza 13](#stanza-13-message-failure---catastrophe)
+- [Строфа 14](#stanza-14-romans-suicide-explained) | [Stanza 14](#stanza-14-romans-suicide-explained)
+- [Строфа 15](#stanza-15-julias-suicide-explained) | [Stanza 15](#stanza-15-julias-suicide-explained)
+- [Строфа 16](#stanza-16-realization-dawns---the-feud-killed-them) | [Stanza 16](#stanza-16-realization-dawns---the-feud-killed-them)
+- [Строфа 17](#stanza-17-digression---if-no-feud) | [Stanza 17](#stanza-17-digression---if-no-feud)
+- [Строфа 18](#stanza-18-grorys-guilt---forced-marriage) | [Stanza 18](#stanza-18-grorys-guilt---forced-marriage)
+- [Строфа 19](#stanza-19-vladimirs-guilt---exile-and-feud) | [Stanza 19](#stanza-19-vladimirs-guilt---exile-and-feud)
+- [Строфа 20](#stanza-20-digression---feuds-irrationality-and-price) | [Stanza 20](#stanza-20-digression---feuds-irrationality-and-price)
+- [Строфа 21](#stanza-21-silence-after-guilt---moment-before-reconciliation) | [Stanza 21](#stanza-21-silence-after-guilt---moment-before-reconciliation)
+- [Строфа 22](#stanza-22-grigory-extends-hand---brother-montague) | [Stanza 22](#stanza-22-grigory-extends-hand---brother-montague)
+- [Строфа 23](#stanza-23-vladimir-takes-hand---reconciliation-complete) | [Stanza 23](#stanza-23-vladimir-takes-hand---reconciliation-complete)
+- [Строфа 24](#stanza-24-witnessed---the-ancient-grudge-buried) | [Stanza 24](#stanza-24-witnessed---the-ancient-grudge-buried)
+- [Строфа 25](#stanza-25-feud-ended---what-it-took) | [Stanza 25](#stanza-25-feud-ended---what-it-took)
+- [Строфа 26](#stanza-26-youth-vs-age---young-lovers-old-hatred) | [Stanza 26](#stanza-26-youth-vs-age---young-lovers-old-hatred)
+- [Строфа 27](#stanza-27-what-old-can-learn-from-young-too-late) | [Stanza 27](#stanza-27-what-old-can-learn-from-young-too-late)
+- [Строфа 28](#stanza-28-parents-failed-their-children) | [Stanza 28](#stanza-28-parents-failed-their-children)
+- [Строфа 29](#stanza-29-monument-proposed) | [Stanza 29](#stanza-29-monument-proposed)
+- [Строфа 30](#stanza-30-never-was-story-of-more-woe---russian-adaptation) | [Stanza 30](#stanza-30-never-was-story-of-more-woe---russian-adaptation)
+- [Строфа 31](#stanza-31-monument-purpose---remember-warn-honor) | [Stanza 31](#stanza-31-monument-purpose---remember-warn-honor)
+- [Строфа 32](#stanza-32-monument-details---what-it-will-show) | [Stanza 32](#stanza-32-monument-details---what-it-will-show)
+- [Строфа 33](#stanza-33-memory-and-forgetting---will-they-be-remembered) | [Stanza 33](#stanza-33-memory-and-forgetting---will-they-be-remembered)
+- [Строфа 34](#stanza-34-stories-and-their-power) | [Stanza 34](#stanza-34-stories-and-their-power)
+- [Строфа 35](#stanza-35-fate-vs-free-will---both-inseparable) | [Stanza 35](#stanza-35-fate-vs-free-will---both-inseparable)
+- [Строфа 36](#stanza-36-loves-power-and-tragedy) | [Stanza 36](#stanza-36-loves-power-and-tragedy)
+- [Строфа 37](#stanza-37-moscow-and-time---life-goes-on) | [Stanza 37](#stanza-37-moscow-and-time---life-goes-on)
+- [Строфа 38](#stanza-38-narrator-as-keeper-of-memory) | [Stanza 38](#stanza-38-narrator-as-keeper-of-memory)
+- [Строфа 39](#stanza-39-connection-to-reader---direct-address) | [Stanza 39](#stanza-39-connection-to-reader---direct-address)
+- [Строфа 40](#stanza-40-novel-ends---final-lines-critical---novels-last-stanza) | [Stanza 40](#stanza-40-novel-ends---final-lines-critical---novels-last-stanza)
+
+---
+
 ## STANZA 1: Discovery - The Bodies Found
 
 Рассвéт пятóго дня занимáлся,

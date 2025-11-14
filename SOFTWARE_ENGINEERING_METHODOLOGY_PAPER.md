@@ -18,6 +18,39 @@ This experiment contributes to both computer science (LLM applications in creati
 
 ---
 
+## Table of Contents
+
+- [Abstract](#abstract)
+- [1. Introduction](#1-introduction)
+  - [1.1 The Experiment: Engineering Meets Literature](#11-the-experiment-engineering-meets-literature)
+  - [1.2 Motivation: Why Apply SE to Literature?](#12-motivation-why-apply-se-to-literature)
+  - [1.3 Research Questions](#13-research-questions)
+  - [1.4 Contributions](#14-contributions)
+  - [1.5 Paper Organization](#15-paper-organization)
+- [2. Background and Related Work](#2-background-and-related-work)
+  - [2.1 Software Engineering Methodologies](#21-software-engineering-methodologies)
+    - [2.1.1 Agile and SCRUM](#211-agile-and-scrum)
+    - [2.1.2 Kanban](#212-kanban)
+    - [2.1.3 Test-Driven Development (TDD)](#213-test-driven-development-tdd)
+    - [2.1.4 Pair Programming](#214-pair-programming)
+  - [2.2 Large Language Models in Creative Work](#22-large-language-models-in-creative-work)
+  - [2.3 Computational Creativity](#23-computational-creativity)
+  - [2.4 Systematic Approaches to Literature](#24-systematic-approaches-to-literature)
+  - [2.5 Human-AI Collaboration Models](#25-human-ai-collaboration-models)
+- [3. Experimental Methodology](#3-experimental-methodology)
+  - [3.1 Project Overview](#31-project-overview)
+  - [3.2 Sprint Structure (Agile/SCRUM)](#32-sprint-structure-agile-scrum)
+    - [Sprint 35: Research Phase - Russian Prosody](#sprint-35-research-phase-russian-prosody)
+    - [Sprint 36: Research Phase - Character and Narrator](#sprint-36-research-phase-character-and-narrator)
+    - [Sprint 37: Research Phase - Culture and Tools](#sprint-37-research-phase-culture-and-tools)
+    - [Sprint 38: Framework Development and QA](#sprint-38-framework-development-and-qa)
+    - [Sprint 39: Critical Enhancement and Composition](#sprint-39-critical-enhancement-and-composition)
+  - [3.3 Task Management (Kanban)](#33-task-management-kanban)
+  - [3.4 Test-Driven Development Adaptation](#34-test-driven-development-adaptation)
+  - [3.5 Pair Programming: Human-LLM Model](#35-pair-programming-human-llm-model)
+
+---
+
 ## 1. Introduction
 
 ### 1.1 The Experiment: Engineering Meets Literature
