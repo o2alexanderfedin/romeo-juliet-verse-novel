@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-14T00:00:00Z",
+    "repository": "Literature",
+    "branch": "develop",
+    "description": "Comprehensive repository code/content metrics"
+  },
+  "totals": {
+    "total_lines": 241098,
+    "total_words": 1377669,
+    "total_files": 326
+  },
+  "by_type": {
+    "markdown": {
+      "extension": ".md",
+      "files": 322,
+      "lines": 238898,
+      "words": 1377669
+    },
+    "json": {
+      "extension": ".json",
+      "files": 2,
+      "lines": 2260,
+      "words": null,
+      "note": "JSON files in analysis/ directory"
+    },
+    "other": {
+      "extensions": [".txt", ".py"],
+      "files": 2,
+      "lines": 941,
+      "words": null
+    }
+  },
+  "by_directory": {
+    "root": {
+      "path": "/Literature",
+      "markdown_files": 13,
+      "markdown_lines": 6977,
+      "markdown_words": 37275,
+      "contents": [
+        "ACADEMIC_REVIEW_PAPER.md",
+        "CLAUDE.md",
+        "COMPOSITION_PLAN.md",
+        "INDEX_MASTER.md",
+        "INDEX_TECHNICAL_QUICK_REFERENCE.md",
+        "README.md",
+        "RESEARCH_COMPLETE.md",
+        "SE_METHODOLOGY_COMPLETE_PAPER.md",
+        "SOFTWARE_ENGINEERING_METHODOLOGY_PAPER_APPENDIX.md",
+        "SOFTWARE_ENGINEERING_METHODOLOGY_PAPER_BACKUP.md",
+        "SOFTWARE_ENGINEERING_METHODOLOGY_PAPER_COMPLETE.md",
+        "SOFTWARE_ENGINEERING_METHODOLOGY_PAPER.md",
+        "SPRINT_39_DELIVERY_SUMMARY.md"
+      ]
+    },
+    "composition": {
+      "path": "/Literature/composition",
+      "markdown_files": 162,
+      "markdown_lines": 177001,
+      "markdown_words": 1063484,
+      "description": "Verse novel composition across 14 chapters"
+    },
+    "sprints": {
+      "path": "/Literature/sprints",
+      "markdown_files": 122,
+      "markdown_lines": 23683,
+      "markdown_words": 122986,
+      "description": "Sprint planning and delivery documentation"
+    },
+    "planning": {
+      "path": "/Literature/planning",
+      "markdown_files": 7,
+      "markdown_lines": 4731,
+      "markdown_words": 19747,
+      "description": "Project planning and roadmap documents"
+    },
+    "projects": {
+      "path": "/Literature/projects",
+      "markdown_files": 16,
+      "markdown_lines": 25352,
+      "markdown_words": 128381,
+      "description": "Research documentation for verse novel project"
+    },
+    "authors": {
+      "path": "/Literature/authors",
+      "markdown_files": 2,
+      "markdown_lines": 1154,
+      "markdown_words": 5796,
+      "description": "Russian poetry and Pushkin research"
+    }
+  },
+  "breakdown": {
+    "composition_percentage": 74.1,
+    "sprints_percentage": 9.9,
+    "planning_percentage": 2.0,
+    "projects_percentage": 10.6,
+    "authors_percentage": 0.5,
+    "root_percentage": 2.9
+  },
+  "categories": {
+    "research": {
+      "directories": ["projects/", "authors/"],
+      "total_lines": 26506,
+      "total_words": 134177,
+      "description": "All research documentation"
+    },
+    "composition": {
+      "directories": ["composition/"],
+      "total_lines": 177001,
+      "total_words": 1063484,
+      "description": "Verse novel chapters and scenes"
+    },
+    "project_management": {
+      "directories": ["sprints/", "planning/"],
+      "total_lines": 28414,
+      "total_words": 142733,
+      "description": "Sprint tracking and project planning"
+    },
+    "documentation": {
+      "directories": ["root"],
+      "total_lines": 6977,
+      "total_words": 37275,
+      "description": "Index, guides, and methodology documentation"
+    }
+  },
+  "statistics": {
+    "avg_file_size_lines": 742,
+    "avg_file_size_words": 4269,
+    "largest_category": "composition",
+    "largest_category_lines": 177001,
+    "largest_category_percentage": 74.1
+  }
+}
