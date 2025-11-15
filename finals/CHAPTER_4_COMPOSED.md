@@ -1,4 +1,8 @@
-# Chapter 4: "The Secret Joy" (Тайная радость)
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_3_COMPOSED.md) | **Chapter 4 of 8** | [Next →](CHAPTER_5_COMPOSED.md)
+
+---
+
+# Chapter 4: "The Balcony" (Балкон)
 ## Romeo and Juliet Verse Novel in Russian
 ### Complete Composition - 55 Stanzas (770 lines)
 
@@ -1364,3 +1368,7 @@ All 55 stanzas composed with:
 - Shakespeare parallels honored while Russified
 - Dramatic arc: Secret joy → Violence → Separation → Desperate plan
 - Foreshadowing of tragedy throughout
+
+---
+
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_3_COMPOSED.md) | **Chapter 4 of 8** | [Next →](CHAPTER_5_COMPOSED.md)

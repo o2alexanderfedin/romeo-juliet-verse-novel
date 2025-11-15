@@ -1,4 +1,8 @@
-# Глава Седьмая: Склеп (Chapter 7: The Tomb)
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_6_COMPOSED.md) | **Chapter 7 of 8** | [Next →](CHAPTER_8_COMPOSED.md)
+
+---
+
+# Глава Седьмая: Склеп (Chapter 7: The Vault)
 
 **Complete Composition - 45 Stanzas**
 
@@ -1003,3 +1007,7 @@
 - **St.43-45: Aftermath, universal themes (NEW - philosophical close)**
 
 **Report**: COMPLETE: 45/45 stanzas composed, climax devastating, novel's heart delivered.
+
+---
+
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_6_COMPOSED.md) | **Chapter 7 of 8** | [Next →](CHAPTER_8_COMPOSED.md)

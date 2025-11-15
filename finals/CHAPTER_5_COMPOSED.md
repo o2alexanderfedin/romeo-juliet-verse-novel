@@ -1,3 +1,7 @@
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_4_COMPOSED.md) | **Chapter 5 of 8** | [Next →](CHAPTER_6_COMPOSED.md)
+
+---
+
 # ГЛАВА ПЯТАЯ: "ПОВОРОТ МЕЧА"
 # CHAPTER FIVE: "THE SWORD'S TURN"
 
@@ -1435,3 +1439,7 @@ This stanza achieves GOLD STANDARD: heartrending, true to source, fully Russian,
 ---
 
 **ГОТОВО / COMPLETE**
+
+---
+
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_4_COMPOSED.md) | **Chapter 5 of 8** | [Next →](CHAPTER_6_COMPOSED.md)

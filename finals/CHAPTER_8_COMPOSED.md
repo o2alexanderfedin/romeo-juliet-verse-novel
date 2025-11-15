@@ -1,3 +1,7 @@
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_7_COMPOSED.md) | **Chapter 8 of 8**
+
+---
+
 # Chapter 8: "The Monument"
 ## Romeo and Juliet: A Verse Novel in Russian
 ### 40 Stanzas - The Novel's Conclusion
@@ -780,3 +784,11 @@ Critical moments achieved:
 - Final philosophical reflections and narrator farewell (St.35-40)
 
 The composition requires verification of meter, rhyme quality, and stress patterns before final QA.
+
+---
+
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_7_COMPOSED.md) | **Chapter 8 of 8**
+
+---
+
+**THE END / КОНЕЦ**

@@ -1,4 +1,9 @@
+[🏠 Home](TABLE_OF_CONTENTS.md) | **Chapter 1 of 8** | [Next Chapter →](CHAPTER_2_COMPOSED.md)
+
+---
+
 # Chapter 1: The Prologue and the Feud
+## Глава Первая: Пролог и Вражда
 ## Complete Composition - 55 Stanzas
 ### Russian Verse Novel in Iambic Tetrameter
 
@@ -1021,4 +1026,6 @@
 
 **END OF CHAPTER 1: THE PROLOGUE AND THE FEUD**
 
-*Next: Chapter 2 - The Feast (Пир)*
+---
+
+[🏠 Home](TABLE_OF_CONTENTS.md) | **Chapter 1 of 8** | [Next Chapter →](CHAPTER_2_COMPOSED.md)

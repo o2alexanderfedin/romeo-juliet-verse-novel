@@ -1,5 +1,9 @@
-# ГЛАВА ТРЕТЬЯ
-## Пир
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_2_COMPOSED.md) | **Chapter 3 of 8** | [Next →](CHAPTER_4_COMPOSED.md)
+
+---
+
+# ГЛАВА ТРЕТЬЯ: САД
+## Chapter 3: The Garden
 
 ### Строфа 1
 
@@ -867,3 +871,7 @@
 - Метр: Ямбический тетраметр
 - Рифма: Точная/богатая (соотношение ~45-50%)
 - Запретные рифмы: Исключены (проверено)
+
+---
+
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_2_COMPOSED.md) | **Chapter 3 of 8** | [Next →](CHAPTER_4_COMPOSED.md)
