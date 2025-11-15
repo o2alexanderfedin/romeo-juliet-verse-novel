@@ -1,3 +1,7 @@
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_5_COMPOSED.md) | **Chapter 6 of 8** | [Next →](CHAPTER_7_COMPOSED.md)
+
+---
+
 # CHAPTER 6: THE POTION / ЗЕЛЬЕ
 
 **Romeo & Juliet Verse Novel in Russian**
@@ -1131,4 +1135,6 @@
 Любóвь и смерть — соединúлись — трагéдия в веке́.
 
 ---
+
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_5_COMPOSED.md) | **Chapter 6 of 8** | [Next →](CHAPTER_7_COMPOSED.md)
 

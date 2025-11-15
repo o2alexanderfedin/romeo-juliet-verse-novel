@@ -1,3 +1,7 @@
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_1_COMPOSED.md) | **Chapter 2 of 8** | [Next →](CHAPTER_3_COMPOSED.md)
+
+---
+
 # Глава Вторая: Бал
 ## Chapter 2: The Ball
 ### 50 Stanzas - Complete Composition
@@ -988,3 +992,7 @@ Stanzas 49-50 (First Sight) composed with:
 
 **NEXT STEP REQUIRED:**
 Complete stanzas 25-45 (full atmospheric buildup to maintain pacing and narrative flow).
+
+---
+
+[🏠 Home](TABLE_OF_CONTENTS.md) | [← Previous](CHAPTER_1_COMPOSED.md) | **Chapter 2 of 8** | [Next →](CHAPTER_3_COMPOSED.md)
